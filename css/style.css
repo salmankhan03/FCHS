@@ -57,10 +57,11 @@
  font-family: 'Rufina', serif;
  font-family: 'Lora', serif;
  font-family: 'Playfair Display', serif; */
+
  
- @import url('pe-icon-7-stroke.css');
- @import url('simple-line-icons.css');
- @import url('fontawesome-all.css');
+ @import url('https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-icon-7-stroke.min.css');
+ @import url('https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.css');
+ @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
  @import url('animate.css');
  @import url('flaticon.css');
  @import url('owl.css');
@@ -511,9 +512,9 @@
      font-size: 14px;
      line-height: 24px;
      color: #be9a8d;
-     content: "\f1ae";
+     content: "\f00c ";
      font-weight:700;
-     font-family: "Flaticon";
+     font-family: "Font Awesome 5 Free";
  }
  
  .list-style-one li a:hover{

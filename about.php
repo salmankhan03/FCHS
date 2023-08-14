@@ -82,7 +82,7 @@
 								<h4 style="color: #fff">Our Services</h4>
 								<div style="color: #fff" class="text">Your loved one's unique wishes and what makes them happy. Your loved one's unique wishes and what makes them happy. Your loved one's unique wishes and what makes them happy.</div>
                                 <div class="btn-box" style="margin-top: 20px">
-                                    <a href="contact.html" class="theme-btn btn-style-one"><span class="txt">Ask a Question</span></a>
+                                    <a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Ask a Question</span></a>
                                 </div>
 							</div>
 						</div>

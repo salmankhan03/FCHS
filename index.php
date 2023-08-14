@@ -98,7 +98,7 @@
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":1000,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
                         <div class="link-box">
-                            <a href="about.html" class="theme-btn btn-style-one"><span class="txt">Learn more</span></a>
+                            <a href="about.php" class="theme-btn btn-style-one"><span class="txt">Learn more</span></a>
                         </div>
                     </div>
                     
@@ -162,7 +162,7 @@
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":1000,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
                         <div class="link-box">
-                            <a href="about.html" class="theme-btn btn-style-one"><span class="txt">Learn more</span></a>
+                            <a href="about.php" class="theme-btn btn-style-one"><span class="txt">Learn more</span></a>
                         </div>
                     </div>
                     
@@ -226,7 +226,7 @@
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":1000,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
                         <div class="link-box">
-                            <a href="about.html" class="theme-btn btn-style-one"><span class="txt">Learn more</span></a>
+                            <a href="about.php" class="theme-btn btn-style-one"><span class="txt">Learn more</span></a>
                         </div>
                     </div>
                     
@@ -282,7 +282,7 @@
 					</div>
 					<a href="#" class="overlay-link lightbox-image">
 						<div class="icon-box">
-							<span class="icon flaticon-play-button"></span>
+							<span class="fa fa-play"></span>
 						</div>
 					</a>
 				</div>

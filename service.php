@@ -85,10 +85,10 @@
 				<div class="news-block col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="blog-detail.html"><img src="http://t.commonsupport.com/care-giver/images/resource/news-1.jpg" alt="" /></a>
+							<a href="#"><img src="http://t.commonsupport.com/care-giver/images/resource/news-1.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="blog-detail.html">Overlook Village</a></h5>
+							<h5><a href="#">Overlook Village</a></h5>
 						</div>
 					</div>
 				</div>
@@ -97,10 +97,10 @@
 				<div class="news-block col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="blog-detail.html"><img src="http://t.commonsupport.com/care-giver/images/resource/news-2.jpg" alt="" /></a>
+							<a href="#"><img src="http://t.commonsupport.com/care-giver/images/resource/news-2.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="blog-detail.html">Overlook Village</a></h5>
+							<h5><a href="#">Overlook Village</a></h5>
 						</div>
 					</div>
 				</div>
@@ -109,10 +109,10 @@
 				<div class="news-block col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="blog-detail.html"><img src="http://t.commonsupport.com/care-giver/images/resource/news-3.jpg" alt="" /></a>
+							<a href="#"><img src="http://t.commonsupport.com/care-giver/images/resource/news-3.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="blog-detail.html">Overlook Village</a></h5>
+							<h5><a href="#">Overlook Village</a></h5>
 						</div>
 					</div>
 				</div>

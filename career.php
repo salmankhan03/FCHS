@@ -60,7 +60,7 @@
                     <li>-   Providing companionship and cheerful, positive assistance at all times</li>
                 </ul>
                 <div class="btn-box" style="margin-top: 20px">
-                    <a href="contact.html" class="theme-btn btn-style-one"><span class="txt">Ask a Question</span></a>
+                    <a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Ask a Question</span></a>
                 </div>
             </div>
 

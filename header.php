@@ -8,6 +8,14 @@
 <link rel="stylesheet" href="https://cdn.usebootstrap.com/bootstrap/4.1.1/css/bootstrap.min.css">
 <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css">
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css" integrity="sha512-QKC1UZ/ZHNgFzVKSAhV5v5j73eeL9EEN289eKAEFaAjgAiobVAnVv/AGuPbXsKl1dNoel3kNr6PYnSiTzVVBCw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.css" integrity="sha512-9Tu/Gu0+bXW+oGrTGJOeNz2RG4MaF52FznXCciXFrXehFTLF6phJnJFNVOU2mmj9FWIXk9ap0H1ocygu1ZTRqg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link href="
+https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-icon-7-stroke.min.css
+" rel="stylesheet">
+
 <link href="css/style.css" rel="stylesheet">
 <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet">
 
@@ -33,7 +41,7 @@
                 <div class="top-right clearfix">
                     <!-- Info List -->
 					<ul class="info-list">
-						<li><a href="contact.html">Franchies Opportunity</a></li>
+						<li><a href="contact.php">Franchies Opportunity</a></li>
                     </ul>
                 </div>
             </div>
@@ -46,12 +54,12 @@
                 <div class="auto-container clearfix">
                     <!--Info-->
                     <div class="logo-outer">
-                        <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="http://t.commonsupport.com/care-giver/images/logo.png" alt="" title=""></a></div>
                     </div>
 
                     <!--Nav Box-->
                     <div class="nav-outer clearfix">
-                        <!--Mobile Navigation Toggler For Mobile--><div class="mobile-nav-toggler"><span class="icon flaticon-menu-button"></span></div>
+                        <!--Mobile Navigation Toggler For Mobile--><div class="mobile-nav-toggler"><span class="fa fa-bars"></span></div>
                         <nav class="main-menu navbar-expand-md navbar-light">
                             <div class="navbar-header">
                                 <!-- Togg le Button -->      
@@ -70,7 +78,8 @@
                                     </li>
                                     <li class="dropdown"><a id="career" href="career.php">Knowledge Center</a>
                                     </li>
-                                    <li><a href="#">Contact</a></li>
+                                    <li class="dropdown"><a id="career" href="contact.php">Contact</a>
+                                    </li>
                                 </ul>
                             </div>
                         </nav>
@@ -80,7 +89,7 @@
                         <div class="outer-box clearfix">
                             <!-- Button Box -->
                             <div class="btn-box">
-                                <a href="contact.html" class="theme-btn btn-style-one"><span class="txt">Ask a Question</span></a>
+                                <a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Ask a Question</span></a>
                             </div>
                         </div>
                     </div>
@@ -96,7 +105,7 @@
             
             <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
             <nav class="menu-box">
-            	<div class="nav-logo"><a href="index.html"><img src="images/nav-logo.png" alt="" title=""></a></div>
+            	<div class="nav-logo"><a href="index.php"><img src="http://t.commonsupport.com/care-giver/images/nav-logo.png" alt="" title=""></a></div>
                 
                 <ul class="navigation clearfix"><!--Keep This Empty / Menu will come through Javascript--></ul>
             </nav>

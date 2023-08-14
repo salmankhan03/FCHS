@@ -37,7 +37,7 @@
                             <div class="footer-column col-lg-7 col-md-6 col-sm-12">
                                 <div class="footer-widget logo-widget">
 									<div class="logo">
-                                    	<a href="index.html"><img src="http://t.commonsupport.com/care-giver/images/footer-logo.png" alt="" /></a>
+                                    	<a href="index.php"><img src="http://t.commonsupport.com/care-giver/images/footer-logo.png" alt="" /></a>
                                     </div>
 								</div>
 							</div>
