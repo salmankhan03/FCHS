@@ -41,7 +41,7 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                 <div class="top-right clearfix">
                     <!-- Info List -->
 					<ul class="info-list">
-						<li><a href="contact.php">Franchies Opportunity</a></li>
+						<li><a href="career.php">Career</a></li>
                     </ul>
                 </div>
             </div>
@@ -78,7 +78,7 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                                     </li>
                                     <li class="dropdown"><a id="career" href="career.php">Knowledge Center</a>
                                     </li>
-                                    <li class="dropdown"><a id="career" href="contact.php">Contact</a>
+                                    <li class="dropdown"><a id="contact" href="contact.php">Contact</a>
                                     </li>
                                 </ul>
                             </div>
@@ -123,16 +123,19 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
 
     if(path === "index.php"){
         const element = document.getElementById('index');
-        element.style.color = '#c8a294';
+        element.style.color = '#007E8A';
     } else if(path === "about.php") {
         const element = document.getElementById('about');
-        element.style.color = '#c8a294';
+        element.style.color = '#007E8A';
     } else if(path === "service.php") {
         const element = document.getElementById('service');
-        element.style.color = '#c8a294';
+        element.style.color = '#007E8A';
     } else if(path === "career.php") {
         const element = document.getElementById('career');
-        element.style.color = '#c8a294';
+        element.style.color = '#007E8A';
+    } else if(path === "contact.php") {
+        const element = document.getElementById('contact');
+        element.style.color = '#007E8A';
     }
 </script>
 

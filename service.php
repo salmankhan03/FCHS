@@ -43,9 +43,9 @@
 				
 				<!-- Title Column -->
 				<div class="content-column col-lg-4 col-md-5 col-sm-12">
-					<div class="inner-column">
+					<div class="">
+					    <h5 class="text3">Services</h5>
                         <h2>Our Company Mission</h2>
-                        <div class="bold-text">Everything we do at Home Instead CareGiver is driven by our universal mission: To enhance the lives of aging adults and their families.</div>
 					</div>
 				</div>
 				
@@ -53,9 +53,9 @@
 				<div class="content-column col-lg-8 col-md-7 col-sm-12">
 					<div class="inner-column">
 						<ul class="mission-list">
-							<li>The old face of aging was the fear of getting old. The new face is hope and promise. The new face is hope and promise.The new face is hope and promise. The new face is hope and promise. The new face is hope and promise.</li>
-							<li>The old face of aging was the fear of getting old. The new face is hope and promise. The new face is hope and promise.The new face is hope and promise. The new face is hope and promise. The new face is hope and promise.</li>
-                            <li>The old face of aging was the fear of getting old. The new face is hope and promise. The new face is hope and promise.The new face is hope and promise. The new face is hope and promise. The new face is hope and promise.</li>
+							<li class="text3">The old face of aging was the fear of getting old. The new face is hope and promise. The new face is hope and promise.The new face is hope and promise. The new face is hope and promise. The new face is hope and promise.</li>
+							<li class="text3">The old face of aging was the fear of getting old. The new face is hope and promise. The new face is hope and promise.The new face is hope and promise. The new face is hope and promise. The new face is hope and promise.</li>
+                            <li class="text3">The old face of aging was the fear of getting old. The new face is hope and promise. The new face is hope and promise.The new face is hope and promise. The new face is hope and promise. The new face is hope and promise.</li>
 						</ul>
 					</div>
 				</div>
@@ -73,7 +73,7 @@
 			<div class="sec-title style-two">
 				<div class="clearfix">
 					<div style="text-align: center">
-						<h2>Latest Articles & Blogs</h2>
+						<h2 class="h2">Latest Articles & Blogs</h2>
 					</div>
 				</div>
 			</div>
@@ -88,7 +88,7 @@
 							<a href="#"><img src="http://t.commonsupport.com/care-giver/images/resource/news-1.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="#">Overlook Village</a></h5>
+							<h5 style="text-align: center"><a class="h4" href="#">Overlook Village</a></h5>
 						</div>
 					</div>
 				</div>
@@ -100,7 +100,7 @@
 							<a href="#"><img src="http://t.commonsupport.com/care-giver/images/resource/news-2.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="#">Overlook Village</a></h5>
+							<h5 style="text-align: center"><a class="h4" href="#">Overlook Village</a></h5>
 						</div>
 					</div>
 				</div>
@@ -112,7 +112,7 @@
 							<a href="#"><img src="http://t.commonsupport.com/care-giver/images/resource/news-3.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5><a href="#">Overlook Village</a></h5>
+							<h5 style="text-align: center"><a class="h4" href="#">Overlook Village</a></h5>
 						</div>
 					</div>
 				</div>

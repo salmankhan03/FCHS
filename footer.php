@@ -72,9 +72,9 @@
 							<!--Footer Column-->
                             <div class="footer-column col-lg-7 col-md-6 col-sm-12">
                                 <div class="footer-widget contact-widget">
-                                	<h2>AVAILABLE TIME</h2>
+                                	<h2>Loaction</h2>
 									<div class="widget-content">
-										<a href="tel:1800-574-9687" class="contact-number">08:00AM - 10:00PM</a>
+										<a href="" class="contact-number" style="font-size:16px; color:#797979">936 Kiehn Route, West Ned, Tennessee.</a>
 									</div>
 								</div>
 							</div>

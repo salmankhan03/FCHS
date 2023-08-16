@@ -32,9 +32,9 @@
 				
 				<!-- Title Column -->
 				<div class="content-column col-lg-4 col-md-5 col-sm-12">
-					<div class="inner-column">
-                        <h5>About US</h5>
-                        <h2>Our Team</h2>
+					<div class="">
+                        <h5 class="text3">About US</h5>
+                        <h2 class="h1">Our Team</h2>
                     </div>
 				</div>
 				
@@ -57,33 +57,31 @@
 
 
     <!-- Our Service Section -->
-	<section class="quality-section" style="background-color: #164B60">
+	<section class="quality-section" >
 		<div class="auto-container">
 			<div class="inner-container">
 				
 				<div class="row clearfix">
 		
 					<!-- Images Column -->
-					<div class="images-column col-lg-5 col-md-12 col-sm-12">
+					<div class="images-column col-lg-6 col-md-12 col-sm-12">
                         <div class="row ">
-                            <div class="column col-lg-12 col-md-12 col-sm-12">
+                            <div class="column col-lg-12 col-md-12 col-sm-12" >
                                 <div class="image">
-                                    <img src="http://t.commonsupport.com/care-giver/images/resource/care-4.jpg" alt="" />
+                                    <img style="padding: 0px 40px" src="http://t.commonsupport.com/care-giver/images/resource/care-4.jpg" alt="" />
                                 </div>
                             </div>
                         </div>
 					</div>
 
                     <!-- Title Column -->
-					<div class="title-column col-lg-7 col-md-12 col-sm-12">
+					<div class="title-column col-lg-6 col-md-12 col-sm-12">
 						<div class="inner-column">
 							<!-- Sec Title Two -->
+							
 							<div class="sec-title-two style-two">
-								<h4 style="color: #fff">Our Services</h4>
-								<div style="color: #fff" class="text">Your loved one's unique wishes and what makes them happy. Your loved one's unique wishes and what makes them happy. Your loved one's unique wishes and what makes them happy.</div>
-                                <div class="btn-box" style="margin-top: 20px">
-                                    <a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Ask a Question</span></a>
-                                </div>
+								<h4 class="h2" style="color: #fff">Our Services</h4>
+								<div class="text3" style="color: #fff" class="text">Your loved one's unique wishes and what makes them happy. Your loved one's unique wishes and what makes them happy. Your loved one's unique wishes and what makes them happy.</div>
 							</div>
 						</div>
 					</div>
@@ -105,8 +103,11 @@
 						<div class="inner-column">
 							<!-- Sec Title Two -->
 							<div class="sec-title-two style-two">
-								<h2>We strive to provide the highest quality of care at an affordable cost.</h2>
-								<div class="text">Your loved one's unique wishes and what makes them happy.</div>
+								<h2 class="h3">We strive to provide the highest quality of care at an affordable cost.</h2>
+								<div class="text text3">Your loved one's unique wishes and what makes them happy.</div>
+							</div>
+							<div class="btn-box" style="margin-top: 20px">
+								<a href="career.php" class="theme-btn btn-style-one"><span class="txt">Apply Now</span></a>
 							</div>
 						</div>
 					</div>

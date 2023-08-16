@@ -10,6 +10,8 @@
 <link href="css/style.css" rel="stylesheet">
 <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet">
 
+<link href="https://fonts.google.com/specimen/Poppins?query=poppin" rel="stylesheet">
+
 <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 <link rel="icon" href="images/favicon.png" type="image/x-icon">
 
@@ -59,7 +61,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <h2>Senior Care, Respite <br> and Advanced Care Needs</h2>
+                        <h2 class="h1">Senior Care, Respite <br> and Advanced Care Needs</h2>
                     </div>
                     
                     <div class="tp-caption" 
@@ -78,29 +80,9 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="text">The care you need in the place you want. Discover the difference Visiting Angels will make in the life of your loved one.</div>
+                        <div class="text text1">The care you need in the place you want. Discover the difference Visiting Angels will make in the life of your loved one.</div>
                     </div>
                     
-                    <div class="tp-caption" 
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingtop="[0,0,0,0]"
-                    data-responsive_offset="on"
-                    data-type="text"
-                    data-height="none"
-                    data-whitespace="normal"
-                    data-width="['650','650','650','450']"
-                    data-hoffset="['15','15','15','15']"
-                    data-voffset="['125','100','120','120']"
-                    data-x="['left','left','left','left']"
-                    data-y="['middle','middle','middle','middle']"
-                    data-textalign="['top','top','top','top']"
-                    data-frames='[{"delay":1000,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="link-box">
-                            <a href="about.php" class="theme-btn btn-style-one"><span class="txt">Learn more</span></a>
-                        </div>
-                    </div>
                     
 					</li>
                     
@@ -123,7 +105,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <h2>In Home Care That <br> Elevates the Human Spirit</h2>
+                        <h2 class="h1">In Home Care That <br> Elevates the Human Spirit</h2>
                     </div>
                     
                     <div class="tp-caption" 
@@ -142,29 +124,9 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="text">The care you need in the place you want. Discover the difference Visiting Angels will make in the life of your loved one.</div>
+                        <div class="text text1">The care you need in the place you want. Discover the difference Visiting Angels will make in the life of your loved one.</div>
                     </div>
                     
-                    <div class="tp-caption" 
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingtop="[0,0,0,0]"
-                    data-responsive_offset="on"
-                    data-type="text"
-                    data-height="none"
-                    data-whitespace="normal"
-                    data-width="['650','650','650','450']"
-                    data-hoffset="['15','15','15','15']"
-                    data-voffset="['125','100','120','120']"
-                    data-x="['left','left','left','left']"
-                    data-y="['middle','middle','middle','middle']"
-                    data-textalign="['top','top','top','top']"
-                    data-frames='[{"delay":1000,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="link-box">
-                            <a href="about.php" class="theme-btn btn-style-one"><span class="txt">Learn more</span></a>
-                        </div>
-                    </div>
                     
                     </li>
 					
@@ -187,7 +149,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <h2>Quality Home Care Service, <br> You Can Trust Blindly</h2>
+                        <h2 class="h1">Quality Home Care Service, <br> You Can Trust Blindly</h2>
                     </div>
                     
                     <div class="tp-caption" 
@@ -206,29 +168,9 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="text">The care you need in the place you want. Discover the difference Visiting Angels will make in the life of your loved one.</div>
+                        <div class="text text1">The care you need in the place you want. Discover the difference Visiting Angels will make in the life of your loved one.</div>
                     </div>
                     
-                    <div class="tp-caption" 
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingtop="[0,0,0,0]"
-                    data-responsive_offset="on"
-                    data-type="text"
-                    data-height="none"
-                    data-whitespace="normal"
-                    data-width="['650','650','650','450']"
-                    data-hoffset="['15','15','15','15']"
-                    data-voffset="['125','100','120','120']"
-                    data-x="['left','left','left','left']"
-                    data-y="['middle','middle','middle','middle']"
-                    data-textalign="['top','top','top','top']"
-                    data-frames='[{"delay":1000,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="link-box">
-                            <a href="about.php" class="theme-btn btn-style-one"><span class="txt">Learn more</span></a>
-                        </div>
-                    </div>
                     
                     </li>
                     
@@ -243,9 +185,9 @@
 		<div class="auto-container">
 			<!-- Title Box -->
 			<div class="title-box">
-				<h2>Senior Home Care & Elder Care Services</h2>
-				<div class="bold-text">Our team of registered nurses and skilled healthcare professionals provide in-home nursing to help manage and coordinate recovery at home.</div>
-				<div class="text">Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line digital divide with additional clickthroughs from DevOps immersion along. additional clickthroughs from DevOps. </div>
+				<h2 class="h3">Senior Home Care & Elder Care Services</h2>
+				<div class="bold-text text2">Our team of registered nurses and skilled healthcare professionals provide in-home nursing to help manage and coordinate recovery at home.</div>
+				<div class="text text3">Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line digital divide with additional clickthroughs from DevOps immersion along. additional clickthroughs from DevOps. </div>
 			</div>
 
 		</div>
@@ -260,17 +202,14 @@
 			<div class="content-column">
 				<div class="image-layer" style="background-image:url(images/background/pattern-1.png)"></div>
 				<div class="content-box">
-					<h2>Here For You Always</h2>
-					<div class="text">We know that it can be overwhelming to welcome a stranger into the home. Because of that, we train our professionals not just on high-quality care but on interpersonal relationships as well.</div>
-					<ul class="list-style-one">
-						<li>Advanced age</li>
-						<li>Dementia or Alzheimer's disease</li>
-						<li>Degenerative disorders, such as MS or ALS</li>
-						<li>Post-surgery, including cosmetic, joint replacement, or heart surgery</li>
-						<li>Chronic conditions, such as diabetes, COPD, or cancer</li>
-						<li>Backup care for children</li>
-					</ul>
-					<div class="bold-text">Let us help you care for your loved one living with dementia!</div>
+					<h2 class="h2">Here For You Always</h2>
+					<div class="text text2">We know that it can be overwhelming to welcome a stranger into the home. Because of that, we train our professionals not just on high-quality care but on interpersonal relationships as well.</div>
+					<div class="text3">At Full Care Health Services, our team
+                  of compassionate caregivers and
+                  nurses are committed to going above
+                  and beyond to ensure the well-being,
+                  safety, and happiness of our elders
+                  requiring assistance. </div>
 				</div>
 			</div>
 			
@@ -301,14 +240,10 @@
                      <div class="elementor-container elementor-column-gap-no">
                         <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5be239a" data-id="5be239a" data-element_type="column">
                            <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-3935105 elementor-widget elementor-widget-heading" data-id="3935105" data-element_type="widget" data-widget_type="heading.default">
-                                 <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">The Onilife Family</h2>
-                                 </div>
-                              </div>
+                             
                               <div class="elementor-element elementor-element-e142df9 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="e142df9" data-element_type="widget" data-widget_type="heading.default">
                                  <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">Beautiful, amenity rich communities and our in home health care division provide unmatched service plus a full continuum of care for seniors and their families.</h2>
+                                    <h2 class="elementor-heading-title elementor-size-default h2">Beautiful, amenity rich communities and our in home health care division provide unmatched service plus a full continuum of care for seniors and their families.</h2>
                                  </div>
                               </div>
                            </div>
@@ -322,16 +257,16 @@
                                     <div class="elementor-tabs" role="tablist">
                                        <div class="elementor-tabs-wrapper">
                                           <div id="elementor-tab-title-1591" class="elementor-tab-title elementor-tab-desktop-title elementor-active elementor-repeater-item-02a7bc9" data-tab="1" role="tab" aria-controls="elementor-tab-content-1591">
-                                             <span class="title">Independent Living</span>
+                                             <span class="title text3">Independent Living</span>
                                           </div>
                                           <div id="elementor-tab-title-1592" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-e99301d" data-tab="2" role="tab" aria-controls="elementor-tab-content-1592">
-                                             <span class="title">Asisted Living</span>
+                                             <span class="title text3">Asisted Living</span>
                                           </div>
                                           <div id="elementor-tab-title-1593" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-e7216ce" data-tab="3" role="tab" aria-controls="elementor-tab-content-1593">
-                                             <span class="title">Memory Care</span>
+                                             <span class="title text3">Memory Care</span>
                                           </div>
                                           <div id="elementor-tab-title-1594" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
-                                             <span class="title">Respite Care</span>
+                                             <span class="title text3">Respite Care</span>
                                           </div>
                                        </div>
                                        <div class="elementor-tabs-content-wrapper">
@@ -355,33 +290,32 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-97cca35 elementor-widget elementor-widget-heading" data-id="97cca35" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h4 class="elementor-heading-title elementor-size-default">Independent Living</h4>
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Independent Living</h4>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default">The freedom to do what you want. Enjoy the active <br>retirement you deserve.</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text1">The freedom to do what you want. Enjoy the active <br>retirement you deserve.</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
-                                                               <div class="elementor-widget-container">
-                                                                  <span style="color: #ffffff; font-weight: bold;">Stress less, live more.</span><br>
+                                                               <div class="elementor-widget-container text3">
+                                                                  <span class="text3" style="color: #ffffff; font-weight: bold;">Stress less, live more.</span><br>
                                                                   Say goodbye to mowing the lawn and fixing the dishwasher. You can join a community with a maintenance-free lifestyle. 
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-7cf4c98 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="7cf4c98" data-element_type="widget" data-widget_type="text-editor.default">
-                                                               <div class="elementor-widget-container">
-                                                                  <span style="color: #ffffff; font-weight: bold;">Make way for fun.</span><br>
+                                                               <div class="elementor-widget-container text3">
+                                                                  <span class="text3" style="color: #ffffff; font-weight: bold;">Make way for fun.</span><br>
                                                                   Connect with friends and neighbors over coffee in the club room or a themed event. The activities are endless, and they’re right outside your door. 
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-21bc653 button-style-onilife-yes elementor-widget elementor-widget-button" data-id="21bc653" data-element_type="widget" data-widget_type="button.default">
                                                                <div class="elementor-widget-container">
                                                                   <div class="elementor-button-wrapper">
-                                                                     <a href="https://demo2.pavothemes.com/onilife/living/independent-living/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                                     <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                                      <span class="elementor-button-content-wrapper">
-                                                                     <span class="elementor-button-icon elementor-align-icon-right">
-                                                                     <i aria-hidden="true" class="onilife-icon- onilife-icon-chevron-circle-right"></i> </span>
+                                                                    
                                                                      <span class="elementor-button-text">learn more</span>
                                                                      </span>
                                                                      </a>
@@ -414,12 +348,12 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-b2080be elementor-widget elementor-widget-heading" data-id="b2080be" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h4 class="elementor-heading-title elementor-size-default">Assisted Living</h4>
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Assisted Living</h4>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-dddd04b elementor-widget elementor-widget-text-editor" data-id="dddd04b" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container">
-                                                                  <p>Hospitality is at the heart of everything we do. And all of our team members are committed to helping you live your bes, most fulfilling life. That’s why we include a variety of care services, amenities, and activities in your Onilife experience.</p>
+                                                                  <p class="text3">Hospitality is at the heart of everything we do. And all of our team members are committed to helping you live your bes, most fulfilling life. That’s why we include a variety of care services, amenities, and activities in your Onilife experience.</p>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-62e3113 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="62e3113" data-element_type="widget" data-widget_type="icon-list.default">
@@ -428,22 +362,22 @@
                                                                      <li class="elementor-icon-list-item">
                                                                         <span class="elementor-icon-list-icon">
                                                                         <i aria-hidden="true" class="onilife-icon- onilife-icon-check-line"></i> </span>
-                                                                        <span class="elementor-icon-list-text">Social activities, outings, and fitness and wellness programs</span>
+                                                                        <span class="elementor-icon-list-text text3">Social activities, outings, and fitness and wellness programs</span>
                                                                      </li>
                                                                      <li class="elementor-icon-list-item">
                                                                         <span class="elementor-icon-list-icon">
                                                                         <i aria-hidden="true" class="onilife-icon- onilife-icon-check-line"></i> </span>
-                                                                        <span class="elementor-icon-list-text">Personalized care services and medical resources</span>
+                                                                        <span class="elementor-icon-list-text text3">Personalized care services and medical resources</span>
                                                                      </li>
                                                                      <li class="elementor-icon-list-item">
                                                                         <span class="elementor-icon-list-icon">
                                                                         <i aria-hidden="true" class="onilife-icon- onilife-icon-check-line"></i> </span>
-                                                                        <span class="elementor-icon-list-text">Regular housekeeping and building maintenance</span>
+                                                                        <span class="elementor-icon-list-text text3">Regular housekeeping and building maintenance</span>
                                                                      </li>
                                                                      <li class="elementor-icon-list-item">
                                                                         <span class="elementor-icon-list-icon">
                                                                         <i aria-hidden="true" class="onilife-icon- onilife-icon-check-line"></i> </span>
-                                                                        <span class="elementor-icon-list-text">Utilities (including electricity and water)</span>
+                                                                        <span class="elementor-icon-list-text text3">Utilities (including electricity and water)</span>
                                                                      </li>
                                                                   </ul>
                                                                </div>
@@ -451,10 +385,9 @@
                                                             <div class="elementor-element elementor-element-833e7f2 button-style-onilife-yes elementor-widget elementor-widget-button" data-id="833e7f2" data-element_type="widget" data-widget_type="button.default">
                                                                <div class="elementor-widget-container">
                                                                   <div class="elementor-button-wrapper">
-                                                                     <a href="https://demo2.pavothemes.com/onilife/living/assisted-living/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                                     <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                                      <span class="elementor-button-content-wrapper">
-                                                                     <span class="elementor-button-icon elementor-align-icon-right">
-                                                                     <i aria-hidden="true" class="onilife-icon- onilife-icon-chevron-circle-right"></i> </span>
+                                                                    
                                                                      <span class="elementor-button-text">learn more</span>
                                                                      </span>
                                                                      </a>
@@ -488,22 +421,21 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-dea8eb9 elementor-widget elementor-widget-heading" data-id="dea8eb9" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h4 class="elementor-heading-title elementor-size-default">Memory Care</h4>
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Memory Care</h4>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-20423fb elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="20423fb" data-element_type="widget" data-widget_type="text-editor.default">
-                                                               <div class="elementor-widget-container">
-                                                                  Alzheimer's and dementia are met with love, compassion, and expertise at Onilife. Our highly trained memory-care specialists support residents through an exclusive and innovative program called <span style="color: #FFFFFF;font-weight:700;">Bridge to Rediscovery.</span> <br><br>
+                                                               <div class="elementor-widget-container text3">
+                                                                  Alzheimer's and dementia are met with love, compassion, and expertise at Onilife. Our highly trained memory-care specialists support residents through an exclusive and innovative program called <span class="text3" style="color: #FFFFFF;font-weight:700;">Bridge to Rediscovery.</span> <br><br>
                                                                   It's a Montessori-based approach in which your loved one's environment and activities are all designed around their specific abilities, preferences, and passions. And it’s all delivered in a secure, welcoming environment that feels like home. 
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-768e1fd button-style-onilife-yes elementor-widget elementor-widget-button" data-id="768e1fd" data-element_type="widget" data-widget_type="button.default">
                                                                <div class="elementor-widget-container">
                                                                   <div class="elementor-button-wrapper">
-                                                                     <a href="https://demo2.pavothemes.com/onilife/living/memory-care/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                                     <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                                      <span class="elementor-button-content-wrapper">
-                                                                     <span class="elementor-button-icon elementor-align-icon-right">
-                                                                     <i aria-hidden="true" class="onilife-icon- onilife-icon-chevron-circle-right"></i> </span>
+                                                                    
                                                                      <span class="elementor-button-text">learn more</span>
                                                                      </span>
                                                                      </a>
@@ -536,28 +468,27 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-24fde84 elementor-widget elementor-widget-heading" data-id="24fde84" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h4 class="elementor-heading-title elementor-size-default">Respite Care</h4>
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Respite Care</h4>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-1bb0d35 elementor-widget elementor-widget-heading" data-id="1bb0d35" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default">The relief you need, when you need it</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text3">The relief you need, when you need it</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-b2c902a elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="b2c902a" data-element_type="widget" data-widget_type="text-editor.default">
-                                                               <div class="elementor-widget-container">
+                                                               <div class="elementor-widget-container text3">
                                                                   Self care is a crucial aspect of senior care for both senior citizens and family caregivers. That's why at Onilife Senior Living, we offer a respite program.
                                                                   <br><br>
-                                                                  <span style="color: #ffffff; font-style: italic;">Respite stays are based on community availability. Stays are<br> purchased in advance and are defined by a minimum and maximum<br> number of days allowed per stay.</span> 
+                                                                  <span class="text3" style="color: #ffffff; font-style: italic;">Respite stays are based on community availability. Stays are<br> purchased in advance and are defined by a minimum and maximum<br> number of days allowed per stay.</span> 
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-901f940 button-style-onilife-yes elementor-widget elementor-widget-button" data-id="901f940" data-element_type="widget" data-widget_type="button.default">
                                                                <div class="elementor-widget-container">
                                                                   <div class="elementor-button-wrapper">
-                                                                     <a href="https://demo2.pavothemes.com/onilife/living/respite-care/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                                     <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                                      <span class="elementor-button-content-wrapper">
-                                                                     <span class="elementor-button-icon elementor-align-icon-right">
-                                                                     <i aria-hidden="true" class="onilife-icon- onilife-icon-chevron-circle-right"></i> </span>
+                                                                     
                                                                      <span class="elementor-button-text">learn more</span>
                                                                      </span>
                                                                      </a>
@@ -589,14 +520,10 @@
                         </div>
                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6a5c3fd" data-id="6a5c3fd" data-element_type="column">
                            <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-f2e736f elementor-widget elementor-widget-heading" data-id="f2e736f" data-element_type="widget" data-widget_type="heading.default">
-                                 <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">About Onilife</h2>
-                                 </div>
-                              </div>
+                              
                               <div class="elementor-element elementor-element-76e1349 elementor-widget elementor-widget-heading" data-id="76e1349" data-element_type="widget" data-widget_type="heading.default">
                                  <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">The Onilife senior
+                                    <h2 class="elementor-heading-title elementor-size-default h2" style="font-size: 40px">The Onilife senior
                                        living difference
                                     </h2>
                                  </div>
@@ -613,19 +540,6 @@
                                     care, respite care and rehab, in-home care, and hospice. 
                                  </div>
                               </div>
-                              <div class="elementor-element elementor-element-7c00c1a button-style-onilife-yes elementor-widget elementor-widget-button" data-id="7c00c1a" data-element_type="widget" data-widget_type="button.default">
-                                 <div class="elementor-widget-container">
-                                    <div class="elementor-button-wrapper">
-                                       <a href="https://demo2.pavothemes.com/onilife/about-us/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                       <span class="elementor-button-content-wrapper">
-                                       <span class="elementor-button-icon elementor-align-icon-right">
-                                       <i aria-hidden="true" class="onilife-icon- onilife-icon-chevron-circle-right"></i> </span>
-                                       <span class="elementor-button-text">learn more</span>
-                                       </span>
-                                       </a>
-                                    </div>
-                                 </div>
-                              </div>
                            </div>
                         </div>
                      </div>
@@ -634,14 +548,10 @@
                      <div class="elementor-container elementor-column-gap-no">
                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-30e7187" data-id="30e7187" data-element_type="column">
                            <div class="elementor-widget-wrap elementor-element-populated">
-                              <div class="elementor-element elementor-element-da541e0 elementor-widget elementor-widget-heading" data-id="da541e0" data-element_type="widget" data-widget_type="heading.default">
-                                 <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">Our mission</h2>
-                                 </div>
-                              </div>
+                             
                               <div class="elementor-element elementor-element-564c877 elementor-widget elementor-widget-heading" data-id="564c877" data-element_type="widget" data-widget_type="heading.default">
                                  <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">Your best life, <br>realized</h2>
+                                    <h2 class="elementor-heading-title elementor-size-default h2" style="font-size: 40px">Your best life, <br>realized</h2>
                                  </div>
                               </div>
                               <div class="elementor-element elementor-element-cc0785a elementor-widget elementor-widget-heading" data-id="cc0785a" data-element_type="widget" data-widget_type="heading.default">
@@ -654,21 +564,18 @@
                                     Enriching the lives of those who live on our campuses, or in our care,<br> is <span style="color: var(--primary); font-weight: bold;">our greatest pleasure</span>. Hospitality driven service, premium dining<br>options, a focus on health and wellness, and social opportunities for<br> making valued connections, enable our residents and clients to<br> remain active, inspired, and independent. 
                                  </div>
                               </div>
-                              <div class="elementor-element elementor-element-d6c2792 elementor-widget elementor-widget-image" data-id="d6c2792" data-element_type="widget" data-widget_type="image.default">
+                              <div class="elementor-element elementor-element-7c00c1a button-style-onilife-yes elementor-widget elementor-widget-button" data-id="7c00c1a" data-element_type="widget" data-widget_type="button.default">
                                  <div class="elementor-widget-container">
-                                    <img width="80" height="81" src="https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img6.jpg" class="attachment-full size-full" alt="" loading="lazy" /> 
-                                 </div>
-                              </div>
-                              <div class="elementor-element elementor-element-8ed24f7 elementor-vertical-align-middle elementor-widget__width-auto elementor-absolute elementor-position-top onilife-image-box-style-1 elementor-widget elementor-widget-image-box" data-id="8ed24f7" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image-box.default">
-                                 <div class="elementor-widget-container">
-                                    <div class="elementor-image-box-wrapper">
-                                       <figure class="elementor-image-box-img"><img src="https://demo2.pavothemes.com/onilife/wp-content/uploads/elementor/thumbs/h1_signature-pub52v9ngoxn57yrszpbqq8mlqriq2ssgde84l5s9k.png" title="h1_signature" alt="h1_signature" /></figure>
-                                       <div class="elementor-image-box-content">
-                                          <p class="elementor-image-box-description">Son of Resident</p>
-                                       </div>
+                                    <div class="elementor-button-wrapper">
+                                       <a href="career.php" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                       <span class="elementor-button-content-wrapper">
+                                       <span class="elementor-button-text">Apply Now</span>
+                                       </span>
+                                       </a>
                                     </div>
                                  </div>
                               </div>
+                             
                            </div>
                         </div>
                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ea83da6" data-id="ea83da6" data-element_type="column">

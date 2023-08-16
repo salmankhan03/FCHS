@@ -41,15 +41,15 @@
     <div class="caregiver-container">
         <div class="auto-container">
             <div class="upper-content">
-                <h5>About US</h5>
-                <h2>Work with Us</h2>
-                <div class="style-text">Caregivers Vote Visiting Angels The Best Place to Work </div>
-                <div class="text">We know how important our caregivers are. They are the backbone of our business. Without our team of compassionate caregivers, we wouldn’t be able to help our clients the way we do. That’s why we are so honored that caregivers across the nation have voted Visiting Angels as The Best Place to Work.</div>
+                <h5 class="text3">About US</h5>
+                <h2 class="h1">Work with Us</h2>
+                <div class="style-text ">Caregivers Vote Visiting Angels The Best Place to Work </div>
+                <div class="text text3">We know how important our caregivers are. They are the backbone of our business. Without our team of compassionate caregivers, we wouldn’t be able to help our clients the way we do. That’s why we are so honored that caregivers across the nation have voted Visiting Angels as The Best Place to Work.</div>
                 <div class="light-text">If you are passionate about providing seniors with dignified, respectful care, then you may have what it takes to become a caregiver with a local Visiting Angels office. Learn more about being a caregiver</div>
             </div>
 
-            <div class="lower-content">
-                <h3>Caregiver responsibilities may include:</h3>
+            <div class="lower-content p-5" style="background: #D8D9DA">
+                <h3 class="h3 pb-3" >Caregiver responsibilities may include:</h3>
                 <ul class="list-style-two">
                     <li>-   Assisting clients with personal care services such as oral care, bathing, toileting, dressing, and grooming</li>
                     <li>-   Medication reminders</li>
