@@ -61,7 +61,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <h2 class="h1">Senior Care, Respite <br> and Advanced Care Needs</h2>
+                        <h2 class="h1">Trusted Quality Care and Nursing</h2>
                     </div>
                     
                     <div class="tp-caption" 
@@ -80,12 +80,12 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="text text1">The care you need in the place you want. Discover the difference Visiting Angels will make in the life of your loved one.</div>
+                        <div class="text text1">Compassionate Care Services Tailored to Your Needs</div>
                     </div>
-                    
+                   
                     
 					</li>
-                    
+                     <!--
                     <li data-transition="parallaxvertical" data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1689" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="images/main-slider/2.jpg" data-title="Slide Title">
                     <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="http://t.commonsupport.com/care-giver/images/main-slider/2.jpg">
                     
@@ -173,7 +173,7 @@
                     
                     
                     </li>
-                    
+                    -->
                 </ul>
             </div>
         </div>
@@ -185,9 +185,9 @@
 		<div class="auto-container">
 			<!-- Title Box -->
 			<div class="title-box">
-				<h2 class="h3">Senior Home Care & Elder Care Services</h2>
-				<div class="bold-text text2">Our team of registered nurses and skilled healthcare professionals provide in-home nursing to help manage and coordinate recovery at home.</div>
-				<div class="text text3">Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line digital divide with additional clickthroughs from DevOps immersion along. additional clickthroughs from DevOps. </div>
+				<h2 class="h3">Highly Trained and Compassionate Nursing to Support Your Well Being </h2>
+				<div class="bold-text text2">At Full Care Health Services, our team of compassionate caregivers and nurses are committed to going above and beyond to ensure the well-being, safety, and happiness of our elders requiring assistance. </div>
+				<div class="text text3">We believe that every senior deserves the utmost respect, compassion, and attention, and it is an honor to be entrusted with their care. We offer a wide range of personalized solutions tailored to meet you or your family’s specific requirements. Whether it's assistance with daily living activities, specialized medical care, or simply companionship, our team is equipped to provide the support you needed to enhance your quality of life.  </div>
 			</div>
 
 		</div>
@@ -202,14 +202,9 @@
 			<div class="content-column">
 				<div class="image-layer" style="background-image:url(images/background/pattern-1.png)"></div>
 				<div class="content-box">
-					<h2 class="h2">Here For You Always</h2>
-					<div class="text text2">We know that it can be overwhelming to welcome a stranger into the home. Because of that, we train our professionals not just on high-quality care but on interpersonal relationships as well.</div>
-					<div class="text3">At Full Care Health Services, our team
-                  of compassionate caregivers and
-                  nurses are committed to going above
-                  and beyond to ensure the well-being,
-                  safety, and happiness of our elders
-                  requiring assistance. </div>
+					<h2 class="h2">Mission </h2>
+					<div class="text text2">To support seniors in our community through professional and compassionate services</div>
+					<div class="text3">We believe in fostering independence, dignity, and a sense of belonging among the elderly by providing a nurturing environment and building strong connections. Our commitment is to celebrate and uplift the lives of our beloved seniors, ensuring they age with grace, fulfillment, and the utmost respect.  </div>
 				</div>
 			</div>
 			
@@ -243,7 +238,7 @@
                              
                               <div class="elementor-element elementor-element-e142df9 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="e142df9" data-element_type="widget" data-widget_type="heading.default">
                                  <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default h2">Beautiful, amenity rich communities and our in home health care division provide unmatched service plus a full continuum of care for seniors and their families.</h2>
+                                    <h2 class="elementor-heading-title elementor-size-default h2">How We Can Help</h2>
                                  </div>
                               </div>
                            </div>
@@ -257,21 +252,21 @@
                                     <div class="elementor-tabs" role="tablist">
                                        <div class="elementor-tabs-wrapper">
                                           <div id="elementor-tab-title-1591" class="elementor-tab-title elementor-tab-desktop-title elementor-active elementor-repeater-item-02a7bc9" data-tab="1" role="tab" aria-controls="elementor-tab-content-1591">
-                                             <span class="title text3">Independent Living</span>
+                                             <span class="title text3">Companion Care</span>
                                           </div>
                                           <div id="elementor-tab-title-1592" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-e99301d" data-tab="2" role="tab" aria-controls="elementor-tab-content-1592">
-                                             <span class="title text3">Asisted Living</span>
+                                             <span class="title text3">Personal Care</span>
                                           </div>
                                           <div id="elementor-tab-title-1593" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-e7216ce" data-tab="3" role="tab" aria-controls="elementor-tab-content-1593">
-                                             <span class="title text3">Memory Care</span>
+                                             <span class="title text3">Nursing Care</span>
                                           </div>
                                           <div id="elementor-tab-title-1594" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
-                                             <span class="title text3">Respite Care</span>
+                                             <span class="title text3">Speciality Care</span>
                                           </div>
                                        </div>
                                        <div class="elementor-tabs-content-wrapper">
                                           <div class="elementor-tab-title elementor-tab-mobile-title elementor-active elementor-repeater-item-02a7bc9" data-tab="1" role="tab" aria-controls="elementor-tab-content-1591">
-                                             <a href="#" class="title">Independent Living</a>
+                                             <a href="#" class="title">Companion Care</a>
                                           </div>
                                           <div id="elementor-tab-content-1591" class="elementor-tab-content elementor-clearfix elementor-active elementor-repeater-item-02a7bc9" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1591">
                                              <div data-elementor-type="section" data-elementor-id="1386" class="elementor elementor-1386">
@@ -290,36 +285,18 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-97cca35 elementor-widget elementor-widget-heading" data-id="97cca35" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Independent Living</h4>
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Companion Care</h4>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text1">The freedom to do what you want. Enjoy the active <br>retirement you deserve.</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4">Dedicated care to help you live independently and maintain quality of life</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #ffffff; font-weight: bold;">Stress less, live more.</span><br>
-                                                                  Say goodbye to mowing the lawn and fixing the dishwasher. You can join a community with a maintenance-free lifestyle. 
-                                                               </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-7cf4c98 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="7cf4c98" data-element_type="widget" data-widget_type="text-editor.default">
-                                                               <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #ffffff; font-weight: bold;">Make way for fun.</span><br>
-                                                                  Connect with friends and neighbors over coffee in the club room or a themed event. The activities are endless, and they’re right outside your door. 
-                                                               </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-21bc653 button-style-onilife-yes elementor-widget elementor-widget-button" data-id="21bc653" data-element_type="widget" data-widget_type="button.default">
-                                                               <div class="elementor-widget-container">
-                                                                  <div class="elementor-button-wrapper">
-                                                                     <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                                                     <span class="elementor-button-content-wrapper">
-                                                                    
-                                                                     <span class="elementor-button-text">learn more</span>
-                                                                     </span>
-                                                                     </a>
-                                                                  </div>
+                                                                  <span class="text3" style="color: #ffffff; font-weight: bold;">Sometimes care and support is needed not only at times of a complex medical need but also when you want to live a life that you want, doing things that you love, freely at your own pace.  Our professional non-medical caregivers provide emotional and physical assistance for seniors to give them confidence to feel safe and content while maintaining an independent and active lifestyle.
+                                                               </span>
                                                                </div>
                                                             </div>
                                                          </div>
@@ -329,7 +306,7 @@
                                              </div>
                                           </div>
                                           <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-e99301d" data-tab="2" role="tab" aria-controls="elementor-tab-content-1592">
-                                             <a href="#" class="title">Asisted Living</a>
+                                             <a href="#" class="title">Personal Care </a>
                                           </div>
                                           <div id="elementor-tab-content-1592" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-e99301d" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1592">
                                              <div data-elementor-type="section" data-elementor-id="1517" class="elementor elementor-1517">
@@ -348,50 +325,18 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-b2080be elementor-widget elementor-widget-heading" data-id="b2080be" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Assisted Living</h4>
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Personal Care </h4>
                                                                </div>
                                                             </div>
-                                                            <div class="elementor-element elementor-element-dddd04b elementor-widget elementor-widget-text-editor" data-id="dddd04b" data-element_type="widget" data-widget_type="text-editor.default">
+                                                             <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <p class="text3">Hospitality is at the heart of everything we do. And all of our team members are committed to helping you live your bes, most fulfilling life. That’s why we include a variety of care services, amenities, and activities in your Onilife experience.</p>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4">Daily personal living tasks and private hygiene provided by a professional and fully-trained caregiver. </h2>
                                                                </div>
                                                             </div>
-                                                            <div class="elementor-element elementor-element-62e3113 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="62e3113" data-element_type="widget" data-widget_type="icon-list.default">
-                                                               <div class="elementor-widget-container">
-                                                                  <ul class="elementor-icon-list-items">
-                                                                     <li class="elementor-icon-list-item">
-                                                                        <span class="elementor-icon-list-icon">
-                                                                        <i aria-hidden="true" class="onilife-icon- onilife-icon-check-line"></i> </span>
-                                                                        <span class="elementor-icon-list-text text3">Social activities, outings, and fitness and wellness programs</span>
-                                                                     </li>
-                                                                     <li class="elementor-icon-list-item">
-                                                                        <span class="elementor-icon-list-icon">
-                                                                        <i aria-hidden="true" class="onilife-icon- onilife-icon-check-line"></i> </span>
-                                                                        <span class="elementor-icon-list-text text3">Personalized care services and medical resources</span>
-                                                                     </li>
-                                                                     <li class="elementor-icon-list-item">
-                                                                        <span class="elementor-icon-list-icon">
-                                                                        <i aria-hidden="true" class="onilife-icon- onilife-icon-check-line"></i> </span>
-                                                                        <span class="elementor-icon-list-text text3">Regular housekeeping and building maintenance</span>
-                                                                     </li>
-                                                                     <li class="elementor-icon-list-item">
-                                                                        <span class="elementor-icon-list-icon">
-                                                                        <i aria-hidden="true" class="onilife-icon- onilife-icon-check-line"></i> </span>
-                                                                        <span class="elementor-icon-list-text text3">Utilities (including electricity and water)</span>
-                                                                     </li>
-                                                                  </ul>
-                                                               </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-833e7f2 button-style-onilife-yes elementor-widget elementor-widget-button" data-id="833e7f2" data-element_type="widget" data-widget_type="button.default">
-                                                               <div class="elementor-widget-container">
-                                                                  <div class="elementor-button-wrapper">
-                                                                     <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                                                     <span class="elementor-button-content-wrapper">
-                                                                    
-                                                                     <span class="elementor-button-text">learn more</span>
-                                                                     </span>
-                                                                     </a>
-                                                                  </div>
+                                                            <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
+                                                               <div class="elementor-widget-container text3">
+                                                                  <span class="text3" style="color: #ffffff; font-weight: bold;">Personal home care makes it possible for seniors to age in place in the comforts while still maintaining their independence.  Personal home caregivers can help with day-to-day routine tasks and provide essential in-home support from private hygiene and toileting to dressing and maintaining personal appearance. 
+                                                               </span>
                                                                </div>
                                                             </div>
                                                          </div>
@@ -401,7 +346,7 @@
                                              </div>
                                           </div>
                                           <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-e7216ce" data-tab="3" role="tab" aria-controls="elementor-tab-content-1593">
-                                             <a href="#" class="title">Memory Care</a>
+                                             <a href="#" class="title">Nursing Care </a>
                                           </div>
                                           <div id="elementor-tab-content-1593" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-e7216ce" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1593">
                                              <div data-elementor-type="section" data-elementor-id="1805" class="elementor elementor-1805">
@@ -421,25 +366,18 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-dea8eb9 elementor-widget elementor-widget-heading" data-id="dea8eb9" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Memory Care</h4>
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Nursing Care </h4>
                                                                </div>
                                                             </div>
-                                                            <div class="elementor-element elementor-element-20423fb elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="20423fb" data-element_type="widget" data-widget_type="text-editor.default">
-                                                               <div class="elementor-widget-container text3">
-                                                                  Alzheimer's and dementia are met with love, compassion, and expertise at Onilife. Our highly trained memory-care specialists support residents through an exclusive and innovative program called <span class="text3" style="color: #FFFFFF;font-weight:700;">Bridge to Rediscovery.</span> <br><br>
-                                                                  It's a Montessori-based approach in which your loved one's environment and activities are all designed around their specific abilities, preferences, and passions. And it’s all delivered in a secure, welcoming environment that feels like home. 
-                                                               </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-768e1fd button-style-onilife-yes elementor-widget elementor-widget-button" data-id="768e1fd" data-element_type="widget" data-widget_type="button.default">
+                                                              <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <div class="elementor-button-wrapper">
-                                                                     <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                                                     <span class="elementor-button-content-wrapper">
-                                                                    
-                                                                     <span class="elementor-button-text">learn more</span>
-                                                                     </span>
-                                                                     </a>
-                                                                  </div>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4">Receive the highest specialized care ensuring your medical needs are looked after by licensed nurses </h2>
+                                                               </div>
+                                                            </div>
+                                                            <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
+                                                               <div class="elementor-widget-container text3">
+                                                                  <span class="text3" style="color: #ffffff; font-weight: bold;">Nursing Care Services that are custom tailored to your unique circumstances and every need.  The main objective is to ensure that your loved one receives consistent and professionally regulated care to address any medical conditions.  
+                                                               </span>
                                                                </div>
                                                             </div>
                                                          </div>
@@ -449,7 +387,7 @@
                                              </div>
                                           </div>
                                           <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
-                                             <a href="#" class="title">Respite Care</a>
+                                             <a href="#" class="title">Speciality Care </a>
                                           </div>
                                           <div id="elementor-tab-content-1594" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-00e6965" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1594">
                                              <div data-elementor-type="section" data-elementor-id="1840" class="elementor elementor-1840">
@@ -468,31 +406,18 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-24fde84 elementor-widget elementor-widget-heading" data-id="24fde84" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Respite Care</h4>
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Speciality Care</h4>
                                                                </div>
                                                             </div>
-                                                            <div class="elementor-element elementor-element-1bb0d35 elementor-widget elementor-widget-heading" data-id="1bb0d35" data-element_type="widget" data-widget_type="heading.default">
+                                                         <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text3">The relief you need, when you need it</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4">Flexibility and specialized care by professional caregivers will provide you with the peace of mind and relief necessary to fulfill an individual’s unique needs. </h2>
                                                                </div>
                                                             </div>
-                                                            <div class="elementor-element elementor-element-b2c902a elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="b2c902a" data-element_type="widget" data-widget_type="text-editor.default">
+                                                            <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  Self care is a crucial aspect of senior care for both senior citizens and family caregivers. That's why at Onilife Senior Living, we offer a respite program.
-                                                                  <br><br>
-                                                                  <span class="text3" style="color: #ffffff; font-style: italic;">Respite stays are based on community availability. Stays are<br> purchased in advance and are defined by a minimum and maximum<br> number of days allowed per stay.</span> 
-                                                               </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-901f940 button-style-onilife-yes elementor-widget elementor-widget-button" data-id="901f940" data-element_type="widget" data-widget_type="button.default">
-                                                               <div class="elementor-widget-container">
-                                                                  <div class="elementor-button-wrapper">
-                                                                     <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                                                     <span class="elementor-button-content-wrapper">
-                                                                     
-                                                                     <span class="elementor-button-text">learn more</span>
-                                                                     </span>
-                                                                     </a>
-                                                                  </div>
+                                                                  <span class="text3" style="color: #ffffff; font-weight: bold;">Sometimes specific medical conditions require specialized support and services for you or your loved one when facing specific challenges.  A customized care plan along with a professional caregiver will help you address any medical conditions while still being able to enjoy the best possible quality of life and experience independence. 
+                                                               </span>
                                                                </div>
                                                             </div>
                                                          </div>
@@ -523,21 +448,14 @@
                               
                               <div class="elementor-element elementor-element-76e1349 elementor-widget elementor-widget-heading" data-id="76e1349" data-element_type="widget" data-widget_type="heading.default">
                                  <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default h2" style="font-size: 40px">The Onilife senior
+                                    <h2 class="elementor-heading-title elementor-size-default h2" style="font-size: 40px">Our Process 
                                        living difference
                                     </h2>
                                  </div>
                               </div>
                               <div class="elementor-element elementor-element-989410b elementor-widget elementor-widget-text-editor" data-id="989410b" data-element_type="widget" data-widget_type="text-editor.default">
-                                 <div class="elementor-widget-container">
-                                    From one generation to the next, The Onilife Senior Living has
-                                    been here to care for our Jewish seniors. Today, the not for profit OSL
-                                    remains steadfast to its Jewish values, but has evolved to serve Dallas
-                                    seniors of all faiths.<br><br>
-                                    Through <span style="color: var(--primary);font-weight:700;">strong leadership and innovation</span> , OSL is committed to
-                                    meeting the changing needs of seniors and their families and offers a
-                                    full continuum of care: independent living, assisted living, memory
-                                    care, respite care and rehab, in-home care, and hospice. 
+                                 <div class="elementor-widget-container text3">
+                                    We develop comprehensive care plans based on individual requirements, in consultation with the senior and/or family. This assessment process ensures our caregivers are matched to our clients, fostering strong connections, and engaging our seniors to enjoy life to the fullest. <br><br>
                                  </div>
                               </div>
                            </div>
@@ -551,29 +469,13 @@
                              
                               <div class="elementor-element elementor-element-564c877 elementor-widget elementor-widget-heading" data-id="564c877" data-element_type="widget" data-widget_type="heading.default">
                                  <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default h2" style="font-size: 40px">Your best life, <br>realized</h2>
+                                    <h2 class="elementor-heading-title elementor-size-default h2" style="font-size: 40px">Career</h2>
                                  </div>
                               </div>
-                              <div class="elementor-element elementor-element-cc0785a elementor-widget elementor-widget-heading" data-id="cc0785a" data-element_type="widget" data-widget_type="heading.default">
-                                 <div class="elementor-widget-container">
-                                    <h6 class="elementor-heading-title elementor-size-default">Our mission is to elevate the senior living <br>experience.</h6>
-                                 </div>
-                              </div>
+                     
                               <div class="elementor-element elementor-element-331aaf7 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="331aaf7" data-element_type="widget" data-widget_type="text-editor.default">
-                                 <div class="elementor-widget-container">
-                                    Enriching the lives of those who live on our campuses, or in our care,<br> is <span style="color: var(--primary); font-weight: bold;">our greatest pleasure</span>. Hospitality driven service, premium dining<br>options, a focus on health and wellness, and social opportunities for<br> making valued connections, enable our residents and clients to<br> remain active, inspired, and independent. 
-                                 </div>
-                              </div>
-                              <div class="elementor-element elementor-element-7c00c1a button-style-onilife-yes elementor-widget elementor-widget-button" data-id="7c00c1a" data-element_type="widget" data-widget_type="button.default">
-                                 <div class="elementor-widget-container">
-                                    <div class="elementor-button-wrapper">
-                                       <a href="career.php" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                       <span class="elementor-button-content-wrapper">
-                                       <span class="elementor-button-text">Apply Now</span>
-                                       </span>
-                                       </a>
-                                    </div>
-                                 </div>
+                                 <div class="elementor-widget-container text3">
+                                    Are you passionate in helping others? Join us and embark on a rewarding career that makes a meaningful difference in the lives of seniors. As a dedicated and compassionate caregiver, you will have the opportunity to listen to our clients and their families, fulfilling their unique needs and requests.                                  </div>
                               </div>
                              
                            </div>

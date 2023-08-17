@@ -44,8 +44,8 @@
 				<!-- Title Column -->
 				<div class="content-column col-lg-4 col-md-5 col-sm-12">
 					<div class="">
-					    <h5 class="text3">Services</h5>
-                        <h2>Our Company Mission</h2>
+					    <h5 class="text3">OUR SERVICES</h5>
+                        <h2>Companion Care </h2>
 					</div>
 				</div>
 				
@@ -53,9 +53,8 @@
 				<div class="content-column col-lg-8 col-md-7 col-sm-12">
 					<div class="inner-column">
 						<ul class="mission-list">
-							<li class="text3">The old face of aging was the fear of getting old. The new face is hope and promise. The new face is hope and promise.The new face is hope and promise. The new face is hope and promise. The new face is hope and promise.</li>
-							<li class="text3">The old face of aging was the fear of getting old. The new face is hope and promise. The new face is hope and promise.The new face is hope and promise. The new face is hope and promise. The new face is hope and promise.</li>
-                            <li class="text3">The old face of aging was the fear of getting old. The new face is hope and promise. The new face is hope and promise.The new face is hope and promise. The new face is hope and promise. The new face is hope and promise.</li>
+							<li class="text3">Sometimes seniors have sudden change in temperament and troubling mood swings which affects their well-being.  These abrupt behavioral changes are common in seniors who are affected by loneliness, isolation, or boredom.  Companion caregivers can provide emotional and physical assistance allowing your loved one the ability to feel secure and content in their home.  They can also accompany your loved one to their appointments and social outings which will help decrease anxiety, depression, and feelings of isolation while giving your family members a peace of mind.</li>
+							<li class="text3">While you support an older loved one and balance your own obligations and responsibilities, a Companion caregiver can give you a much-needed break and help you minimize your logistical challenges.  Whether your loved one is interested in completing a puzzle, wanting to have a pleasant conversation over a cup of coffee, or play a board game, the Companion caregiver will provide socialization and enjoyable interaction. </li>
 						</ul>
 					</div>
 				</div>
@@ -73,7 +72,7 @@
 			<div class="sec-title style-two">
 				<div class="clearfix">
 					<div style="text-align: center">
-						<h2 class="h2">Latest Articles & Blogs</h2>
+						<h2 class="h2">Explore Our Services</h2>
 					</div>
 				</div>
 			</div>
@@ -88,7 +87,7 @@
 							<a href="#"><img src="http://t.commonsupport.com/care-giver/images/resource/news-1.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5 style="text-align: center"><a class="h4" href="#">Overlook Village</a></h5>
+							<h5 style="text-align: center"><a class="h4" href="#">Personal Care</a></h5>
 						</div>
 					</div>
 				</div>
@@ -100,7 +99,7 @@
 							<a href="#"><img src="http://t.commonsupport.com/care-giver/images/resource/news-2.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5 style="text-align: center"><a class="h4" href="#">Overlook Village</a></h5>
+							<h5 style="text-align: center"><a class="h4" href="#">Nursing Care</a></h5>
 						</div>
 					</div>
 				</div>
@@ -112,7 +111,7 @@
 							<a href="#"><img src="http://t.commonsupport.com/care-giver/images/resource/news-3.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h5 style="text-align: center"><a class="h4" href="#">Overlook Village</a></h5>
+							<h5 style="text-align: center"><a class="h4" href="#">Specialty Care</a></h5>
 						</div>
 					</div>
 				</div>

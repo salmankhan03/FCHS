@@ -42,12 +42,12 @@
     <form id="jobTitleForm" class="needs-validation" novalidate>
         <div class="row">
             <div class="col-md-12">
-                <h1 class="title">Job Application Form</h1>
-                <h6 class="form-label mt-5">Job Title</h6>
-                <div class="simple-box">
-                    Neighborhood Health Team Lead Nurse - Home Care, Island of Montreal, West-Island, North Shore and South Shore
-                </div>
-                <h6 class="mt-4">Please enter all relevant personal information in the fields below</h6>
+                <h1 class="title">Professional Caregiver Application</h1>
+                <!--<h6 class="form-label mt-5">Job Title</h6>-->
+                <!--<div class="simple-box">-->
+                <!--    Neighborhood Health Team Lead Nurse - Home Care, Island of Montreal, West-Island, North Shore and South Shore-->
+                <!--</div>-->
+                <!--<h6 class="mt-4">Please enter all relevant personal information in the fields below</h6>-->
 
                 <div class="row mt-5">
                     <div class="col-md-6 col-sm-12">
@@ -88,9 +88,9 @@
 
                 <div class="row mt-4">
                     <div class="col-md-12">
-                        <h6 for="address" class=" form-label">Address</h6>
+                        <h6 for="address" class=" form-label">Address Line 1</h6>
                         <input type="text" class="form-control" id="address" required>
-                        <h6 for="saddress" class="mt-4">Street Address</h6>
+                        <h6 for="saddress" class="mt-4">Address Line 2</h6>
                         <input type="text" class="form-control " id="saddress" required>
 
                         <div class="row mt-4">
@@ -99,20 +99,20 @@
                                 <input type="text" class="form-control" id="city" required>
                             </div>
                             <div class="col-md-6 col-sm-12">
-                                <h6 for="state" class="form-label">State / Province / Region</h6>
+                                <h6 for="state" class="form-label">Province</h6>
                                 <input type="text" class="form-control" id="state" required>
                             </div>
                         </div>
 
                         <div class="row mt-4">
                             <div class="col-md-6 col-sm-12">
-                                <h6 for="zip" class=" form-label">ZIP / Postal Code</h6>
+                                <h6 for="zip" class=" form-label">Postal Code</h6>
                                 <input type="text" class="form-control" id="zip" required>
                             </div>
-                            <div class="col-md-6 col-sm-12">
-                                <h6 for="country" class="form-label">Country</h6>
-                                <input type="text" class="form-control" id="country" required>
-                            </div>
+                            <!--<div class="col-md-6 col-sm-12">-->
+                            <!--    <h6 for="country" class="form-label">Country</h6>-->
+                            <!--    <input type="text" class="form-control" id="country" required>-->
+                            <!--</div>-->
                         </div>
 
                         <div class="invalid-feedback error-box">

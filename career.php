@@ -41,26 +41,18 @@
     <div class="caregiver-container">
         <div class="auto-container">
             <div class="upper-content">
-                <h5 class="text3">About US</h5>
-                <h2 class="h1">Work with Us</h2>
-                <div class="style-text ">Caregivers Vote Visiting Angels The Best Place to Work </div>
-                <div class="text text3">We know how important our caregivers are. They are the backbone of our business. Without our team of compassionate caregivers, we wouldn’t be able to help our clients the way we do. That’s why we are so honored that caregivers across the nation have voted Visiting Angels as The Best Place to Work.</div>
-                <div class="light-text">If you are passionate about providing seniors with dignified, respectful care, then you may have what it takes to become a caregiver with a local Visiting Angels office. Learn more about being a caregiver</div>
+                <h5 class="text3">CAREER</h5>
+                <h2 class="h1">Join Us</h2>
+                <div class="text text3">At Full Care Health Services, our commitment lies in providing high-quality and compassionate care, tailored to the unique needs of our clients. To achieve this, we place great emphasis on investing in our team, ensuring they receive the necessary support and resources while working with us. By nurturing and empowering our caregivers, we can maintain our focus on delivering exceptional care, always upholding the highest standards. With a dedicated and supported team, we strive to exceed expectations and make a positive impact in the lives of those we serve. </div>
+                <div class="light-text text1">We welcome passionate individuals to join our supportive team and make a difference in the lives of our clients. </div>
             </div>
 
             <div class="lower-content p-5" style="background: #D8D9DA">
-                <h3 class="h3 pb-3" >Caregiver responsibilities may include:</h3>
-                <ul class="list-style-two">
-                    <li>-   Assisting clients with personal care services such as oral care, bathing, toileting, dressing, and grooming</li>
-                    <li>-   Medication reminders</li>
-                    <li>-   Light housekeeping including laundry, dishes and vacuuming</li>
-                    <li>-   Planning, preparing and serving meals</li>
-                    <li>-   Assistance with transfers, walking and physical activity</li>
-                    <li>-   Assistance with transportation to appointments, activities, errands, and shopping</li>
-                    <li>-   Providing companionship and cheerful, positive assistance at all times</li>
-                </ul>
+                <h3 class="h3 pb-3" >Professional Caregiver</h3>
+                <div class="light-text text1">Vancouver</div>
+                 <div class="text text3">Are you a PSW / HCA, RN, RPN, DSW, community care professional or second-year nursing student with a professional work ethic, integrity and passion for caring? Are you seeking a professional opportunity that recognizes the contribution you make to families in the community? Do you excel above the rest in your commitment to your profession?  </div>
                 <div class="btn-box" style="margin-top: 20px">
-                    <a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Ask a Question</span></a>
+                    <a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Apply Now button</span></a>
                 </div>
             </div>
 
