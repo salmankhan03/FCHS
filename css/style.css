@@ -98,6 +98,41 @@
     color: var(--secondary) !important
   }
 
+  .h1bg, .h2bg, .h3bg, .h4bg, .h5bg, .h6bg{
+    color: #fff !important
+  }
+
+  .h2bg{
+    font-size: 40px ;
+  }
+
+  .h3bg{
+    font-size: 32px !important;
+  }
+
+  .text1bg{
+    color: #fff !important;
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 300 !important;
+  }
+
+  .text3bg{
+    color: #fff!important;
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 300 !important;
+    font-size: 16px;
+  }
+
+  .text2bg{
+    color: #fff !important;
+    font-style: italic !important; 
+    font-size: 22px !important;
+  }
+
+  .text4bg{
+    color: #fff !important;
+  }
+
   .h2{
     font-size: 40px ;
   }
@@ -1369,7 +1404,7 @@
  .main-menu .navbar-collapse > ul li.dropdown .dropdown-btn{
      position:absolute;
      right:10px;
-     top:8px;
+     /* top:8px; */
      width:34px;
      height:30px;
      border:1px solid #ffffff;
@@ -1419,7 +1454,7 @@
  }
  
  .fixed-header .main-menu .navigation > li{
-     padding:17px 0px;
+     padding:20px 0px;
  }
  
  .fixed-header .outer-box .btn-box{

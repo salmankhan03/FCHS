@@ -5,6 +5,7 @@
 <meta charset="utf-8">
 <title>CareGiver - Elder Care HTML Template | Home Page 01</title>
 <!-- Stylesheets -->
+
 <link rel="stylesheet" href="https://cdn.usebootstrap.com/bootstrap/4.1.1/css/bootstrap.min.css">
 <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css">
 
@@ -25,12 +26,17 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 </head>
 
 <body>
 
 <div class="page-wrapper">
-    <header class="main-header">
+    <!-- Preloader -->
+    <div class="preloader"></div>
+
+    <header class="main-header ">
         <!--Header Top-->
         <div class="header-top">
             <div class="auto-container clearfix">
@@ -41,8 +47,19 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                 <div class="top-right clearfix">
                     <!-- Info List -->
 					<ul class="info-list">
-						<li><a href="career.php">Career</a></li>
+                        <li><a href="about.html">Our Story</a></li>
+                        <li><a href="blog.html">News & Articles</a></li>
+						<li><a href="contact.html">Franchies Opportunity</a></li>
                     </ul>
+					<!--Language-->
+					<div class="language dropdown"><a class="btn btn-default dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#"> EN &nbsp;<span class="fa fa-caret-down"></span></a>
+						<ul class="dropdown-menu style-one" aria-labelledby="dropdownMenu1">
+							<li><a href="#">English</a></li>
+							<li><a href="#">German</a></li>
+							<li><a href="#">Arabic</a></li>
+							<li><a href="#">Hindi</a></li>
+						</ul>
+					</div>
                 </div>
             </div>
         </div>
@@ -54,12 +71,12 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                 <div class="auto-container clearfix">
                     <!--Info-->
                     <div class="logo-outer">
-                        <div class="logo"><a href="index.php"><img src="http://t.commonsupport.com/care-giver/images/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
                     </div>
 
                     <!--Nav Box-->
                     <div class="nav-outer clearfix">
-                        <!--Mobile Navigation Toggler For Mobile--><div class="mobile-nav-toggler"><span class="fa fa-bars"></span></div>
+                        <!--Mobile Navigation Toggler For Mobile--><div class="mobile-nav-toggler"><span class="icon flaticon-menu-button"></span></div>
                         <nav class="main-menu navbar-expand-md navbar-light">
                             <div class="navbar-header">
                                 <!-- Togg le Button -->      
@@ -67,19 +84,28 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                                     <span class="icon flaticon-menu"></span>
                                 </button>
                             </div>
-                            
+
                             <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class="dropdown"><a id="index" href="index.php">Home</a>
+                                    <li class=""><a id="index" href="index.php">Home</a>
                                     </li>
-									<li class="dropdown"><a id="about" href="about.php">About us</a>
+                                    <li class="dropdown"><a id="service" href="service.php">Services</a>
+                                        <ul>
+                                            <li><a href="service.php">Companion Care</a></li>
+                                            <li><a href="Personal.php">Personal Care</a></li>
+                                            <li><a href="Nursing.php">Nursing Care</a></li>
+                                            <li><a href="Specialty.php">Specialty Care</a></li>
+                                        </ul>
                                     </li>
-                                    <li class="dropdown"><a id="service" href="service.php">Types Of Care</a>
+                                    <li class=""><a id="about" href="about.php">About us</a>
                                     </li>
-                                    <li class="dropdown"><a id="career" href="career.php">Knowledge Center</a>
+                                    <li class=""><a id="career" href="career.php">career</a>
                                     </li>
-                                    <li class="dropdown"><a id="contact" href="contact.php">Contact</a>
+                                    <li class=""><a id="contact" href="contact.php">Contact</a>
                                     </li>
+
+                                   
+									
                                 </ul>
                             </div>
                         </nav>
@@ -89,7 +115,7 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                         <div class="outer-box clearfix">
                             <!-- Button Box -->
                             <div class="btn-box">
-                                <a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Ask a Question</span></a>
+                                <a href="contact.html" class="theme-btn btn-style-one"><span class="txt">Ask a Question</span></a>
                             </div>
                         </div>
                     </div>
@@ -105,7 +131,7 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
             
             <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
             <nav class="menu-box">
-            	<div class="nav-logo"><a href="index.php"><img src="http://t.commonsupport.com/care-giver/images/nav-logo.png" alt="" title=""></a></div>
+            	<div class="nav-logo"><a href="index.html"><img src="images/nav-logo.png" alt="" title=""></a></div>
                 
                 <ul class="navigation clearfix"><!--Keep This Empty / Menu will come through Javascript--></ul>
             </nav>
@@ -117,29 +143,31 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
 </div>  
 <!--End pagewrapper-->
 
-<script>
-    const currentPathLink = window.location.pathname.split("/");
-    const path = currentPathLink[currentPathLink.length - 1];
+    <script>
+		const currentPathLink = window.location.pathname.split("/");
+		const path = currentPathLink[currentPathLink.length - 1];
 
-    if(path === "index.php"){
-        const element = document.getElementById('index');
-        element.style.color = '#007E8A';
-    } else if(path === "about.php") {
-        const element = document.getElementById('about');
-        element.style.color = '#007E8A';
-    } else if(path === "service.php") {
-        const element = document.getElementById('service');
-        element.style.color = '#007E8A';
-    } else if(path === "career.php") {
-        const element = document.getElementById('career');
-        element.style.color = '#007E8A';
-    } else if(path === "contact.php") {
-        const element = document.getElementById('contact');
-        element.style.color = '#007E8A';
-    }
-</script>
+		if(path === "index.php"){
+			const element = document.getElementById('index');
+			element.style.color = '#007E8A';
+		} else if(path === "about.php") {
+			const element = document.getElementById('about');
+			element.style.color = '#007E8A';
+		} else if(path === "service.php" || path === "Personal.php" || path === "Nursing.php" || path === "Specialty.php") {
+			const element = document.getElementById('service');
+			element.style.color = '#007E8A';
+		} else if(path === "career.php") {
+			const element = document.getElementById('career');
+			element.style.color = '#007E8A';
+		} else if(path === "contact.php") {
+			const element = document.getElementById('contact');
+			element.style.color = '#007E8A';
+		}
+	</script>
 
 <!--Scroll to top-->
+<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
+
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
 
 <!--Scroll to top-->

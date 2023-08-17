@@ -47,7 +47,7 @@
                                 <div class="footer-widget contact-widget">
                                 	<h2>CALL FOR SUPPORT</h2>
 									<div class="widget-content">
-										<a href="tel:1800-574-9687" class="contact-number">(1800) 574 9687</a>
+										<a href="tel:1800-574-9687" class="contact-number text4bg">(1800) 574 9687</a>
 									</div>
 								</div>
 							</div>
@@ -64,7 +64,7 @@
                                 <div class="footer-widget contact-widget">
 									<h2>EMAIL US</h2>
 									<div class="widget-content">
-										<a href="tel:1800-574-9687" class="contact-number">info@example.com</a>
+										<a href="tel:1800-574-9687" class="contact-number text4bg">info@example.com</a>
 									</div>
 								</div>
 							</div>
@@ -74,7 +74,7 @@
                                 <div class="footer-widget contact-widget">
                                 	<h2>Loaction</h2>
 									<div class="widget-content">
-										<a href="" class="contact-number" style="font-size:16px; color:#797979">936 Kiehn Route, West Ned, Tennessee.</a>
+										<a href="" class="contact-number " style="font-size:16px; color:#fff">936 Kiehn Route, West Ned, Tennessee.</a>
 									</div>
 								</div>
 							</div>
@@ -84,6 +84,14 @@
 					
 				</div>
 			</div>
+			<div class="footer-bottom clearfix">
+                <div class="pull-left">
+                    <div class="copyright" style="color:#fff">&copy; Copyright CareGiver 2019. All right reserved.</div>
+                </div>
+                <div class="pull-right">
+                    <a href="#" class="purchase" style="color:#fff">Purchase Now</a>
+                </div>
+            </div>
 			
 		</div>
 	</footer>

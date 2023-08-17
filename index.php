@@ -61,7 +61,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <h2 class="h1">Trusted Quality Care and Nursing</h2>
+                        <h2 class="h1bg">Trusted Quality Care and Nursing</h2>
                     </div>
                     
                     <div class="tp-caption" 
@@ -80,7 +80,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="text text1">Compassionate Care Services Tailored to Your Needs</div>
+                        <div class="text text1bg">Compassionate Care Services Tailored to Your Needs</div>
                     </div>
                    
                     
@@ -200,11 +200,11 @@
         	
 			<!--Content Column-->
 			<div class="content-column">
-				<div class="image-layer" style="background-image:url(images/background/pattern-1.png)"></div>
+				<div class="image-layer" style="background-color: #2A536A"></div>
 				<div class="content-box">
-					<h2 class="h2">Mission </h2>
-					<div class="text text2">To support seniors in our community through professional and compassionate services</div>
-					<div class="text3">We believe in fostering independence, dignity, and a sense of belonging among the elderly by providing a nurturing environment and building strong connections. Our commitment is to celebrate and uplift the lives of our beloved seniors, ensuring they age with grace, fulfillment, and the utmost respect.  </div>
+					<h2 class="h2bg">Mission </h2>
+					<div class="text text2bg">To support seniors in our community through professional and compassionate services</div>
+					<div class="text3bg">We believe in fostering independence, dignity, and a sense of belonging among the elderly by providing a nurturing environment and building strong connections. Our commitment is to celebrate and uplift the lives of our beloved seniors, ensuring they age with grace, fulfillment, and the utmost respect.  </div>
 				</div>
 			</div>
 			
@@ -252,16 +252,16 @@
                                     <div class="elementor-tabs" role="tablist">
                                        <div class="elementor-tabs-wrapper">
                                           <div id="elementor-tab-title-1591" class="elementor-tab-title elementor-tab-desktop-title elementor-active elementor-repeater-item-02a7bc9" data-tab="1" role="tab" aria-controls="elementor-tab-content-1591">
-                                             <span class="title text3">Companion Care</span>
+                                             <span class="title text3bg">Companion Care</span>
                                           </div>
                                           <div id="elementor-tab-title-1592" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-e99301d" data-tab="2" role="tab" aria-controls="elementor-tab-content-1592">
-                                             <span class="title text3">Personal Care</span>
+                                             <span class="title text3bg">Personal Care</span>
                                           </div>
                                           <div id="elementor-tab-title-1593" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-e7216ce" data-tab="3" role="tab" aria-controls="elementor-tab-content-1593">
-                                             <span class="title text3">Nursing Care</span>
+                                             <span class="title text3bg">Nursing Care</span>
                                           </div>
                                           <div id="elementor-tab-title-1594" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
-                                             <span class="title text3">Speciality Care</span>
+                                             <span class="title text3bg">Speciality Care</span>
                                           </div>
                                        </div>
                                        <div class="elementor-tabs-content-wrapper">
