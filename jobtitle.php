@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Job Title Form</title>
+  <link href="css/style.css" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     .error-box{
@@ -123,14 +124,48 @@
 
                 <div class="row mt-4">
                     <div class="col-md-12">
+                        <h6 for="question1" class=" form-label">What do	you	love most about	caregiving?</h6>
+                        <input type="textarea" class="form-control" id="question1" required>
+                        <div class="invalid-feedback error-box">
+                            This field is required.   
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row mt-4">
+                    <div class="col-md-12">
+                        <h6 for="question2" class=" form-label">Why	do you	feel you would be a good Full Care Health Services Caregiver?</h6>
+                        <input type="textarea" class="form-control" id="question2" required>
+                        <div class="invalid-feedback error-box">
+                            This field is required.   
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row mt-4">
+                    <div class="col-md-12">
+                        <h6 for="question3" class=" form-label">What is	the	most important thing you seek from an employer?</h6>
+                        <input type="textarea" class="form-control" id="question3" required>
+                        <div class="invalid-feedback error-box">
+                            This field is required.   
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row mt-4">
+                    <div class="col-md-12">
                         <h6 class="form-label">Are you legally authorized to work in Canada with any employer?</h6>
                         <div class="form-check">
-                            <input class="form-check-input" type="radio" name="employer" id="Yes" value="Yes" required>
-                            <label class="form-check-label" for="Yes">Yes</label>
+                            <input class="form-check-input" type="radio" name="employer" id="personal" value="personal" required>
+                            <label class="form-check-label" for="personal">A personal car</label>
                         </div>
                         <div class="form-check">
-                            <input class="form-check-input" type="radio" name="employer" id="No" value="No" required>
-                            <label class="form-check-label" for="No">No</label>
+                            <input class="form-check-input" type="radio" name="employer" id="ride" value="ride" required>
+                            <label class="form-check-label" for="ride">Get a ride</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="employer" id="public" value="public" required>
+                            <label class="form-check-label" for="public">take public transit</label>
                         </div>
                         <div class="invalid-feedback error-box">
                             This field is required.   
@@ -140,15 +175,17 @@
 
                 <div class="row mt-4">
                     <div class="col-md-12">
-                        <h6 class="form-label">Have you ever worked for any Bayshore location previously?</h6>
-                        <div class="form-check">
-                            <input class="form-check-input" type="radio" name="prev" id="Yes" value="Yes" required>
-                            <label class="form-check-label" for="Yes">Yes</label>
-                        </div>
-                        <div class="form-check">
-                            <input class="form-check-input" type="radio" name="prev" id="No" value="No" required>
-                            <label class="form-check-label" for="No">No</label>
-                        </div>
+                        <h6 for="select1" class=" form-label">If you were successfully hired, what things will motivate you the most in your job?</h6>
+                        <select class="form-select mt-2"  aria-label="Default select example">
+                            <option value="Flexible">Flexible	schedule</option>
+                            <option value="Wage">Wage	or	salary</option>
+                            <option value="Extended">Extended	Health	Benefits</option>
+                            <option value="Rewarding">Rewarding	work</option>
+                            <option value="Working">Working	with	good	families</option>
+                            <option value="Support">Support	and	mentoring	from	the	office</option>
+                            <option value="Team">Team	environment</option>
+                            <option value="Recognition">Recognition</option>
+                        </select>
                         <div class="invalid-feedback error-box">
                             This field is required.   
                         </div>
@@ -157,34 +194,25 @@
 
                 <div class="row mt-4">
                     <div class="col-md-12">
-                        <h6 for="file" class=" form-label">Upload Attachments</h6>
-                        <label>Add your resume, cover letter or other attachment here.</label>
-                        <input type="file" class="form-control mt-2 mb-2" id="file" required>
-                        <label>Accepted file types: doc, docx, xls, xlsx, txt, wpd, rtf, pdf, odt, Max. file size: 2 MB.</label>
+                        <h6 for="select2" class=" form-label">How did you hear about us?</h6>
+                        <select class="form-select mt-2"  aria-label="Default select example">
+                            <option value="Word">Word of Mouth</option>
+                            <option value="Job">Job Board</option>
+                            <option value="Career">Career	Fair</option>
+                            <option value="Career">Career</option>
+                            <option value="Full">Full Care Health Services Employee</option>
+                            <option value="Social">Social	Media</option>
+                            <option value="Other">Other</option>
+                        </select>
                         <div class="invalid-feedback error-box">
                             This field is required.   
                         </div>
                     </div>
                 </div>
 
-                <h1 class="title form-label mt-4">e-signature & Submit</h1>
-                <label class="form-label mt-4">Please read the following statement carefully, then acknowledge that you have read and approved it by providing the information requested at the bottom of the page. Please note that an esignature is the electronic equivalent of a hand-written signature.</label>
-                <label class="form-label mt-3">I hereby certify that the information herein provided in this Employment Application is true and complete to the best of my knowledge. I understand that false statements or omissions may disqualify me from employment, or if employed, cause my dismissal without notice and/or severance. It is understood and agreed that my employment is subject to satisfactory references and criminal record checks. Carecor Health Services is authorized to obtain employment references and make inquiries concerning the information given herein and I agree to release any person or organization from liability for the consequences of answers to such enquiries. I hereby release Carecor Health Services from any liability associated with the provision of references related to my employment at Carecor Health Services, during my employment or thereafter.</label>
-               
-                <h1 class="title form-label mt-4">Do Not E-Sign Until You Have Read The Above Statement</h1>
-                <label class="form-label mt-4">By my eSignature below, I certify that I have read, fully understand and accept all terms of the foregoing statement. Please signify your acceptance by entering the information requested in the fields below.</label>
-                
-                <div class="row mt-4 mb-4">
-                    <div class="col-md-12">
-                        <h6 for="fullName" class=" form-label">Please enter your full name</h6>
-                        <input type="text" class="form-control" id="fullName" required>
-                        <div class="invalid-feedback error-box">
-                            This field is required.   
-                        </div>
-                    </div>
+                <div class="btn-box mt-4 mb-4" type="submit" style="margin-top: 20px">
+                    <a class="theme-btn btn-style-one"><span class="txt" style="color: #fff">Submit</span></a>
                 </div>
-                
-                <button type="submit" class="btn btn-primary mb-4">Submit</button>
             </div>
         </div>
     </form> 

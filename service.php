@@ -125,27 +125,6 @@
 		<?php include 'footer.php' ?>
 	</div>
 	<!--End pagewrapper-->
-	<script>
-		const currentPathLink = window.location.pathname.split("/");
-		const path = currentPathLink[currentPathLink.length - 1];
-
-		if(path === "index.php"){
-			const element = document.getElementById('index');
-			element.style.color = '#007E8A';
-		} else if(path === "about.php") {
-			const element = document.getElementById('about');
-			element.style.color = '#007E8A';
-		} else if(path === "service.php") {
-			const element = document.getElementById('service');
-			element.style.color = '#007E8A';
-		} else if(path === "career.php") {
-			const element = document.getElementById('career');
-			element.style.color = '#007E8A';
-		} else if(path === "contact.php") {
-			const element = document.getElementById('contact');
-			element.style.color = '#007E8A';
-		}
-	</script>
 
 	<!--Scroll to top-->
 	<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>

@@ -52,7 +52,7 @@
                 <div class="light-text text1">Vancouver</div>
                  <div class="text text3">Are you a PSW / HCA, RN, RPN, DSW, community care professional or second-year nursing student with a professional work ethic, integrity and passion for caring? Are you seeking a professional opportunity that recognizes the contribution you make to families in the community? Do you excel above the rest in your commitment to your profession?  </div>
                 <div class="btn-box" style="margin-top: 20px">
-                    <a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Apply Now button</span></a>
+                    <a href="jobtitle.php" class="theme-btn btn-style-one"><span class="txt">Apply Now button</span></a>
                 </div>
             </div>
 

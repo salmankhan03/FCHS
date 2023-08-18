@@ -38,6 +38,24 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
 
     <header class="main-header ">
         <!--Header Top-->
+        <!-- <div class="header-top">
+            <div class="auto-container clearfix">
+                <div class="top-left clearfix">
+                    <div class="text"><span class="icon flaticon-phone-receiver"></span> Need help? Call Us Now : <a href="tel:1800-456-7890" class="number">1800 456 7890</a></div>
+					
+                </div>
+                <div class="top-right clearfix">
+					<ul class="info-list">
+                        <li><a href="career.php">Career</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div> -->
+        <!-- End Header Top -->
+
+        <!-- Header Upper -->
+        <div class="header-upper">
+
         <div class="header-top">
             <div class="auto-container clearfix">
                 <div class="top-left clearfix">
@@ -47,31 +65,16 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                 <div class="top-right clearfix">
                     <!-- Info List -->
 					<ul class="info-list">
-                        <li><a href="about.html">Our Story</a></li>
-                        <li><a href="blog.html">News & Articles</a></li>
-						<li><a href="contact.html">Franchies Opportunity</a></li>
+                        <li><a href="career.php">Career</a></li>
                     </ul>
-					<!--Language-->
-					<div class="language dropdown"><a class="btn btn-default dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#"> EN &nbsp;<span class="fa fa-caret-down"></span></a>
-						<ul class="dropdown-menu style-one" aria-labelledby="dropdownMenu1">
-							<li><a href="#">English</a></li>
-							<li><a href="#">German</a></li>
-							<li><a href="#">Arabic</a></li>
-							<li><a href="#">Hindi</a></li>
-						</ul>
-					</div>
                 </div>
             </div>
         </div>
-        <!-- End Header Top -->
-
-        <!-- Header Upper -->
-        <div class="header-upper">
             <div class="inner-container">
                 <div class="auto-container clearfix">
                     <!--Info-->
                     <div class="logo-outer">
-                        <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="http://t.commonsupport.com/care-giver/images/logo.png" alt="" title=""></a></div>
                     </div>
 
                     <!--Nav Box-->
@@ -112,12 +115,11 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                         <!-- Main Menu End-->
 
                         <!-- Main Menu End-->
-                        <div class="outer-box clearfix">
-                            <!-- Button Box -->
+                        <!-- <div class="outer-box clearfix">
                             <div class="btn-box">
                                 <a href="contact.html" class="theme-btn btn-style-one"><span class="txt">Ask a Question</span></a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -131,7 +133,7 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
             
             <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
             <nav class="menu-box">
-            	<div class="nav-logo"><a href="index.html"><img src="images/nav-logo.png" alt="" title=""></a></div>
+            	<div class="nav-logo"><a href="index.php"><img src="images/nav-logo.png" alt="" title=""></a></div>
                 
                 <ul class="navigation clearfix"><!--Keep This Empty / Menu will come through Javascript--></ul>
             </nav>
