@@ -26,7 +26,17 @@
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+<style>
+   .elementor-1058 .elementor-element.elementor-element-ea83da6:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap, .elementor-1058 .elementor-element.elementor-element-ea83da6>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #fff;
+    background-image: url('img/Home/img_career.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+</style>
 </head>
+
 
 <body>
 
@@ -43,7 +53,7 @@
                 <ul>
                     
                     <li data-transition="parallaxvertical" data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1688" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="http://t.commonsupport.com/care-giver/images/main-slider/2.jpg" data-title="Slide Title">
-                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="http://t.commonsupport.com/care-giver/images/main-slider/2.jpg">
+                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="img/Home/banner_home.jpg">
                     
 					<div class="tp-caption" 
                     data-paddingbottom="[0,0,0,0]"
@@ -61,7 +71,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <h2 class="h1bg">Trusted Quality Care and Nursing</h2>
+                        <h2 class="h1">Trusted Quality Care and Nursing</h2>
                     </div>
                     
                     <div class="tp-caption" 
@@ -80,7 +90,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="text text1bg">Compassionate Care Services Tailored to Your Needs</div>
+                        <div class="text text1">Compassionate Care Services Tailored to Your Needs</div>
                     </div>
                    
                     
@@ -209,7 +219,7 @@
 			</div>
 			
 			<!--Image Column-->
-        	<div class="image-column" style="background-image: url(http://t.commonsupport.com/care-giver/images/resource/video-img.jpg)">
+        	<div class="image-column" style="background-image: url(img/Home/img_mission.jpg)">
 				<div class="inner-column">
 					<div class="image">
 						<img src="images/resource/video-img.jpg" alt="">
@@ -276,7 +286,7 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-bf9cb5f elementor-widget elementor-widget-image" data-id="bf9cb5f" data-element_type="widget" data-widget_type="image.default">
                                                                <div class="elementor-widget-container">
-                                                                  <img width="660" height="425" src="https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img1.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img1.jpg 660w, https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img1-300x193.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /> 
+                                                                  <img width="660" height="425" src="img/Home/img_service_companion.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_service_companion.jpg 660w, img/Home/img_service_companion.jpg 300x193.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /> 
                                                                </div>
                                                             </div>
                                                          </div>
@@ -316,7 +326,7 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-a49aef2 elementor-widget elementor-widget-image" data-id="a49aef2" data-element_type="widget" data-widget_type="image.default">
                                                                <div class="elementor-widget-container">
-                                                                  <img width="660" height="425" src="https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img4.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img4.jpg 660w, https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img4-300x193.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /> 
+                                                                  <img width="660" height="425" src="img/Home/img_service_personal.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_service_personal.jpg 660w, img/Home/img_service_personal.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /> 
                                                                </div>
                                                             </div>
                                                          </div>
@@ -357,7 +367,7 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-a2874a5 elementor-widget elementor-widget-image" data-id="a2874a5" data-element_type="widget" data-widget_type="image.default">
                                                                <div class="elementor-widget-container">
-                                                                  <img width="660" height="425" src="https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img2.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img2.jpg 660w, https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img2-300x193.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /> 
+                                                                  <img width="660" height="425" src="img/Home/img_service_nursing.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_service_nursing.jpg 660w, img/Home/img_service_nursing.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /> 
                                                                </div>
                                                             </div>
                                                          </div>
@@ -397,7 +407,7 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-c01f91b elementor-widget elementor-widget-image" data-id="c01f91b" data-element_type="widget" data-widget_type="image.default">
                                                                <div class="elementor-widget-container">
-                                                                  <img width="660" height="425" src="https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img3.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img3.jpg 660w, https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img3-300x193.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /> 
+                                                                  <img width="660" height="425" src="img/Home/img_service_specialty.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_service_specialty.jpg 660w, img/Home/img_service_specialty.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /> 
                                                                </div>
                                                             </div>
                                                          </div>
@@ -438,7 +448,7 @@
                            <div class="elementor-widget-wrap elementor-element-populated">
                               <div class="elementor-element elementor-element-3e0093b elementor-widget elementor-widget-image" data-id="3e0093b" data-element_type="widget" data-widget_type="image.default">
                                  <div class="elementor-widget-container">
-                                    <img width="716" height="600" src="https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img.jpg 716w, https://demo2.pavothemes.com/onilife/wp-content/uploads/2022/09/h4_img-300x251.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" /> 
+                                    <img width="716" height="600" src="img/Home/img_process.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_process.jpg 716w, img/Home/img_process.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" /> 
                                  </div>
                               </div>
                            </div>

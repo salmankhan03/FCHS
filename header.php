@@ -63,7 +63,6 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
 					
                 </div>
                 <div class="top-right clearfix">
-                    <!-- Info List -->
 					<ul class="info-list">
                         <li><a href="career.php">Career</a></li>
                     </ul>
@@ -74,12 +73,12 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                 <div class="auto-container clearfix">
                     <!--Info-->
                     <div class="logo-outer">
-                        <div class="logo"><a href="index.php"><img src="http://t.commonsupport.com/care-giver/images/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="img/logo.png" alt="" title=""></a></div>
                     </div>
 
                     <!--Nav Box-->
                     <div class="nav-outer clearfix">
-                        <!--Mobile Navigation Toggler For Mobile--><div class="mobile-nav-toggler"><span class="icon flaticon-menu-button"></span></div>
+                        <!--Mobile Navigation Toggler For Mobile--><div class="mobile-nav-toggler"><span class="fa fa-bars"></span></div>
                         <nav class="main-menu navbar-expand-md navbar-light">
                             <div class="navbar-header">
                                 <!-- Togg le Button -->      
@@ -133,7 +132,7 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
             
             <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
             <nav class="menu-box">
-            	<div class="nav-logo"><a href="index.php"><img src="images/nav-logo.png" alt="" title=""></a></div>
+            	<div class="nav-logo"><a href="index.php"><img src="img/logo.png" alt="" title=""></a></div>
                 
                 <ul class="navigation clearfix"><!--Keep This Empty / Menu will come through Javascript--></ul>
             </nav>

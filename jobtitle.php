@@ -210,8 +210,8 @@
                     </div>
                 </div>
 
-                <div class="btn-box mt-4 mb-4" type="submit" style="margin-top: 20px">
-                    <a class="theme-btn btn-style-one"><span class="txt" style="color: #fff">Submit</span></a>
+                <div class="btn-box mt-4 mb-4" style="margin-top: 20px">
+                    <button type="submit" class="theme-btn btn-style-one">Submit</button>
                 </div>
             </div>
         </div>

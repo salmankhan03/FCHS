@@ -27,7 +27,7 @@
         <!-- End Main Header -->
 
         <!--Page Title-->
-        <section class="page-title" style="background-image:url(http://t.commonsupport.com/care-giver/images/background/3.jpg)">
+        <section class="page-title" style="background-image:url(img/Services/banner_nursing.jpg)">
             <div Style="height: 50px"></div>
             <div Style="height: 50px"></div>
             <div Style="height: 50px"></div>
@@ -90,7 +90,7 @@
                     <div class="news-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="../FCHS/service.php"><img src="http://t.commonsupport.com/care-giver/images/resource/news-1.jpg" alt="" /></a>
+                                <a href="../FCHS/service.php"><img src="img/Services/img_companion.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
                                 <h5 style="text-align: center"><a class="h4" href="service.php">Companion Care</a></h5>
@@ -102,7 +102,7 @@
                     <div class="news-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="../FCHS/Personal.php"><img src="http://t.commonsupport.com/care-giver/images/resource/news-2.jpg" alt="" /></a>
+                                <a href="../FCHS/Personal.php"><img src="img/Services/img_personal.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
                                 <h5 style="text-align: center"><a class="h4" href="Personal.php">Personal Care</a></h5>
@@ -114,7 +114,7 @@
                     <div class="news-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="../FCHS/Specialty.php"><img src="http://t.commonsupport.com/care-giver/images/resource/news-3.jpg" alt="" /></a>
+                                <a href="../FCHS/Specialty.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
                                 <h5 style="text-align: center"><a class="h4" href="Specialty.php">Specialty Care</a></h5>

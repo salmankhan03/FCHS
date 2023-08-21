@@ -67,7 +67,7 @@
                         <div class="row ">
                             <div class="column col-lg-12 col-md-12 col-sm-12" >
                                 <div class="image">
-                                    <img style="padding: 0px 40px" src="http://t.commonsupport.com/care-giver/images/resource/care-4.jpg" alt="" />
+                                    <img style="padding: 0px 40px" src="img/About/img_why_choose_us.jpg" alt="" />
                                 </div>
                             </div>
                         </div>
@@ -118,12 +118,12 @@
 								
 								<div class="column col-lg-6 col-md-6 col-sm-12">
 									<div class="image">
-										<img src="http://t.commonsupport.com/care-giver/images/resource/quality-1.jpg" alt="" />
+										<img src="img/About/img_join_1.jpg" alt="" />
 									</div>
 								</div>
 								<div class="column col-lg-6 col-md-6 col-sm-12">
 									<div class="image">
-										<img src="http://t.commonsupport.com/care-giver/images/resource/quality-2.jpg" alt="" />
+										<img src="img/About/img_join_2.jpg" alt="" />
 									</div>
 								</div>
 								
