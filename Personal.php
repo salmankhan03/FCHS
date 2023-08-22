@@ -130,10 +130,41 @@
         <?php include 'footer.php' ?>
     </div>
     <!--End pagewrapper-->
+    
 
     <!--Scroll to top-->
     <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
+    <script>
+   (function($) {
+	
+	"use strict";
+	
+	
+	//Hide Loading Box (Preloader)
+	function handlePreloader() {
+		if($('.preloader').length){
+			$('.preloader').delay(200).fadeOut(500);
+		}
+	}
+	
+	// Scroll to a Specific Div
+	if($('.scroll-to-target').length){
+		$(".scroll-to-target").on('click', function() {
+			var target = $(this).attr('data-target');
+		   // animate
+		   $('html, body').animate({
+			   scrollTop: $(target).offset().top
+			 }, 1500);
+	
+		});
+	}
+	
+	$(window).on('load', function() {
+		handlePreloader();
+	});	
 
+})(window.jQuery);
+</script>
     <!--Scroll to top-->
     <script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script>
     <!--Revolution Slider-->
@@ -147,7 +178,7 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.js"></script>
     <script src="js/appear.js"></script>
-    <script src="js/script.js"></script>
+    <!-- <script src="js/script.js"></script> -->
 </body>
 
 </html>

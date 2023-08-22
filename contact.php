@@ -28,8 +28,12 @@
     	<!--Page Title-->
         <section class="page-title" style="background-image:url(http://t.commonsupport.com/care-giver/images/background/3.jpg)">
     	<div class="auto-container">
-        	<h2>Contact Us</h2>
-            
+		<div Style="height: 50px"></div>
+			<div Style="height: 50px"></div>
+			<div Style="height: 50px"></div>
+			<div Style="height: 50px"></div>
+			<div Style="height: 50px"></div>
+			<div Style="height: 50px"></div>
         </div>
     </section>
     <!--End Page Title-->
@@ -131,6 +135,37 @@
 <!--Scroll to top-->
 <script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script>
 <script>
+   (function($) {
+	
+	"use strict";
+	
+	
+	//Hide Loading Box (Preloader)
+	function handlePreloader() {
+		if($('.preloader').length){
+			$('.preloader').delay(200).fadeOut(500);
+		}
+	}
+	
+	// Scroll to a Specific Div
+	if($('.scroll-to-target').length){
+		$(".scroll-to-target").on('click', function() {
+			var target = $(this).attr('data-target');
+		   // animate
+		   $('html, body').animate({
+			   scrollTop: $(target).offset().top
+			 }, 1500);
+	
+		});
+	}
+	
+	$(window).on('load', function() {
+		handlePreloader();
+	});	
+
+})(window.jQuery);
+</script>
+<script>
         // Example starter JavaScript for disabling form submissions if there are invalid fields
         (function() {
             'use strict'
@@ -163,6 +198,6 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.js"></script>
 <script src="js/appear.js"></script>
-<script src="js/script.js"></script>
+<!-- <script src="js/script.js"></script> -->
 </body>
 </html>

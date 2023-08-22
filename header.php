@@ -69,7 +69,9 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                 </div>
             </div>
         </div>
+        
             <div class="inner-container">
+                
                 <div class="auto-container clearfix">
                     <!--Info-->
                     <div class="logo-outer">
@@ -183,7 +185,7 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
 <script src="http://t.commonsupport.com/care-giver/js/main-slider-script.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.js"></script>
-<script src="js/appear.js"></script>
-<script src="js/script.js"></script>
+<!-- <script src="js/appear.js"></script>
+<script src="js/script.js"></script> -->
 </body>
 </html>

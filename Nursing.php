@@ -90,7 +90,7 @@
                     <div class="news-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="../FCHS/service.php"><img src="img/Services/img_companion.jpg" alt="" /></a>
+                                <a href="service.php"><img src="img/Services/img_companion.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
                                 <h5 style="text-align: center"><a class="h4" href="service.php">Companion Care</a></h5>
@@ -102,7 +102,7 @@
                     <div class="news-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="../FCHS/Personal.php"><img src="img/Services/img_personal.jpg" alt="" /></a>
+                                <a href="Personal.php"><img src="img/Services/img_personal.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
                                 <h5 style="text-align: center"><a class="h4" href="Personal.php">Personal Care</a></h5>
@@ -114,7 +114,7 @@
                     <div class="news-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="../FCHS/Specialty.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
+                                <a href="Specialty.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
                                 <h5 style="text-align: center"><a class="h4" href="Specialty.php">Specialty Care</a></h5>
@@ -136,6 +136,37 @@
 
     <!--Scroll to top-->
     <script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script>
+    <script>
+   (function($) {
+	
+	"use strict";
+	
+	
+	//Hide Loading Box (Preloader)
+	function handlePreloader() {
+		if($('.preloader').length){
+			$('.preloader').delay(200).fadeOut(500);
+		}
+	}
+	
+	// Scroll to a Specific Div
+	if($('.scroll-to-target').length){
+		$(".scroll-to-target").on('click', function() {
+			var target = $(this).attr('data-target');
+		   // animate
+		   $('html, body').animate({
+			   scrollTop: $(target).offset().top
+			 }, 1500);
+	
+		});
+	}
+	
+	$(window).on('load', function() {
+		handlePreloader();
+	});	
+
+})(window.jQuery);
+</script>
     <!--Revolution Slider-->
     <script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/revslider@5.4.201-8.6/js/jquery.themepunch.tools.min.js"></script>
@@ -147,7 +178,7 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.js"></script>
     <script src="js/appear.js"></script>
-    <script src="js/script.js"></script>
+    <!-- <script src="js/script.js"></script> -->
 </body>
 
 </html>
