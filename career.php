@@ -47,12 +47,12 @@
                 <div class="light-text text1">We welcome passionate individuals to join our supportive team and make a difference in the lives of our clients. </div>
             </div>
 
-            <div class="lower-content p-5" style="background: #D8D9DA">
-                <h3 class="h3 pb-3" >Professional Caregiver</h3>
+            <div class="lower-content p-5" style="background: #edf1f4">
+                <h3 class="h3" >Professional Caregiver</h3>
                 <div class="light-text text1">Vancouver</div>
                  <div class="text text3">Are you a PSW / HCA, RN, RPN, DSW, community care professional or second-year nursing student with a professional work ethic, integrity and passion for caring? Are you seeking a professional opportunity that recognizes the contribution you make to families in the community? Do you excel above the rest in your commitment to your profession?  </div>
                 <div class="btn-box" style="margin-top: 20px">
-                    <a href="jobtitle.php" class="theme-btn btn-style-one"><span class="txt">Apply Now button</span></a>
+                    <a href="jobtitle.php" class="theme-btn btn-style-one"><span class="txt">Apply Now</span></a>
                 </div>
             </div>
 

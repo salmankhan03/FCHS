@@ -30,24 +30,31 @@
             	<div class="row clearfix">
                 	
                     <!--big column-->
-                    <div class="big-column col-lg-6 col-md-12 col-sm-12">
+                    <div class="big-column col-lg-4 col-md-12 col-sm-12">
                         <div class="row clearfix">
                         
                             <!--Footer Column-->
-                            <div class="footer-column col-lg-7 col-md-6 col-sm-12">
+                            <div class="footer-column col-lg-12 col-md-12 col-sm-12">
                                 <div class="footer-widget logo-widget">
 									<div class="logo">
-                                    	<a href="index.php"><img src="http://t.commonsupport.com/care-giver/images/footer-logo.png" alt="" /></a>
+                                    	<a href="index.php"><img src="img/logo.png" alt="" /></a>
                                     </div>
 								</div>
 							</div>
-							
+						</div>
+					</div>
+
+					<div class="big-column col-lg-4 col-md-12 col-sm-12">
+                        <div class="row clearfix">
 							<!--Footer Column-->
-                            <div class="footer-column col-lg-5 col-md-6 col-sm-12">
+                            <div class="footer-column col-lg-12 col-md-12 col-sm-12">
                                 <div class="footer-widget contact-widget">
-                                	<h2>CALL FOR SUPPORT</h2>
+                                	<h2>CONTACT INFO</h2>
 									<div class="widget-content">
-										<a href="tel:1800-574-9687" class="contact-number text4bg">(1800) 574 9687</a>
+										<a href="tel:1800-574-9687" style="font-size: 15px"  class="contact-number text4bg">(1800) 574 9687</a>
+									</div>
+									<div class="widget-content">
+										<a href="tel:1800-574-9687" style="font-size: 15px"  class="contact-number text4bg">info@example.com</a>
 									</div>
 								</div>
 							</div>
@@ -56,25 +63,14 @@
 					</div>
 					
 					<!--big column-->
-                    <div class="big-column col-lg-6 col-md-12 col-sm-12">
+                    <div class="big-column col-lg-4 col-md-12 col-sm-12">
                         <div class="row clearfix">
-                        
-                            <!--Footer Column-->
-                            <div class="footer-column col-lg-5 col-md-6 col-sm-12">
-                                <div class="footer-widget contact-widget">
-									<h2>EMAIL US</h2>
-									<div class="widget-content">
-										<a href="tel:1800-574-9687" class="contact-number text4bg">info@example.com</a>
-									</div>
-								</div>
-							</div>
-							
 							<!--Footer Column-->
-                            <div class="footer-column col-lg-7 col-md-6 col-sm-12">
+                            <div class="footer-column col-lg-12 col-md-12 col-sm-12">
                                 <div class="footer-widget contact-widget">
                                 	<h2>Loaction</h2>
 									<div class="widget-content">
-										<a href="" class="contact-number " style="font-size:16px; color:#fff">936 Kiehn Route, West Ned, Tennessee.</a>
+										<a href="" class="contact-number " style="font-size:16px; color:#fff">936 Kiehn Route, West Ned, </br> Tennessee.</a>
 									</div>
 								</div>
 							</div>
@@ -86,7 +82,7 @@
 			</div>
 			<div class="footer-bottom clearfix">
                 <div class="pull-left">
-                    <div class="copyright" style="color:#fff">&copy; Copyright CareGiver 2019. All right reserved.</div>
+                    <div class="copyright" style="color:#fff">&copy; Copyright Full Care Health Service LTD. 2023. All right reserved.</div>
                 </div>
                 <div class="pull-right">
                     <a href="#" class="purchase" style="color:#fff">Purchase Now</a>

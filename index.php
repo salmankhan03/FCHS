@@ -34,6 +34,15 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.elementor img {
+    height: auto;
+    max-width: 80%;
+    border: none;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
 </style>
 </head>
 
@@ -46,9 +55,9 @@
     <!-- End Main Header -->
 
     <!--Main Slider-->
-    <section class="main-slider">
+    <section class="main-slider ">
         
-        <div class="rev_slider_wrapper fullwidthbanner-container"  id="rev_slider_one_wrapper" data-source="gallery">
+        <div class="rev_slider_wrapper fullwidthbanner-container aboutUpper"  id="rev_slider_one_wrapper" data-source="gallery">
             <div class="rev_slider fullwidthabanner" id="rev_slider_one" data-version="5.4.1">
                 <ul>
                     
@@ -71,7 +80,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <h2 class="h1">Trusted Quality Care and Nursing</h2>
+                        <h2 class="h1">Trusted Quality Care </br> and Nursing</h2>
                     </div>
                     
                     <div class="tp-caption" 
@@ -90,7 +99,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="text text1">Compassionate Care Services Tailored to Your Needs</div>
+                        <div class="text text1">Compassionate Care Services </br> Tailored to Your Needs</div>
                     </div>
                    
                     
@@ -195,9 +204,9 @@
 		<div class="auto-container">
 			<!-- Title Box -->
 			<div class="title-box">
-				<h2 class="h3">Highly Trained and Compassionate Nursing to Support Your Well Being </h2>
-				<div class="bold-text text2">At Full Care Health Services, our team of compassionate caregivers and nurses are committed to going above and beyond to ensure the well-being, safety, and happiness of our elders requiring assistance. </div>
-				<div class="text text3">We believe that every senior deserves the utmost respect, compassion, and attention, and it is an honor to be entrusted with their care. We offer a wide range of personalized solutions tailored to meet you or your family’s specific requirements. Whether it's assistance with daily living activities, specialized medical care, or simply companionship, our team is equipped to provide the support you needed to enhance your quality of life.  </div>
+				<h2 class="h3 mb-1">Highly Trained and Compassionate Nursing to Support Your Well Being </h2>
+				<div class="bold-text text2 mt-4" style="font-size: 21px !important">At Full Care Health Services, our team of compassionate caregivers and nurses are committed to going above and beyond to ensure the well-being, safety, and happiness of our elders requiring assistance. </div>
+				<div class="text text3 p-4" style="color: #007E8A !important">We believe that every senior deserves the utmost respect, compassion, and attention, and it is an honor to be entrusted with their care. We offer a wide range of personalized solutions tailored to meet you or your family’s specific requirements. Whether it's assistance with daily living activities, specialized medical care, or simply companionship, our team is equipped to provide the support you needed to enhance your quality of life.  </div>
 			</div>
 
 		</div>
@@ -213,8 +222,8 @@
 				<div class="image-layer" style="background-color: #2A536A"></div>
 				<div class="content-box">
 					<h2 class="h2bg">Mission </h2>
-					<div class="text text2bg">To support seniors in our community through professional and compassionate services</div>
-					<div class="text3bg">We believe in fostering independence, dignity, and a sense of belonging among the elderly by providing a nurturing environment and building strong connections. Our commitment is to celebrate and uplift the lives of our beloved seniors, ensuring they age with grace, fulfillment, and the utmost respect.  </div>
+					<div class="text text2bg mb-4 mt-4" style="line-height: 1.4; font-size: 22px !important">To support seniors in our community through professional and compassionate services</div>
+					<div class="text3bg  pb-4">We believe in fostering independence, dignity, and a sense of belonging among the elderly by providing a nurturing environment and building strong connections. Our commitment is to celebrate and uplift the lives of our beloved seniors, ensuring they age with grace, fulfillment, and the utmost respect.  </div>
 				</div>
 			</div>
 			
@@ -224,11 +233,7 @@
 					<div class="image">
 						<img src="images/resource/video-img.jpg" alt="">
 					</div>
-					<a href="#" class="overlay-link lightbox-image">
-						<div class="icon-box">
-							<span class="fa fa-play"></span>
-						</div>
-					</a>
+					
 				</div>
             </div>
             <!--End Image Column-->
@@ -241,14 +246,14 @@
          <div id="content" class="site-content" tabindex="-1">
             <div class="col-full">
                <div data-elementor-type="wp-page" data-elementor-id="1058" class="elementor elementor-1058">
-                  <section class="elementor-section elementor-top-section elementor-element elementor-element-2bf7e69 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bf7e69" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+                  <section class="elementor-section elementor-top-section mb-5  elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bf7e69" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
                      <div class="elementor-container elementor-column-gap-no">
                         <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5be239a" data-id="5be239a" data-element_type="column">
                            <div class="elementor-widget-wrap elementor-element-populated">
                              
                               <div class="elementor-element elementor-element-e142df9 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="e142df9" data-element_type="widget" data-widget_type="heading.default">
                                  <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default h2">How We Can Help</h2>
+                                    <h2 class="elementor-heading-title elementor-size-default h2" style="font-size: 40px !important ">How We Can Help</h2>
                                  </div>
                               </div>
                            </div>
@@ -262,21 +267,21 @@
                                     <div class="elementor-tabs" role="tablist">
                                        <div class="elementor-tabs-wrapper">
                                           <div id="elementor-tab-title-1591" class="elementor-tab-title elementor-tab-desktop-title elementor-active elementor-repeater-item-02a7bc9" data-tab="1" role="tab" aria-controls="elementor-tab-content-1591">
-                                             <span class="title text3bg">Companion Care</span>
+                                             <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Companion Care</span>
                                           </div>
                                           <div id="elementor-tab-title-1592" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-e99301d" data-tab="2" role="tab" aria-controls="elementor-tab-content-1592">
-                                             <span class="title text3bg">Personal Care</span>
+                                             <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Personal Care</span>
                                           </div>
                                           <div id="elementor-tab-title-1593" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-e7216ce" data-tab="3" role="tab" aria-controls="elementor-tab-content-1593">
-                                             <span class="title text3bg">Nursing Care</span>
+                                             <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Nursing Care</span>
                                           </div>
                                           <div id="elementor-tab-title-1594" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
-                                             <span class="title text3bg">Speciality Care</span>
+                                             <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Speciality Care</span>
                                           </div>
                                        </div>
                                        <div class="elementor-tabs-content-wrapper">
                                           <div class="elementor-tab-title elementor-tab-mobile-title elementor-active elementor-repeater-item-02a7bc9" data-tab="1" role="tab" aria-controls="elementor-tab-content-1591">
-                                             <a href="#" class="title">Companion Care</a>
+                                             <a href="#" class="title" style="font-size: 36px !important">Companion Care</a>
                                           </div>
                                           <div id="elementor-tab-content-1591" class="elementor-tab-content elementor-clearfix elementor-active elementor-repeater-item-02a7bc9" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1591">
                                              <div data-elementor-type="section" data-elementor-id="1386" class="elementor elementor-1386">
@@ -305,7 +310,7 @@
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #ffffff; font-weight: bold;">Sometimes care and support is needed not only at times of a complex medical need but also when you want to live a life that you want, doing things that you love, freely at your own pace.  Our professional non-medical caregivers provide emotional and physical assistance for seniors to give them confidence to feel safe and content while maintaining an independent and active lifestyle.
+                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Sometimes care and support is needed not only at times of a complex medical need but also when you want to live a life that you want, doing things that you love, freely at your own pace.  Our professional non-medical caregivers provide emotional and physical assistance for seniors to give them confidence to feel safe and content while maintaining an independent and active lifestyle.
                                                                </span>
                                                                </div>
                                                             </div>
@@ -316,7 +321,7 @@
                                              </div>
                                           </div>
                                           <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-e99301d" data-tab="2" role="tab" aria-controls="elementor-tab-content-1592">
-                                             <a href="#" class="title">Personal Care </a>
+                                             <a href="#" class="title" style="font-size: 36px !important">Personal Care </a>
                                           </div>
                                           <div id="elementor-tab-content-1592" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-e99301d" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1592">
                                              <div data-elementor-type="section" data-elementor-id="1517" class="elementor elementor-1517">
@@ -345,7 +350,7 @@
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #ffffff; font-weight: bold;">Personal home care makes it possible for seniors to age in place in the comforts while still maintaining their independence.  Personal home caregivers can help with day-to-day routine tasks and provide essential in-home support from private hygiene and toileting to dressing and maintaining personal appearance. 
+                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Personal home care makes it possible for seniors to age in place in the comforts while still maintaining their independence.  Personal home caregivers can help with day-to-day routine tasks and provide essential in-home support from private hygiene and toileting to dressing and maintaining personal appearance. 
                                                                </span>
                                                                </div>
                                                             </div>
@@ -356,7 +361,7 @@
                                              </div>
                                           </div>
                                           <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-e7216ce" data-tab="3" role="tab" aria-controls="elementor-tab-content-1593">
-                                             <a href="#" class="title">Nursing Care </a>
+                                             <a href="#" class="title" style="font-size: 36px !important">Nursing Care </a>
                                           </div>
                                           <div id="elementor-tab-content-1593" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-e7216ce" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1593">
                                              <div data-elementor-type="section" data-elementor-id="1805" class="elementor elementor-1805">
@@ -386,7 +391,7 @@
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #ffffff; font-weight: bold;">Nursing Care Services that are custom tailored to your unique circumstances and every need.  The main objective is to ensure that your loved one receives consistent and professionally regulated care to address any medical conditions.  
+                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Nursing Care Services that are custom tailored to your unique circumstances and every need.  The main objective is to ensure that your loved one receives consistent and professionally regulated care to address any medical conditions.  
                                                                </span>
                                                                </div>
                                                             </div>
@@ -397,7 +402,7 @@
                                              </div>
                                           </div>
                                           <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
-                                             <a href="#" class="title">Speciality Care </a>
+                                             <a href="#" class="title" style="font-size: 36px !important">Speciality Care </a>
                                           </div>
                                           <div id="elementor-tab-content-1594" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-00e6965" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1594">
                                              <div data-elementor-type="section" data-elementor-id="1840" class="elementor elementor-1840">
@@ -426,7 +431,7 @@
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #ffffff; font-weight: bold;">Sometimes specific medical conditions require specialized support and services for you or your loved one when facing specific challenges.  A customized care plan along with a professional caregiver will help you address any medical conditions while still being able to enjoy the best possible quality of life and experience independence. 
+                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Sometimes specific medical conditions require specialized support and services for you or your loved one when facing specific challenges.  A customized care plan along with a professional caregiver will help you address any medical conditions while still being able to enjoy the best possible quality of life and experience independence. 
                                                                </span>
                                                                </div>
                                                             </div>
@@ -474,8 +479,8 @@
                   </section>
                   <section class="elementor-section elementor-top-section elementor-element elementor-element-e0f6cb4 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e0f6cb4" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
                      <div class="elementor-container elementor-column-gap-no">
-                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-30e7187" data-id="30e7187" data-element_type="column">
-                           <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-column elementor-col-50  elementor-top-column elementor-element elementor-element-30e7187" data-id="30e7187" data-element_type="column">
+                           <div class="elementor-widget-wrap elementor-element-populated pr-5">
                              
                               <div class="elementor-element elementor-element-564c877 elementor-widget elementor-widget-heading" data-id="564c877" data-element_type="widget" data-widget_type="heading.default">
                                  <div class="elementor-widget-container">
@@ -487,6 +492,12 @@
                                  <div class="elementor-widget-container text3">
                                     Are you passionate in helping others? Join us and embark on a rewarding career that makes a meaningful difference in the lives of seniors. As a dedicated and compassionate caregiver, you will have the opportunity to listen to our clients and their families, fulfilling their unique needs and requests.                                  </div>
                               </div>
+
+                              <a href="career.php" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                 <span class="elementor-button-content-wrapper">
+                                 <span class="elementor-button-text">Apply now</span>
+                                 </span>
+                              </a>
                              
                            </div>
                         </div>

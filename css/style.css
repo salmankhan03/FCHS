@@ -151,7 +151,7 @@
     color: #797979 !important;
     font-family: 'Poppins', sans-serif !important;
     font-weight: 300 !important;
-    font-size: 16px;
+    font-size: 16px !important;
   }
 
   .text2{
@@ -162,6 +162,32 @@
 
   .text4{
     color: var(--primary) !important;
+  }
+
+  .main-menu .navigation > li:hover > a, .main-menu .navigation > li.current > a {
+    color: #007E8A !important;
+  }
+  
+  .main-menu .navigation > li > ul > li:hover > a {
+    color: #007E8A !important;
+  }
+  
+  .main-menu .navigation > li > ul > li > a:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 0px;
+    border-bottom: 2px solid #007E8A !important;
+    transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -webkit-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+  }
+  
+  .nav-outer .mobile-nav-toggler {
+    color: #007E8A !important;
   }
 
   .elementor-button{
@@ -3344,7 +3370,7 @@
  .news-section{
      position:relative;
      padding:0px 0px 60px;
-     background-color:#f2f2f2;
+     background-color:#edf1f4;
  }
  
  .news-section.style-two{
@@ -4065,7 +4091,7 @@
  }
  
  .mission-section.style-two{
-     background-color:#edf1f4;
+     /* background-color:#edf1f4; */
  }
  
  /*** 
@@ -4273,7 +4299,7 @@
  .contact-form-section{
      position:relative;
      padding:100px 0px 60px;
-     background-color:#edf1f4;
+     /* background-color:#edf1f4; */
  }
  
  .contact-form-section .title-box{
@@ -6671,3 +6697,17 @@
      padding:90px 0px 20px;
      background-color:#edf1f4;
  }
+
+ .jobUpperSpace{
+    margin-top: 120px !important;
+ }
+
+ .aboutUpper{
+    margin-top: 100px !important;
+ }
+
+ @media only screen and (max-width: 1020px){
+	.jobUpperSpace, .aboutUpper{
+		margin-top: 0px !important;
+	 }
+}

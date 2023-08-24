@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Job Title Form</title>
   <link href="css/style.css" rel="stylesheet">
+  <link href="css/responsive.css" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     .error-box{
@@ -43,7 +44,7 @@
     <form id="jobTitleForm" class="needs-validation" novalidate>
         <div class="row">
             <div class="col-md-12">
-                <h1 class="title">Professional Caregiver Application</h1>
+                <h1 class="title jobUpperSpace">Professional Caregiver Application</h1>
                 <!--<h6 class="form-label mt-5">Job Title</h6>-->
                 <!--<div class="simple-box">-->
                 <!--    Neighborhood Health Team Lead Nurse - Home Care, Island of Montreal, West-Island, North Shore and South Shore-->
@@ -210,8 +211,8 @@
                     </div>
                 </div>
 
-                <div class="btn-box mt-4 mb-4" style="margin-top: 20px">
-                    <button type="submit" class="theme-btn btn-style-one">Submit</button>
+                <div class="btn-box mt-4 mb-5" style="margin-top: 20px">
+                    <button type="submit" class="theme-btn btn-style-one mb-3">Submit</button>
                 </div>
             </div>
         </div>

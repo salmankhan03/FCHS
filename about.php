@@ -26,8 +26,8 @@
     <!-- End Main Header -->
 
         <!-- Our Team -->
-        <section class="mission-section style-two">
-		<div class="auto-container">
+        <section class="mission-section style-two ">
+		<div class="auto-container aboutUpper">
 			<div class="row clearfix">
 				
 				<!-- Title Column -->

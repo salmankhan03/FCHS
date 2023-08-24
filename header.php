@@ -58,10 +58,10 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
 
         <div class="header-top">
             <div class="auto-container clearfix">
-                <div class="top-left clearfix">
+                <!-- <div class="top-left clearfix">
                     <div class="text"><span class="icon flaticon-phone-receiver"></span> Need help? Call Us Now : <a href="tel:1800-456-7890" class="number">1800 456 7890</a></div>
 					
-                </div>
+                </div> -->
                 <div class="top-right clearfix">
 					<ul class="info-list">
                         <li><a href="career.php">Career</a></li>
@@ -103,7 +103,7 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                                     </li>
                                     <li class=""><a id="about" href="about.php">About us</a>
                                     </li>
-                                    <li class=""><a id="career" href="career.php">career</a>
+                                    <li class=""><a id="career" href="career.php">Career</a>
                                     </li>
                                     <li class=""><a id="contact" href="contact.php">Contact</a>
                                     </li>

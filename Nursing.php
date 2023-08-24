@@ -28,7 +28,7 @@
 
         <!--Page Title-->
         <section class="page-title" style="background-image:url(img/Services/banner_nursing.jpg)">
-            <div Style="height: 50px"></div>
+            <div Style="height: 150px"></div>
             <div Style="height: 50px"></div>
             <div Style="height: 50px"></div>
             <div Style="height: 50px"></div>
@@ -45,8 +45,8 @@
                     <!-- Title Column -->
                     <div class="content-column col-lg-4 col-md-5 col-sm-12">
                         <div class="">
-                            <h5 class="text3">OUR SERVICES</h5>
-                            <h2>Nursing Care </h2>
+                            <h5 class="text3" style="letter-spacing: 1px;">OUR SERVICES</h5>
+                            <h2 style="color: #007E8A !important">Nursing Care </h2>
                         </div>
                     </div>
 
@@ -78,7 +78,7 @@
                 <div class="sec-title style-two">
                     <div class="clearfix">
                         <div style="text-align: center">
-                            <h2 class="h2">Explore Our Services</h2>
+                            <h2 class="h2 pt-5">Explore Our Services</h2>
                         </div>
                     </div>
                 </div>

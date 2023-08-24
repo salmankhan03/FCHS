@@ -28,7 +28,7 @@
 
 		<!--Page Title-->
 		<section class="page-title" style="background-image:url(img/Services/banner_companion.jpg)">
-			<div Style="height: 50px"></div>
+			<div Style="height: 150px"></div>
 			<div Style="height: 50px"></div>
 			<div Style="height: 50px"></div>
 			<div Style="height: 50px"></div>
@@ -45,8 +45,8 @@
 					<!-- Title Column -->
 					<div class="content-column col-lg-4 col-md-5 col-sm-12">
 						<div class="">
-							<h5 class="text3">OUR SERVICES</h5>
-							<h2>Companion Care </h2>
+							<h5 class="text3" style="letter-spacing: 1px;">OUR SERVICES</h5>
+							<h2 style="color: #007E8A !important">Companion Care </h2>
 						</div>
 					</div>
 
@@ -54,8 +54,12 @@
 					<div class="content-column col-lg-8 col-md-7 col-sm-12">
 						<div class="inner-column">
 							<ul class="mission-list">
-								<li class="text3">Sometimes seniors have sudden change in temperament and troubling mood swings which affects their well-being. These abrupt behavioral changes are common in seniors who are affected by loneliness, isolation, or boredom. Companion caregivers can provide emotional and physical assistance allowing your loved one the ability to feel secure and content in their home. They can also accompany your loved one to their appointments and social outings which will help decrease anxiety, depression, and feelings of isolation while giving your family members a peace of mind.</li>
-								<li class="text3">While you support an older loved one and balance your own obligations and responsibilities, a Companion caregiver can give you a much-needed break and help you minimize your logistical challenges. Whether your loved one is interested in completing a puzzle, wanting to have a pleasant conversation over a cup of coffee, or play a board game, the Companion caregiver will provide socialization and enjoyable interaction. </li>
+								<li class="text3">
+									Sometimes care and support is needed not only at times of a complex medical mediacal need but also when you want to live a life that you want, doing things that you Love, freely at your own pace. 
+								</li>
+								<li class="text3">
+									Our professional non-medical caregivers provide emotional and physical assistance for seniors to give them confidenceto feel safe and content while maintaining and active lifestyle.
+								</li>
 							</ul>
 						</div>
 					</div>
@@ -73,7 +77,7 @@
 				<div class="sec-title style-two">
 					<div class="clearfix">
 						<div style="text-align: center">
-							<h2 class="h2">Explore Our Services</h2>
+							<h2 class="h2 pt-5">Explore Our Services</h2>
 						</div>
 					</div>
 				</div>
