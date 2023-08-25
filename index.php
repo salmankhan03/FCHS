@@ -350,8 +350,9 @@
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Personal home care makes it possible for seniors to age in place in the comforts while still maintaining their independence.  Personal home caregivers can help with day-to-day routine tasks and provide essential in-home support from private hygiene and toileting to dressing and maintaining personal appearance. 
-                                                               </span>
+                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">
+                                                                      Personal care makes it possible for seniors to age in place in the comforts while still maintaining their independence. Our caregivers can help with day-to-day routine tasks and provide essential support from private hygiene and toileting to dressing and maintaining personal appearance.
+                                                                 </span>
                                                                </div>
                                                             </div>
                                                          </div>
@@ -464,7 +465,6 @@
                               <div class="elementor-element elementor-element-76e1349 elementor-widget elementor-widget-heading" data-id="76e1349" data-element_type="widget" data-widget_type="heading.default">
                                  <div class="elementor-widget-container">
                                     <h2 class="elementor-heading-title elementor-size-default h2" style="font-size: 40px">Our Process 
-                                       living difference
                                     </h2>
                                  </div>
                               </div>

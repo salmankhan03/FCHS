@@ -60,6 +60,7 @@
                                     feeling safe, confident and comfortable. Specialized registered nurses provide essential
                                     healthcare services at a higher level of quality care which will give family members peace of
                                     mind.</li>
+                                    <br/>
                                 <li class="text3">No matter what your specialized needs are, we will offer you the best support from our medical
                                     professionals who are knowledgeable, experienced and specially trained in helping with a
                                     multitude of specific conditions.</li>

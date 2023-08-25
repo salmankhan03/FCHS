@@ -51,14 +51,14 @@
                                 <div class="footer-widget contact-widget">
                                 	<h2>CONTACT INFO</h2>
 									<div class="widget-content">
-										<a href="tel:1800-574-9687" style="font-size: 15px"  class="contact-number text4bg">(1800) 574 9687</a>
+										<a href="tel:1800-574-9687" style="font-size: 15px"  class="contact-number text4bg">+1 (778) 297-7108</a>
 									</div>
 									<div class="widget-content">
-										<a href="tel:1800-574-9687" style="font-size: 15px"  class="contact-number text4bg">info@example.com</a>
+										<a href="mailto:inquiry@fullcarehs.com" style="font-size: 15px"  class="contact-number text4bg">inquiry@fullcarehs.com</a>
 									</div>
 								</div>
 							</div>
-						
+					
 						</div>
 					</div>
 					
@@ -70,7 +70,7 @@
                                 <div class="footer-widget contact-widget">
                                 	<h2>Loaction</h2>
 									<div class="widget-content">
-										<a href="" class="contact-number " style="font-size:16px; color:#fff">936 Kiehn Route, West Ned, </br> Tennessee.</a>
+										<a href="" class="contact-number " style="font-size:16px; color:#fff">#200 - 3071 No. 5 Road <br/>Richmond, BC, V6X 2T4</a>
 									</div>
 								</div>
 							</div>
@@ -84,9 +84,7 @@
                 <div class="pull-left">
                     <div class="copyright" style="color:#fff">&copy; Copyright Full Care Health Service LTD. 2023. All right reserved.</div>
                 </div>
-                <div class="pull-right">
-                    <a href="#" class="purchase" style="color:#fff">Purchase Now</a>
-                </div>
+               
             </div>
 			
 		</div>

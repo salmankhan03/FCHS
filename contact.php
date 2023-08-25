@@ -45,7 +45,7 @@
 			<!-- Title Box -->
 			<div class="title-box">
 				<h2>Get In Touch</h2>
-				<div class="bold-text">Alternatively fill in the form and we will get back to you:</div>
+				<div class="bold-text">Please connect with us by filling out the form below and we will get back to you:</div>
 				<div class="required">Fields marked with an * are required</div>
 			</div>
 			
@@ -113,10 +113,10 @@
 							<img src="http://t.commonsupport.com/care-giver/images/resource/contact-1.jpg" alt="" />
 						</div>
 						<h3>Head Office:</h3>
-						<div class="text">The Royal Building <br> 85 Lourance Road, New York <br> HL 214588</div>
+						<div class="text">#200 - 3071 No. 5 Road <br/> Richmond, BC, V6X 2T4</div>
 						<ul>
-							<li>Tel: <a href="tel:1800-456-7890">1800 456 7890</a></li>
-							<li>Email: <a href="mailto:info@caregiver.co.in">info@caregiver.co.in</a></li>
+							<li>Tel: <a href="tel:1800-456-7890">+1 (778) 297-7108</a></li>
+							<li>Email: <a href="mailto:inquiry@fullcarehs.com">inquiry@fullcarehs.com</a></li>
 						</ul>
 					</div>
 				</div>

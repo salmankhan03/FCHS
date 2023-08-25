@@ -57,6 +57,7 @@
 								<li class="text3">
 									Sometimes care and support is needed not only at times of a complex medical mediacal need but also when you want to live a life that you want, doing things that you Love, freely at your own pace. 
 								</li>
+								<br/>
 								<li class="text3">
 									Our professional non-medical caregivers provide emotional and physical assistance for seniors to give them confidenceto feel safe and content while maintaining and active lifestyle.
 								</li>

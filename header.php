@@ -56,19 +56,21 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
         <!-- Header Upper -->
         <div class="header-upper">
 
-        <div class="header-top">
-            <div class="auto-container clearfix">
+     <!--   <div class="header-top">-->
+     <!--       <div class="auto-container clearfix">-->
                 <!-- <div class="top-left clearfix">
-                    <div class="text"><span class="icon flaticon-phone-receiver"></span> Need help? Call Us Now : <a href="tel:1800-456-7890" class="number">1800 456 7890</a></div>
+     <!--               <div class="text"><span class="icon flaticon-phone-receiver"></span> Need help? Call Us Now : <a href="tel:1800-456-7890" class="number">1800 456 7890</a></div>-->
 					
-                </div> -->
-                <div class="top-right clearfix">
-					<ul class="info-list">
-                        <li><a href="career.php">Career</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+     <!--           </div> -->
+     <!--           <div class="top-right clearfix">-->
+					<!--<ul class="info-list">-->
+     <!--                   <li>-->
+     <!--                       <a href="career.php">TBD</a>-->
+     <!--                   </li>-->
+     <!--               </ul>-->
+     <!--           </div>-->
+     <!--       </div>-->
+     <!--   </div>-->
         
             <div class="inner-container">
                 
