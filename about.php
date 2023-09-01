@@ -56,7 +56,7 @@
 
 
     <!-- Our Service Section -->
-	<section class="quality-section" >
+	<section class="quality-section" style="background-color: #edf1f4">
 		<div class="auto-container">
 			<div class="inner-container">
 				
@@ -103,7 +103,7 @@
 							<!-- Sec Title Two -->
 							<div class="sec-title-two style-two">
 								<h2 class="h3">We are seeking compassionate individuals like you to join our team. </h2>
-								<div class="text text3">If you have a genuine love for the elderly, a desire to make a positive impact, and a passion for creating meaningful connections, then we invite you to embark on a fulfilling journey with us. </div>
+								<div class="text text3" style="color: #007E8A !important">If you have a genuine love for the elderly, a desire to make a positive impact, and a passion for creating meaningful connections, then we invite you to embark on a fulfilling journey with us. </div>
 							</div>
 							<div class="btn-box" style="margin-top: 20px">
 								<a href="career.php" class="theme-btn btn-style-one"><span class="txt">Apply Now</span></a>

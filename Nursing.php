@@ -45,7 +45,7 @@
                     <!-- Title Column -->
                     <div class="content-column col-lg-4 col-md-5 col-sm-12">
                         <div class="">
-                            <h5 class="text3" style="letter-spacing: 1px;">OUR SERVICES</h5>
+                            <h5 class="text3" style="letter-spacing: 2px !important;">OUR SERVICES</h5>
                             <h2 style="color: #007E8A !important">Nursing Care </h2>
                         </div>
                     </div>
@@ -76,7 +76,7 @@
 
                 <!-- Sec Title -->
                 <div class="sec-title style-two">
-                    <div class="clearfix">
+                    <div class="clearfix  pt-4 pb-4">
                         <div style="text-align: center">
                             <h2 class="h2 pt-5">Explore Our Services</h2>
                         </div>

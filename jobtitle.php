@@ -42,7 +42,7 @@
     <div class="page-wrapper">
         <div class="preloader"></div>
         <?php include 'header.php'; ?>
-        <div class="container mt-5">
+        <div class="container mt-5 mb-5">
             <form id="jobTitleForm" class="needs-validation" action="send-job-title-mail.php" method="post" novalidate>
                 <div class="row">
                     <div class="col-md-12">

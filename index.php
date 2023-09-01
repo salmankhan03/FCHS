@@ -11,6 +11,9 @@
 <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet">
 
 <link href="https://fonts.google.com/specimen/Poppins?query=poppin" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Poppins:ital,wght@0,100;1,300&display=swap" rel="stylesheet">
 
 <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 <link rel="icon" href="images/favicon.png" type="image/x-icon">
@@ -205,7 +208,7 @@
 			<!-- Title Box -->
 			<div class="title-box">
 				<h2 class="h3 mb-1">Highly Trained and Compassionate Nursing to Support Your Well Being </h2>
-				<div class="bold-text text2 mt-4" style="font-size: 21px !important">At Full Care Health Services, our team of compassionate caregivers and nurses are committed to going above and beyond to ensure the well-being, safety, and happiness of our elders requiring assistance. </div>
+				<div class="bold-text text2 mt-4 pt-3 pb-1" style="font-size: 21px !important">At Full Care Health Services, our team of compassionate caregivers and nurses are committed to going above and beyond to ensure the well-being, safety, and happiness of our elders requiring assistance. </div>
 				<div class="text text3 p-4" style="color: #007E8A !important">We believe that every senior deserves the utmost respect, compassion, and attention, and it is an honor to be entrusted with their care. We offer a wide range of personalized solutions tailored to meet you or your family’s specific requirements. Whether it's assistance with daily living activities, specialized medical care, or simply companionship, our team is equipped to provide the support you needed to enhance your quality of life.  </div>
 			</div>
 
@@ -222,7 +225,7 @@
 				<div class="image-layer" style="background-color: #2A536A"></div>
 				<div class="content-box">
 					<h2 class="h2bg">Mission </h2>
-					<div class="text text2bg mb-4 mt-4" style="line-height: 1.4; font-size: 22px !important">To support seniors in our community through professional and compassionate services</div>
+					<div class="text text2bg mb-4 mt-4" style="line-height: 1.4; font-size: 22px !important; font-family: 'Lora', serif !important;">To support seniors in our community through professional and compassionate services</div>
 					<div class="text3bg  pb-4">We believe in fostering independence, dignity, and a sense of belonging among the elderly by providing a nurturing environment and building strong connections. Our commitment is to celebrate and uplift the lives of our beloved seniors, ensuring they age with grace, fulfillment, and the utmost respect.  </div>
 				</div>
 			</div>
@@ -243,7 +246,7 @@
     <!-- How we can help -->
 
     <div id="page" class="hfeed site">
-         <div id="content" class="site-content" tabindex="-1">
+         <div id="content" class="site-content" style="margin-bottom: 0px" tabindex="-1">
             <div class="col-full">
                <div data-elementor-type="wp-page" data-elementor-id="1058" class="elementor elementor-1058">
                   <section class="elementor-section elementor-top-section mb-5  elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bf7e69" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
@@ -281,7 +284,7 @@
                                        </div>
                                        <div class="elementor-tabs-content-wrapper">
                                           <div class="elementor-tab-title elementor-tab-mobile-title elementor-active elementor-repeater-item-02a7bc9" data-tab="1" role="tab" aria-controls="elementor-tab-content-1591">
-                                             <a href="#" class="title" style="font-size: 36px !important">Companion Care</a>
+                                             <a href="#" class="title">Companion Care</a>
                                           </div>
                                           <div id="elementor-tab-content-1591" class="elementor-tab-content elementor-clearfix elementor-active elementor-repeater-item-02a7bc9" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1591">
                                              <div data-elementor-type="section" data-elementor-id="1386" class="elementor elementor-1386">
@@ -300,12 +303,12 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-97cca35 elementor-widget elementor-widget-heading" data-id="97cca35" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Companion Care</h4>
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">Companion Care</h4>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4">Dedicated care to help you live independently and maintain quality of life</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important;">Dedicated care to help you live independently and maintain quality of life</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
@@ -321,7 +324,7 @@
                                              </div>
                                           </div>
                                           <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-e99301d" data-tab="2" role="tab" aria-controls="elementor-tab-content-1592">
-                                             <a href="#" class="title" style="font-size: 36px !important">Personal Care </a>
+                                             <a href="#" class="title" >Personal Care </a>
                                           </div>
                                           <div id="elementor-tab-content-1592" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-e99301d" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1592">
                                              <div data-elementor-type="section" data-elementor-id="1517" class="elementor elementor-1517">
@@ -340,7 +343,7 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-b2080be elementor-widget elementor-widget-heading" data-id="b2080be" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Personal Care </h4>
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">Personal Care </h4>
                                                                </div>
                                                             </div>
                                                              <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
@@ -362,7 +365,7 @@
                                              </div>
                                           </div>
                                           <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-e7216ce" data-tab="3" role="tab" aria-controls="elementor-tab-content-1593">
-                                             <a href="#" class="title" style="font-size: 36px !important">Nursing Care </a>
+                                             <a href="#" class="title" >Nursing Care </a>
                                           </div>
                                           <div id="elementor-tab-content-1593" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-e7216ce" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1593">
                                              <div data-elementor-type="section" data-elementor-id="1805" class="elementor elementor-1805">
@@ -382,7 +385,7 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-dea8eb9 elementor-widget elementor-widget-heading" data-id="dea8eb9" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Nursing Care </h4>
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">Nursing Care </h4>
                                                                </div>
                                                             </div>
                                                               <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
@@ -403,7 +406,7 @@
                                              </div>
                                           </div>
                                           <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
-                                             <a href="#" class="title" style="font-size: 36px !important">Speciality Care </a>
+                                             <a href="#" class="title" >Speciality Care </a>
                                           </div>
                                           <div id="elementor-tab-content-1594" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-00e6965" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1594">
                                              <div data-elementor-type="section" data-elementor-id="1840" class="elementor elementor-1840">
@@ -422,7 +425,7 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-24fde84 elementor-widget elementor-widget-heading" data-id="24fde84" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h4 class="elementor-heading-title elementor-size-default h3">Speciality Care</h4>
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">Speciality Care</h4>
                                                                </div>
                                                             </div>
                                                          <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
