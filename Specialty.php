@@ -27,7 +27,7 @@
         <!-- End Main Header -->
 
         <!--Page Title-->
-        <section class="page-title" style="background-image:url(img/Services/banner_specilty.jpg)">
+        <section class="page-title" style="background-image:url(img/Services/banner_specialty.jpg)">
             <div Style="height: 150px"></div>
             <div Style="height: 50px"></div>
             <div Style="height: 50px"></div>

@@ -281,6 +281,9 @@
                                           <div id="elementor-tab-title-1594" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
                                              <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Speciality Care</span>
                                           </div>
+                                          <div id="elementor-tab-title-1595" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1595">
+                                             <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">New Tab</span>
+                                          </div>
                                        </div>
                                        <div class="elementor-tabs-content-wrapper">
                                           <div class="elementor-tab-title elementor-tab-mobile-title elementor-active elementor-repeater-item-02a7bc9" data-tab="1" role="tab" aria-controls="elementor-tab-content-1591">
@@ -289,7 +292,9 @@
                                           <div id="elementor-tab-content-1591" class="elementor-tab-content elementor-clearfix elementor-active elementor-repeater-item-02a7bc9" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1591">
                                              <div data-elementor-type="section" data-elementor-id="1386" class="elementor elementor-1386">
                                                 <section class="elementor-section elementor-top-section elementor-element elementor-element-ab6bb75 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ab6bb75" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
-                                                   <div class="elementor-container elementor-column-gap-no">
+                                                <div class="elementor-background-overlay"></div>
+  
+                                                <div class="elementor-container elementor-column-gap-no">
                                                       <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6fe0974" data-id="6fe0974" data-element_type="column">
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-bf9cb5f elementor-widget elementor-widget-image" data-id="bf9cb5f" data-element_type="widget" data-widget_type="image.default">
@@ -308,7 +313,7 @@
                                                             </div>
                                                             <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important;">Dedicated care to help you live independently and maintain quality of life</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Dedicated care to help you live independently and maintain quality of life</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
@@ -329,6 +334,7 @@
                                           <div id="elementor-tab-content-1592" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-e99301d" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1592">
                                              <div data-elementor-type="section" data-elementor-id="1517" class="elementor elementor-1517">
                                                 <section class="elementor-section elementor-top-section elementor-element elementor-element-152009b elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="152009b" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                                                <div class="elementor-background-overlay"></div>
                                                    <div class="elementor-container elementor-column-gap-no">
                                                       <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-25df738" data-id="25df738" data-element_type="column">
                                                          <div class="elementor-widget-wrap elementor-element-populated">
@@ -348,7 +354,7 @@
                                                             </div>
                                                              <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4">Daily personal living tasks and private hygiene provided by a professional and fully-trained caregiver. </h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px" >Daily personal living tasks and private hygiene provided by a professional and fully-trained caregiver. </h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
@@ -390,12 +396,12 @@
                                                             </div>
                                                               <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4">Receive the highest specialized care ensuring your medical needs are looked after by licensed nurses </h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Receive the highest specialized care ensuring your medical needs are looked after by licensed nurses </h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Nursing Care Services that are custom tailored to your unique circumstances and every need.  The main objective is to ensure that your loved one receives consistent and professionally regulated care to address any medical conditions.  
+                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4;">Nursing Care Services that are custom tailored to your unique circumstances and every need.  The main objective is to ensure that your loved one receives consistent and professionally regulated care to address any medical conditions.  
                                                                </span>
                                                                </div>
                                                             </div>
@@ -411,7 +417,9 @@
                                           <div id="elementor-tab-content-1594" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-00e6965" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1594">
                                              <div data-elementor-type="section" data-elementor-id="1840" class="elementor elementor-1840">
                                                 <section class="elementor-section elementor-top-section elementor-element elementor-element-444f988 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="444f988" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
-                                                   <div class="elementor-container elementor-column-gap-no">
+                                                <div class="elementor-background-overlay"></div>
+   
+                                                <div class="elementor-container elementor-column-gap-no">
                                                       <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5cddd68" data-id="5cddd68" data-element_type="column">
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-c01f91b elementor-widget elementor-widget-image" data-id="c01f91b" data-element_type="widget" data-widget_type="image.default">
@@ -430,7 +438,47 @@
                                                             </div>
                                                          <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4">Flexibility and specialized care by professional caregivers will provide you with the peace of mind and relief necessary to fulfill an individual’s unique needs. </h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Flexibility and specialized care by professional caregivers will provide you with the peace of mind and relief necessary to fulfill an individual’s unique needs. </h2>
+                                                               </div>
+                                                            </div>
+                                                            <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
+                                                               <div class="elementor-widget-container text3">
+                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Sometimes specific medical conditions require specialized support and services for you or your loved one when facing specific challenges.  A customized care plan along with a professional caregiver will help you address any medical conditions while still being able to enjoy the best possible quality of life and experience independence. 
+                                                               </span>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </section>
+                                             </div>
+                                          </div>
+                                          <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
+                                             <a href="#" class="title" >Speciality Care </a>
+                                          </div>
+                                          <div id="elementor-tab-content-1595" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-00e6965" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1595">
+                                             <div data-elementor-type="section" data-elementor-id="1840" class="elementor elementor-1840">
+                                                <section class="elementor-section elementor-top-section elementor-element elementor-element-444f988 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="444f988" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">  
+                                                   <div class="elementor-container elementor-column-gap-no">
+                                                      <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5cddd68" data-id="5cddd68" data-element_type="column">
+                                                         <div class="elementor-widget-wrap elementor-element-populated">
+                                                            <div class="elementor-element elementor-element-c01f91b elementor-widget elementor-widget-image" data-id="c01f91b" data-element_type="widget" data-widget_type="image.default">
+                                                               <div class="elementor-widget-container">
+                                                                  <img width="660" height="425" src="img/Home/img_service_specialty.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_service_specialty.jpg 660w, img/Home/img_service_specialty.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /> 
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                      <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c60374b" data-id="c60374b" data-element_type="column">
+                                                         <div class="elementor-widget-wrap elementor-element-populated">
+                                                            <div class="elementor-element elementor-element-24fde84 elementor-widget elementor-widget-heading" data-id="24fde84" data-element_type="widget" data-widget_type="heading.default">
+                                                               <div class="elementor-widget-container">
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">New Tab</h4>
+                                                               </div>
+                                                            </div>
+                                                         <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
+                                                               <div class="elementor-widget-container">
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Flexibility and specialized care by professional caregivers will provide you with the peace of mind and relief necessary to fulfill an individual’s unique needs. </h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
@@ -452,7 +500,8 @@
                   </section>
                  
                   <section class="elementor-section elementor-top-section elementor-element elementor-element-ff72304 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="ff72304" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;opal-am-popup&quot;,&quot;animation_delay&quot;:100}">
-                     <div class="elementor-container elementor-column-gap-no">
+   
+                  <div class="elementor-container elementor-column-gap-no">
                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9bb7472" data-id="9bb7472" data-element_type="column">
                            <div class="elementor-widget-wrap elementor-element-populated">
                               <div class="elementor-element elementor-element-3e0093b elementor-widget elementor-widget-image" data-id="3e0093b" data-element_type="widget" data-widget_type="image.default">

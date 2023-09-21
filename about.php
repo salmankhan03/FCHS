@@ -79,7 +79,7 @@
 							<!-- Sec Title Two -->
 							
 							<div class="sec-title-two style-two">
-								<h4 class="h2" style="color: #fff">Why Choose Us </h4>
+								<h4 class="h2 pb-2" style="color: #fff">Why Choose Us </h4>
 								<div class="text3" style="color: #fff" class="text">We offer a full range of high-quality services enabling you and your loved one’s peace of mind.  Our focus is to help clients maintain their sense of independence within the comfort and respect.  Through considerate, compassionate, high-quality care, we focus on upholding the dignity of all those we take care of.  We ensure that our experienced care professionals are carefully selected, trustworthy, and they are committed to the highest professional standards of patient-centred care.  </div>
 							</div>
 						</div>
