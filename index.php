@@ -107,9 +107,9 @@
                    
                     
 					</li>
-                     <!--
+                     
                     <li data-transition="parallaxvertical" data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1689" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="images/main-slider/2.jpg" data-title="Slide Title">
-                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="http://t.commonsupport.com/care-giver/images/main-slider/2.jpg">
+                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="img/Home/banner_home.jpg">
                     
                     <div class="tp-caption" 
                     data-paddingbottom="[0,0,0,0]"
@@ -127,7 +127,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <h2 class="h1">In Home Care That <br> Elevates the Human Spirit</h2>
+                        <h2 class="h1">Custom care <br> services</h2>
                     </div>
                     
                     <div class="tp-caption" 
@@ -146,56 +146,11 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="text text1">The care you need in the place you want. Discover the difference Visiting Angels will make in the life of your loved one.</div>
+                        <div class="text text1">Live life on your own terms</div>
                     </div>
                     
                     
                     </li>
-					
-					<li data-transition="parallaxvertical" data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1690" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="images/main-slider/3.jpg" data-title="Slide Title">
-                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="http://t.commonsupport.com/care-giver/images/main-slider/2.jpg">
-                    
-                    <div class="tp-caption" 
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingtop="[0,0,0,0]"
-                    data-responsive_offset="on"
-                    data-type="text"
-                    data-height="none"
-                    data-width="['700','650','650','450']"
-                    data-whitespace="normal"
-                    data-hoffset="['15','15','15','15']"
-                    data-voffset="['-80','-110','-110','-110']"
-                    data-x="['left','left','left','left']"
-                    data-y="['middle','middle','middle','middle']"
-                    data-textalign="['top','top','top','top']"
-                    data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <h2 class="h1">Quality Home Care Service, <br> You Can Trust Blindly</h2>
-                    </div>
-                    
-                    <div class="tp-caption" 
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingtop="[0,0,0,0]"
-                    data-responsive_offset="on"
-                    data-type="text"
-                    data-height="none"
-                    data-width="['650','650','650','450']"
-                    data-whitespace="normal"
-                    data-hoffset="['15','15','15','15']"
-                    data-voffset="['35','10','10','10']"
-                    data-x="['left','left','left','left']"
-                    data-y="['middle','middle','middle','middle']"
-                    data-textalign="['top','top','top','top']"
-                    data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="text text1">The care you need in the place you want. Discover the difference Visiting Angels will make in the life of your loved one.</div>
-                    </div>
-                    
-                    
-                    </li>
-                    -->
                 </ul>
             </div>
         </div>
@@ -207,9 +162,9 @@
 		<div class="auto-container">
 			<!-- Title Box -->
 			<div class="title-box">
-				<h2 class="h3 mb-1">Highly Trained and Compassionate Nursing to Support Your Well Being </h2>
-				<div class="bold-text text2 mt-4 pt-3 pb-1" style="font-size: 21px !important">At Full Care Health Services, our team of compassionate caregivers and nurses are committed to going above and beyond to ensure the well-being, safety, and happiness of our elders requiring assistance. </div>
-				<div class="text text3 p-4" style="color: #007E8A !important">We believe that every senior deserves the utmost respect, compassion, and attention, and it is an honor to be entrusted with their care. We offer a wide range of personalized solutions tailored to meet you or your family’s specific requirements. Whether it's assistance with daily living activities, specialized medical care, or simply companionship, our team is equipped to provide the support you needed to enhance your quality of life.  </div>
+				<h2 class="h3 mb-1">Highly Trained and Compassionate Nursing to Support Your Well-Being</h2>
+				<div class="bold-text text2 mt-4 pt-3 pb-1" style="font-size: 21px !important">At Full Care Health Services, we are devoted to supporting our seniors. Our team of nurses are committed to the health and well-being of all seniors.</div>
+				<div class="text text3 p-4" style="color: #007E8A !important">We believe that all seniors deserve to be treated with respect, compassion, and attention, for it is truly an honour to be entrusted with their care. From companion care to specialty care, our plans are carefully designed to meet your needs and support you in life.</div>
 			</div>
 
 		</div>
@@ -281,8 +236,8 @@
                                           <div id="elementor-tab-title-1594" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
                                              <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Speciality Care</span>
                                           </div>
-                                          <div id="elementor-tab-title-1595" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1595">
-                                             <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">New Tab</span>
+                                          <div id="elementor-tab-title-1595" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1595" style="background-color: #f7d5d5 !important">
+                                             <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Spa Care</span>
                                           </div>
                                        </div>
                                        <div class="elementor-tabs-content-wrapper">
@@ -313,12 +268,12 @@
                                                             </div>
                                                             <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Dedicated care to help you live independently and maintain quality of life</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Dedicated care to help you live independently and maintain your quality of life</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Sometimes care and support is needed not only at times of a complex medical need but also when you want to live a life that you want, doing things that you love, freely at your own pace.  Our professional non-medical caregivers provide emotional and physical assistance for seniors to give them confidence to feel safe and content while maintaining an independent and active lifestyle.
+                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Looking for a friend that will walk alongside you and enhance your quality of life? Our professional non-medical caregivers will support seniors emotionally and physically, providing a sense of safety and happiness.
                                                                </span>
                                                                </div>
                                                             </div>
@@ -354,13 +309,13 @@
                                                             </div>
                                                              <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px" >Daily personal living tasks and private hygiene provided by a professional and fully-trained caregiver. </h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px" >Daily personal living tasks and private hygiene provided by a professional and fully trained caregiver.</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
                                                                   <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">
-                                                                      Personal care makes it possible for seniors to age in place in the comforts while still maintaining their independence. Our caregivers can help with day-to-day routine tasks and provide essential support from private hygiene and toileting to dressing and maintaining personal appearance.
+                                                                  Age inside of the comforts of your own home. Our personal care services are structured to assist you with everyday tasks while you embark on your journey to an active and independent lifestyle.
                                                                  </span>
                                                                </div>
                                                             </div>
@@ -396,12 +351,12 @@
                                                             </div>
                                                               <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Receive the highest specialized care ensuring your medical needs are looked after by licensed nurses </h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Receive premium-level care that ensures your medical needs are looked after.</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4;">Nursing Care Services that are custom tailored to your unique circumstances and every need.  The main objective is to ensure that your loved one receives consistent and professionally regulated care to address any medical conditions.  
+                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4;">At Fully Care Health Services, our nursing care is specially designed to meet your unique personal needs. Each plan is carefully mapped out according to the needs of each senior, guaranteeing consistent ample care for you or your loved ones. 
                                                                </span>
                                                                </div>
                                                             </div>
@@ -438,12 +393,12 @@
                                                             </div>
                                                          <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Flexibility and specialized care by professional caregivers will provide you with the peace of mind and relief necessary to fulfill an individual’s unique needs. </h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Flexibility and specialized care by professional caregivers will provide you with the peace of mind and relief necessary to fulfill an individual’s unique needs.</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Sometimes specific medical conditions require specialized support and services for you or your loved one when facing specific challenges.  A customized care plan along with a professional caregiver will help you address any medical conditions while still being able to enjoy the best possible quality of life and experience independence. 
+                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Some specific medical conditions require specialized support and services. Our specialty care plan is designed to help address your medical conditions while ensuring the best possible quality of life and independence.
                                                                </span>
                                                                </div>
                                                             </div>
@@ -458,7 +413,7 @@
                                           </div>
                                           <div id="elementor-tab-content-1595" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-00e6965" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1595">
                                              <div data-elementor-type="section" data-elementor-id="1840" class="elementor elementor-1840">
-                                                <section class="elementor-section elementor-top-section elementor-element elementor-element-444f988 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="444f988" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">  
+                                                <section class="elementor-section elementor-top-section elementor-element elementor-element-444f988 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="444f988" style="background-color: #f7d5d5 !important" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">  
                                                    <div class="elementor-container elementor-column-gap-no">
                                                       <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5cddd68" data-id="5cddd68" data-element_type="column">
                                                          <div class="elementor-widget-wrap elementor-element-populated">
@@ -473,17 +428,17 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-24fde84 elementor-widget elementor-widget-heading" data-id="24fde84" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">New Tab</h4>
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">Spa Care</h4>
                                                                </div>
                                                             </div>
                                                          <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Flexibility and specialized care by professional caregivers will provide you with the peace of mind and relief necessary to fulfill an individual’s unique needs. </h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Experience total bliss and rejuvenation through our spa care services.</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Sometimes specific medical conditions require specialized support and services for you or your loved one when facing specific challenges.  A customized care plan along with a professional caregiver will help you address any medical conditions while still being able to enjoy the best possible quality of life and experience independence. 
+                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">We understand self-care is important, our spa care offers a variety of different services carefully orchestrated to have you feeling rejuvenated after your visit. From body massages to nail care, our skillfully trained professionals are committed to making you or your loved one’s experience unforgettable.
                                                                </span>
                                                                </div>
                                                             </div>

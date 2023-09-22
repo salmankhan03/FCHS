@@ -101,6 +101,7 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                                             <li><a href="Personal.php">Personal Care</a></li>
                                             <li><a href="Nursing.php">Nursing Care</a></li>
                                             <li><a href="Specialty.php">Specialty Care</a></li>
+                                            <li><a href="spa.php">Spa Care</a></li>
                                         </ul>
                                     </li>
                                     <li class=""><a id="about" href="about.php">About us</a>
@@ -158,7 +159,7 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
 		} else if(path === "about.php") {
 			const element = document.getElementById('about');
 			element.style.color = '#007E8A';
-		} else if(path === "service.php" || path === "Personal.php" || path === "Nursing.php" || path === "Specialty.php") {
+		} else if(path === "service.php" || path === "Personal.php" || path === "Nursing.php" || path === "Specialty.php" || path === "spa.php") {
 			const element = document.getElementById('service');
 			element.style.color = '#007E8A';
 		} else if(path === "career.php") {

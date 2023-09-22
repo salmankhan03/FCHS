@@ -27,7 +27,7 @@
         <!-- End Main Header -->
 
         <!--Page Title-->
-        <section class="page-title" style="background-image:url(img/Services/banner_specialty.jpg)">
+        <section class="page-title" style="background-image:url(img/Services/banner_spa.jpg)">
             <div Style="height: 150px"></div>
             <div Style="height: 50px"></div>
             <div Style="height: 50px"></div>
@@ -46,7 +46,7 @@
                     <div class="content-column col-lg-4 col-md-5 col-sm-12">
                         <div class="">
                             <h5 class="text3" style="letter-spacing: 2px !important;">OUR SERVICES</h5>
-                            <h2 style="color: #007E8A !important">Specialty Care </h2>
+                            <h2 style="color: #007E8A !important">Spa Care</h2>
                         </div>
                     </div>
 
@@ -54,16 +54,11 @@
                     <div class="content-column col-lg-8 col-md-7 col-sm-12">
                         <div class="inner-column">
                             <ul class="mission-list">
-                                <li class="text3">Seniors face an unfortunate reality that as they age, they will experience a wide variety of
-                                    health issues and medical conditions. The personalized approach that customizes care to meet
-                                    specific wants or needs will enable your loved one to keep up with their activities while still
-                                    feeling safe, confident and comfortable. Specialized registered nurses provide essential
-                                    healthcare services at a higher level of quality care which will give family members peace of
-                                    mind.</li>
-                                    <br/>
-                                <li class="text3">No matter what your specialized needs are, we will offer you the best support from our medical
-                                    professionals who are knowledgeable, experienced and specially trained in helping with a
-                                    multitude of specific conditions.</li>
+                                <li class="text3">Everybody deserves a day for themselves. Our Spa Care services offer a variety of special services that will help carry out those plans, guaranteeing seniors will be re-energized and relaxed. Highly trained professionals will provide services that range from haircuts to body massages, skin care, and even nail care.</li>
+                                <br/>
+								<li class="text3">
+                                    Practice self-love in a space that prioritizes comfort, dignity, and satisfaction. Book your appointment today and embark on a journey of beauty, self-care, and renewal.
+								</li>
                             </ul>
                         </div>
                     </div>
@@ -101,7 +96,6 @@
                         </div>
                     </div>
 
-                    <!-- News Block -->
                     <div class="news-block col-lg-3 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
@@ -125,16 +119,17 @@
                         </div>
                     </div>
 
+                    <!-- News Block -->
                     <div class="news-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="image">
-								<a href="spa.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
-							</div>
-							<div class="lower-content">
-								<h5 style="text-align: center"><a class="h4" href="Specialty.php">Spa Care</a></h5>
-							</div>
-						</div>
-					</div>
+                        <div class="inner-box">
+                            <div class="image">
+                                <a href="Specialty.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
+                            </div>
+                            <div class="lower-content">
+                                <h5 style="text-align: center"><a class="h4" href="Specialty.php">Specialty Care</a></h5>
+                            </div>
+                        </div>
+                    </div>
 
                 </div>
 
@@ -144,6 +139,7 @@
         <?php include 'footer.php' ?>
     </div>
     <!--End pagewrapper-->
+    
 
     <!--Scroll to top-->
     <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>

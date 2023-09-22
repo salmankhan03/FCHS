@@ -27,7 +27,9 @@
     <!-- End Main Header -->
 
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(http://t.commonsupport.com/care-giver/images/background/3.jpg)">
+    <section class="page-title" style="background-image:url(img/banner_career.jpg)">
+        <div Style="height: 50px"></div>
+        <div Style="height: 50px"></div>
         <div Style="height: 50px"></div>
         <div Style="height: 50px"></div>
         <div Style="height: 50px"></div>

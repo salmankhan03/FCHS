@@ -87,7 +87,7 @@
 				<div class="row clearfix">
 
 					<!-- News Block -->
-					<div class="news-block col-lg-4 col-md-6 col-sm-12">
+					<div class="news-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="image">
 								<a href="Personal.php"><img src="img/Services/img_personal.jpg" alt="" /></a>
@@ -99,7 +99,7 @@
 					</div>
 
 					<!-- News Block -->
-					<div class="news-block col-lg-4 col-md-6 col-sm-12">
+					<div class="news-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="image">
 								<a href="Nursing.php"><img src="img/Services/img_nursing.jpg" alt="" /></a>
@@ -111,13 +111,24 @@
 					</div>
 
 					<!-- News Block -->
-					<div class="news-block col-lg-4 col-md-6 col-sm-12">
+					<div class="news-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="image">
 								<a href="Specialty.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
 							</div>
 							<div class="lower-content">
 								<h5 style="text-align: center"><a class="h4" href="Specialty.php">Specialty Care</a></h5>
+							</div>
+						</div>
+					</div>
+
+					<div class="news-block col-lg-3 col-md-6 col-sm-12">
+						<div class="inner-box">
+							<div class="image">
+								<a href="spa.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
+							</div>
+							<div class="lower-content">
+								<h5 style="text-align: center"><a class="h4" href="Specialty.php">Spa Care</a></h5>
 							</div>
 						</div>
 					</div>
