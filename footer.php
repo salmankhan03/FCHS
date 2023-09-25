@@ -68,7 +68,7 @@
 							<!--Footer Column-->
                             <div class="footer-column col-lg-12 col-md-12 col-sm-12">
                                 <div class="footer-widget contact-widget">
-                                	<h2>Loaction</h2>
+                                	<h2>LOCATION</h2>
 									<div class="widget-content">
 										<a href="" class="contact-number " style="font-size:16px; color:#fff">#200 - 3071 No. 5 Road <br/>Richmond, BC, V6X 2T4</a>
 									</div>
