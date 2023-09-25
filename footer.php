@@ -37,7 +37,7 @@
                             <div class="footer-column col-lg-12 col-md-12 col-sm-12">
                                 <div class="footer-widget logo-widget">
 									<div class="logo">
-                                    	<a href="index.php"><img src="img/logo.png" alt="" /></a>
+                                    	<a href="index.php"><img src="img/logo_white.png" alt="" /></a>
                                     </div>
 								</div>
 							</div>
@@ -51,7 +51,7 @@
                                 <div class="footer-widget contact-widget">
                                 	<h2>CONTACT INFO</h2>
 									<div class="widget-content">
-										<a href="tel:1800-574-9687" style="font-size: 15px"  class="contact-number text4bg">+1 (778) 297-7108</a>
+										<a href="tel:1800-574-9687" style="font-size: 15px; margin-bottom: 0px !important"  class="contact-number text4bg">+1 (778) 297-7108</a>
 									</div>
 									<div class="widget-content">
 										<a href="mailto:inquiry@fullcarehs.com" style="font-size: 15px"  class="contact-number text4bg">inquiry@fullcarehs.com</a>

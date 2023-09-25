@@ -419,7 +419,7 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-c01f91b elementor-widget elementor-widget-image" data-id="c01f91b" data-element_type="widget" data-widget_type="image.default">
                                                                <div class="elementor-widget-container">
-                                                                  <img width="660" height="425" src="img/Home/img_service_specialty.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_service_specialty.jpg 660w, img/Home/img_service_specialty.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /> 
+                                                                  <img width="660" height="425" src="img/Home/img_service_spa.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_service_specialty.jpg 660w, img/Home/img_service_specialty.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /> 
                                                                </div>
                                                             </div>
                                                          </div>
