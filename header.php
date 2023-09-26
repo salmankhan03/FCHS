@@ -97,18 +97,18 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                                     </li>
                                     <li class="dropdown"><a id="service" href="service.php">Services</a>
                                         <ul>
-                                            <li><a href="service.php">Companion Care</a></li>
-                                            <li><a href="Personal.php">Personal Care</a></li>
-                                            <li><a href="Nursing.php">Nursing Care</a></li>
-                                            <li><a href="Specialty.php">Specialty Care</a></li>
-                                            <li><a href="spa.php">Spa Care</a></li>
+                                            <li><a href="Companion_Care.php">Companion Care</a></li>
+                                            <li><a href="Personal_Care.php">Personal Care</a></li>
+                                            <li><a href="Nursing_Care.php">Nursing Care</a></li>
+                                            <li><a href="Specialty_Care.php">Specialty Care</a></li>
+                                            <li><a href="Beauty_Care.php">Beauty Care</a></li>
                                         </ul>
                                     </li>
-                                    <li class=""><a id="about" href="about.php">About us</a>
+                                    <li class=""><a id="about" href="About.php">About us</a>
                                     </li>
-                                    <li class=""><a id="career" href="career.php">Career</a>
+                                    <li class=""><a id="career" href="Career.php">Career</a>
                                     </li>
-                                    <li class=""><a id="contact" href="contact.php">Contact</a>
+                                    <li class=""><a id="contact" href="Contact.php">Contact</a>
                                     </li>
 
                                    

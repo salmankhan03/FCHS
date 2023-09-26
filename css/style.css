@@ -5167,12 +5167,12 @@ img {
     -webkit-transition: all 900ms ease;
     -ms-transition: all 900ms ease;
     -o-transition: all 900ms ease;
-    /* background-image: -ms-linear-gradient(left, rgba(77, 39, 63, 0) 0%, #463b46 100%);
+    background-image: -ms-linear-gradient(left, rgba(77, 39, 63, 0) 0%, #463b46 100%);
     background-image: -moz-linear-gradient(left, rgba(77, 39, 63, 0) 0%, #463b46 100%);
     background-image: -o-linear-gradient(left, rgba(77, 39, 63, 0) 0%, #463b46 100%);
     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgba(77, 39, 63, 0)), color-stop(100, #463b46));
     background-image: -webkit-linear-gradient(left, rgba(77, 39, 63, 0) 0%, #463b46 100%);
-    background-image: linear-gradient(to left, rgba(77, 39, 63, 0) 0%, #463b46 100%); */
+    background-image: linear-gradient(to left, rgba(77, 39, 63, 0) 0%, #463b46 100%); 
 }
 
 .page-title .auto-container {
@@ -6779,6 +6779,10 @@ img {
     background-size: 16% auto;
     opacity: .1;
     transition: background .3s, border-radius .3s, opacity .3s;
+}
+
+.page-title h3.h2bg{
+    padding-left:50px;
 }
 
 .elementor-1840 .elementor-element.elementor-element-New:not(.elementor-motion-effects-element-type-background),

@@ -10,14 +10,14 @@ if (!empty($_POST['fname'])  && !empty($_POST['lname']) && !empty($_POST['email'
     $mail = new PHPMailer(true);
 
     $mail->isSMTP();
-    $mail->Host = 'mail.intellidt.com';
+    $mail->Host = 'mail.fullcarehs.com';
     $mail->SMTPAuth = true;
-    $mail->Username = 'smitd@intellidt.com';
-    $mail->Password = 'smit@d123';
+    $mail->Username = 'hiring@fullcarehs.com';
+    $mail->Password = 'FSadmin';
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
     $mail->Port = 587;
 
-    $mail->setFrom('smitd@intellidt.com');
+    $mail->setFrom('hiring@fullcarehs.com');
     $mail->addAddress('sal@intellidt.com');
     $mail->Subject = 'FCHS Application Form';
     $mail->isHTML(TRUE);

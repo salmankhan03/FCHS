@@ -12,12 +12,12 @@ if (!empty($_POST['name'])  && !empty($_POST['email']) && !empty($_POST['contact
     $mail->isSMTP();
     $mail->Host = 'mail.intellidt.com';
     $mail->SMTPAuth = true;
-    $mail->Username = 'smitd@intellidt.com';
-    $mail->Password = 'smit@d123';
+    $mail->Username = 'inquiry@fullcarehs.com';
+    $mail->Password = 'Fsadmin';
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
     $mail->Port = 587;
 
-    $mail->setFrom('smitd@intellidt.com');
+    $mail->setFrom('inquiry@fullcarehs.com');
     $mail->addAddress('smitd@intellidt.com');
     $mail->Subject = 'FCHS Contact Form';
     $mail->isHTML(TRUE);

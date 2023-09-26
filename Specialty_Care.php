@@ -27,13 +27,12 @@
         <!-- End Main Header -->
 
         <!--Page Title-->
-        <section class="page-title" style="background-image:url(img/Services/banner_personal.jpg)">
-            <div Style="height: 150px"></div>
-            <div Style="height: 50px"></div>
-            <div Style="height: 50px"></div>
-            <div Style="height: 50px"></div>
-            <div Style="height: 50px"></div>
-            <div Style="height: 50px"></div>
+        <section class="page-title" style="background-image:url(img/Services/banner_speciality_care.jpg)">
+              <div Style="height: 170px"></div>
+			<div Style="height: 50px">
+			   <h3 class="h2bg">Special services just for you</h3>
+			</div>
+			<div Style="height: 100px"></div>
         </section>
         <!--End Page Title-->
 
@@ -46,7 +45,7 @@
                     <div class="content-column col-lg-4 col-md-5 col-sm-12">
                         <div class="">
                             <h5 class="text3" style="letter-spacing: 2px !important;">OUR SERVICES</h5>
-                            <h2 style="color: #007E8A !important">Personal Care </h2>
+                            <h2 style="color: #007E8A !important">Specialty Care </h2>
                         </div>
                     </div>
 
@@ -54,13 +53,16 @@
                     <div class="content-column col-lg-8 col-md-7 col-sm-12">
                         <div class="inner-column">
                             <ul class="mission-list">
-                                <li class="text3">If your loved one worries about losing their independence or struggles with routine everyday
-                                    tasks, then a one-to-one fully-trained personal caregiver will be able to support and assist with
-                                    daily personal tasks and maintain hygiene. Personal care may include bathing and showering,
-                                    toileting, oral hygiene, foot care, dressing, and applying lotions and creams. Having help with
-                                    these routine tasks makes it possible for seniors to age in place in the comforts of their home
-                                    while maintaining their independence. Contact us today so that we can help develop a
-                                    customized care plan based on your loved one’s situation.</li>
+                                <li class="text3">Seniors face an unfortunate reality that as they age, they will experience a wide variety of
+                                    health issues and medical conditions. The personalized approach that customizes care to meet
+                                    specific wants or needs will enable your loved one to keep up with their activities while still
+                                    feeling safe, confident and comfortable. Specialized registered nurses provide essential
+                                    healthcare services at a higher level of quality care which will give family members peace of
+                                    mind.</li>
+                                    <br/>
+                                <li class="text3">No matter what your specialized needs are, we will offer you the best support from our medical
+                                    professionals who are knowledgeable, experienced and specially trained in helping with a
+                                    multitude of specific conditions.</li>
                             </ul>
                         </div>
                     </div>
@@ -90,10 +92,10 @@
                     <div class="news-block col-lg-3 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="service.php"><img src="img/Services/img_companion.jpg" alt="" /></a>
+                                <a href="Companion_Care.php"><img src="img/Services/img_companion.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="service.php">Companion Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="Companion_Care.php">Companion Care</a></h5>
                             </div>
                         </div>
                     </div>
@@ -102,10 +104,10 @@
                     <div class="news-block col-lg-3 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="Nursing.php"><img src="img/Services/img_nursing.jpg" alt="" /></a>
+                                <a href="Personal_Care.php"><img src="img/Services/img_personal.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="Nursing.php">Nursing Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="Personal_Care.php">Personal Care</a></h5>
                             </div>
                         </div>
                     </div>
@@ -114,10 +116,10 @@
                     <div class="news-block col-lg-3 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="Specialty.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
+                                <a href="Nursing_Care.php"><img src="img/Services/img_nursing.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="Specialty.php">Specialty Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="Nursing_Care.php">Nursing Care</a></h5>
                             </div>
                         </div>
                     </div>
@@ -125,10 +127,10 @@
                     <div class="news-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="image">
-								<a href="spa.php"><img src="img/Services/img_spa.jpg" alt="" /></a>
+								<a href="Beauty_Care.php"><img src="img/Services/img_spa.jpg" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h5 style="text-align: center"><a class="h4" href="spa.php">Spa Care</a></h5>
+								<h5 style="text-align: center"><a class="h4" href="Beauty_Care.php">Beauty Care</a></h5>
 							</div>
 						</div>
 					</div>
@@ -141,7 +143,6 @@
         <?php include 'footer.php' ?>
     </div>
     <!--End pagewrapper-->
-    
 
     <!--Scroll to top-->
     <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>

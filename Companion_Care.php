@@ -27,13 +27,12 @@
 		<!-- End Main Header -->
 
 		<!--Page Title-->
-		<section class="page-title" style="background-image:url(img/Services/banner_companion.jpg)">
-			<div Style="height: 150px"></div>
-			<div Style="height: 50px"></div>
-			<div Style="height: 50px"></div>
-			<div Style="height: 50px"></div>
-			<div Style="height: 50px"></div>
-			<div Style="height: 50px"></div>
+		<section class="page-title" style="background-image:url(img/Services/banner_companion_care.jpg)">
+			<div Style="height: 170px"></div>
+			<div Style="height: 50px">
+			   <h3 class="h2bg"> We will journey with you</h3>
+			</div>
+			<div Style="height: 100px"></div>
 		</section>
 		<!--End Page Title-->
 
@@ -90,10 +89,10 @@
 					<div class="news-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="image">
-								<a href="Personal.php"><img src="img/Services/img_personal.jpg" alt="" /></a>
+								<a href="Personal_Care.php"><img src="img/Services/img_personal.jpg" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h5 style="text-align: center"><a class="h4" href="Personal.php">Personal Care</a></h5>
+								<h5 style="text-align: center"><a class="h4" href="Personal_Care.php">Personal Care</a></h5>
 							</div>
 						</div>
 					</div>
@@ -102,10 +101,10 @@
 					<div class="news-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="image">
-								<a href="Nursing.php"><img src="img/Services/img_nursing.jpg" alt="" /></a>
+								<a href="Nursing_Care.php"><img src="img/Services/img_nursing.jpg" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h5 style="text-align: center"><a class="h4" href="Nursing.php">Nursing Care</a></h5>
+								<h5 style="text-align: center"><a class="h4" href="Nursing_Care.php">Nursing Care</a></h5>
 							</div>
 						</div>
 					</div>
@@ -114,10 +113,10 @@
 					<div class="news-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="image">
-								<a href="Specialty.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
+								<a href="Specialty_Care.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h5 style="text-align: center"><a class="h4" href="Specialty.php">Specialty Care</a></h5>
+								<h5 style="text-align: center"><a class="h4" href="Specialty_Care.php">Specialty Care</a></h5>
 							</div>
 						</div>
 					</div>
@@ -125,10 +124,10 @@
 					<div class="news-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="image">
-								<a href="spa.php"><img src="img/Services/img_spa.jpg" alt="" /></a>
+								<a href="Beauty_Care.php"><img src="img/Services/img_spa.jpg" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h5 style="text-align: center"><a class="h4" href="spa.php">Spa Care</a></h5>
+								<h5 style="text-align: center"><a class="h4" href="Beauty_Care.php">Beauty Care</a></h5>
 							</div>
 						</div>
 					</div>

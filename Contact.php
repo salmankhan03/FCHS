@@ -27,7 +27,7 @@
 		<!-- End Main Header -->
 
 		<!--Page Title-->
-		<section class="page-title" style="background-image:url(img/banner_contact.jpg)">
+		<section class="page-title" style="background-image:url(img/Contact/banner_contact.jpg)">
 			<div class="auto-container">
 				<div Style="height: 50px"></div>
 				<div Style="height: 50px"></div>
@@ -115,7 +115,7 @@
 					<div class="info-column col-lg-6 col-md-12 col-sm-12">
 						<div class="inner-column">
 							<div class="image">
-								<img src="http://t.commonsupport.com/care-giver/images/resource/contact-1.jpg" alt="" />
+								<img src="img/Contact/contact-1.jpg" alt="" />
 							</div>
 							<h3>Head Office:</h3>
 							<div class="text">#200 - 3071 No. 5 Road <br /> Richmond, BC, V6X 2T4</div>

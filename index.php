@@ -65,7 +65,7 @@
                 <ul>
                     
                     <li data-transition="parallaxvertical" data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1688" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="http://t.commonsupport.com/care-giver/images/main-slider/2.jpg" data-title="Slide Title">
-                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="img/Home/banner_home.jpg">
+                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="img/Home/fchs_home_1.jpg">
                     
 					<div class="tp-caption" 
                     data-paddingbottom="[0,0,0,0]"
@@ -83,7 +83,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <h2 class="h1">Trusted Quality Care </br> and Nursing</h2>
+                        <h2 class="h1">Custom care services </br> Live life on your own terms </h2>
                     </div>
                     
                     <div class="tp-caption" 
@@ -102,14 +102,15 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="text text1">Compassionate Care Services </br> Tailored to Your Needs</div>
+                        <div class="text text1">Trusted Quality Care and Nursing </br> From specialty care to companion care 
+</div>
                     </div>
                    
                     
 					</li>
                      
                     <li data-transition="parallaxvertical" data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1689" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="images/main-slider/2.jpg" data-title="Slide Title">
-                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="img/Home/banner_home.jpg">
+                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="img/Home/fchs_home_2.jpg">
                     
                     <div class="tp-caption" 
                     data-paddingbottom="[0,0,0,0]"
@@ -163,8 +164,8 @@
 			<!-- Title Box -->
 			<div class="title-box">
 				<h2 class="h3 mb-1">Highly Trained and Compassionate Nursing to Support Your Well-Being</h2>
-				<div class="bold-text text2 mt-4 pt-3 pb-1" style="font-size: 21px !important">At Full Care Health Services, we are devoted to supporting our seniors. Our team of nurses are committed to the health and well-being of all seniors.</div>
-				<div class="text text3 p-4" style="color: #007E8A !important">We believe that all seniors deserve to be treated with respect, compassion, and attention, for it is truly an honour to be entrusted with their care. From companion care to specialty care, our plans are carefully designed to meet your needs and support you in life.</div>
+				<div class="bold-text text2 mt-4 pt-3 pb-1" style="font-size: 21px !important">-	At Full Care Health Services, we are devoted to supporting our seniors. Our team of nurses are committed to the health and well-being of all seniors. </div>
+				<div class="text text3 p-4" style="color: #007E8A !important">We believe that all seniors deserve to be treated with respect, compassion, and attention, for it is truly an honour to be entrusted with their care. From companion care to specialty care, our plans are carefully designed to meet your needs and support you in life. </div>
 			</div>
 
 		</div>
@@ -237,7 +238,7 @@
                                              <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Speciality Care</span>
                                           </div>
                                           <div id="elementor-tab-title-1595" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1595" style="background-color: #f7d5d5 !important">
-                                             <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Spa Care</span>
+                                             <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Beauty Care</span>
                                           </div>
                                        </div>
                                        <div class="elementor-tabs-content-wrapper">
@@ -309,13 +310,13 @@
                                                             </div>
                                                              <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px" >Daily personal living tasks and private hygiene provided by a professional and fully trained caregiver.</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px" >Daily personal living tasks and private hygiene provided by a professional and fully trained caregiver</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
                                                                   <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">
-                                                                  Age inside of the comforts of your own home. Our personal care services are structured to assist you with everyday tasks while you embark on your journey to an active and independent lifestyle.
+                                                                  Age inside of the comforts of your own home. Our personal care services are structured to assist you with everyday tasks while you embark on your journey to an active and independent lifestyle. 
                                                                  </span>
                                                                </div>
                                                             </div>
@@ -351,12 +352,12 @@
                                                             </div>
                                                               <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Receive premium-level care that ensures your medical needs are looked after.</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Receive premium-level care that ensures your medical needs are looked after</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4;">At Fully Care Health Services, our nursing care is specially designed to meet your unique personal needs. Each plan is carefully mapped out according to the needs of each senior, guaranteeing consistent ample care for you or your loved ones. 
+                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4;">At Fully Care Health Services, our nursing care is specially designed to meet your unique personal needs. Each plan is carefully mapped out according to the needs of each senior, guaranteeing consistent ample care for you or your loved ones.
                                                                </span>
                                                                </div>
                                                             </div>
@@ -393,12 +394,12 @@
                                                             </div>
                                                          <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Flexibility and specialized care by professional caregivers will provide you with the peace of mind and relief necessary to fulfill an individual’s unique needs.</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Flexibility and specialized care by professional caregivers will provide you with the peace of mind and relief necessary to fulfill an individual’s unique needs</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Some specific medical conditions require specialized support and services. Our specialty care plan is designed to help address your medical conditions while ensuring the best possible quality of life and independence.
+                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Some specific medical conditions require specialized support and services. Our specialty care plan is designed to help address your medical conditions while ensuring the best possible quality of life and independence. 
                                                                </span>
                                                                </div>
                                                             </div>
@@ -419,7 +420,7 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-c01f91b elementor-widget elementor-widget-image" data-id="c01f91b" data-element_type="widget" data-widget_type="image.default">
                                                                <div class="elementor-widget-container">
-                                                                  <img width="660" height="425" src="img/Home/img_service_spa.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_service_specialty.jpg 660w, img/Home/img_service_specialty.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /> 
+                                                                  <img width="660" height="425" src="img/Home/img_service_spa.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_service_spa.jpg 660w, img/Home/img_service_spa.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /> 
                                                                </div>
                                                             </div>
                                                          </div>
@@ -428,17 +429,17 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-24fde84 elementor-widget elementor-widget-heading" data-id="24fde84" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">Spa Care</h4>
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">Beauty Care</h4>
                                                                </div>
                                                             </div>
                                                          <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Experience total bliss and rejuvenation through our spa care services.</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Experience total bliss and rejuvenation through our spa care services</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">We understand self-care is important, our spa care offers a variety of different services carefully orchestrated to have you feeling rejuvenated after your visit. From body massages to nail care, our skillfully trained professionals are committed to making you or your loved one’s experience unforgettable.
+                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">We understand self-care is important, our spa care offers a variety of different services carefully orchestrated to have you feeling rejuvenated after your visit. From hair care to body massages, facial care, and nail care, our skillfully trained professionals are committed to making you or your loved one’s experience unforgettable. 
                                                                </span>
                                                                </div>
                                                             </div>

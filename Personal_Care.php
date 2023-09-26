@@ -27,13 +27,12 @@
         <!-- End Main Header -->
 
         <!--Page Title-->
-        <section class="page-title" style="background-image:url(img/Services/banner_nursing.jpg)">
-            <div Style="height: 150px"></div>
-            <div Style="height: 50px"></div>
-            <div Style="height: 50px"></div>
-            <div Style="height: 50px"></div>
-            <div Style="height: 50px"></div>
-            <div Style="height: 50px"></div>
+        <section class="page-title" style="background-image:url(img/Services/banner_personal_care.jpg)">
+   	        <div Style="height: 170px"></div>
+			<div Style="height: 50px">
+			   <h3 class="h2bg"> Leave the everyday tasks to us</h3>
+			</div>
+			<div Style="height: 100px"></div>
         </section>
         <!--End Page Title-->
 
@@ -46,7 +45,7 @@
                     <div class="content-column col-lg-4 col-md-5 col-sm-12">
                         <div class="">
                             <h5 class="text3" style="letter-spacing: 2px !important;">OUR SERVICES</h5>
-                            <h2 style="color: #007E8A !important">Nursing Care </h2>
+                            <h2 style="color: #007E8A !important">Personal Care </h2>
                         </div>
                     </div>
 
@@ -54,13 +53,13 @@
                     <div class="content-column col-lg-8 col-md-7 col-sm-12">
                         <div class="inner-column">
                             <ul class="mission-list">
-                                <li class="text3">In some circumstances, seniors may require round the clock care or more extensive support
-                                    with daily routines. Being able to receive consistent skilled nursing care and one-one-one
-                                    medical support is the best option for an improved quality of life. With a tailored care plan and
-                                    continuity of compassionate care in a familiar and comfortable environment, you can be
-                                    assured that our skilled and trained qualified healthcare professionals are delivering the best
-                                    medical attention, practical care, and physical care to your loved one.
-                                </li>
+                                <li class="text3">If your loved one worries about losing their independence or struggles with routine everyday
+                                    tasks, then a one-to-one fully-trained personal caregiver will be able to support and assist with
+                                    daily personal tasks and maintain hygiene. Personal care may include bathing and showering,
+                                    toileting, oral hygiene, foot care, dressing, and applying lotions and creams. Having help with
+                                    these routine tasks makes it possible for seniors to age in place in the comforts of their home
+                                    while maintaining their independence. Contact us today so that we can help develop a
+                                    customized care plan based on your loved one’s situation.</li>
                             </ul>
                         </div>
                     </div>
@@ -90,10 +89,10 @@
                     <div class="news-block col-lg-3 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="service.php"><img src="img/Services/img_companion.jpg" alt="" /></a>
+                                <a href="Companion_Care.php"><img src="img/Services/img_companion.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="service.php">Companion Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="Companion_Care.php">Companion Care</a></h5>
                             </div>
                         </div>
                     </div>
@@ -102,10 +101,10 @@
                     <div class="news-block col-lg-3 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="Personal.php"><img src="img/Services/img_personal.jpg" alt="" /></a>
+                                <a href="Nursing_Care.php"><img src="img/Services/img_nursing.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="Personal.php">Personal Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="Nursing_Care.php">Nursing Care</a></h5>
                             </div>
                         </div>
                     </div>
@@ -114,10 +113,10 @@
                     <div class="news-block col-lg-3 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="Specialty.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
+                                <a href="Specialty_Care.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="Specialty.php">Specialty Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="Specialty_Care.php">Specialty Care</a></h5>
                             </div>
                         </div>
                     </div>
@@ -125,10 +124,10 @@
                     <div class="news-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="image">
-								<a href="spa.php"><img src="img/Services/img_spa.jpg" alt="" /></a>
+								<a href="Beauty_Care.php"><img src="img/Services/img_spa.jpg" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h5 style="text-align: center"><a class="h4" href="spa.php">Spa Care</a></h5>
+								<h5 style="text-align: center"><a class="h4" href="Beauty_Care.php">Beauty Care</a></h5>
 							</div>
 						</div>
 					</div>
@@ -141,12 +140,10 @@
         <?php include 'footer.php' ?>
     </div>
     <!--End pagewrapper-->
+    
 
     <!--Scroll to top-->
     <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
-
-    <!--Scroll to top-->
-    <script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script>
     <script>
    (function($) {
 	
@@ -178,6 +175,8 @@
 
 })(window.jQuery);
 </script>
+    <!--Scroll to top-->
+    <script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script>
     <!--Revolution Slider-->
     <script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/revslider@5.4.201-8.6/js/jquery.themepunch.tools.min.js"></script>

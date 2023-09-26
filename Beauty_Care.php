@@ -27,13 +27,12 @@
         <!-- End Main Header -->
 
         <!--Page Title-->
-        <section class="page-title" style="background-image:url(img/Services/banner_spa.jpg)">
-            <div Style="height: 150px"></div>
-            <div Style="height: 50px"></div>
-            <div Style="height: 50px"></div>
-            <div Style="height: 50px"></div>
-            <div Style="height: 50px"></div>
-            <div Style="height: 50px"></div>
+        <section class="page-title" style="background-image:url(img/Services/banner_spa_n_beauty.jpg)">
+        <div Style="height: 170px"></div>
+			<div Style="height: 50px">
+			   <h3 class="h2bg">Experience total bliss and rejuvenation</h3>
+			</div>
+			<div Style="height: 100px"></div>
         </section>
         <!--End Page Title-->
 
@@ -46,7 +45,7 @@
                     <div class="content-column col-lg-4 col-md-5 col-sm-12">
                         <div class="">
                             <h5 class="text3" style="letter-spacing: 2px !important;">OUR SERVICES</h5>
-                            <h2 style="color: #007E8A !important">Spa Care</h2>
+                            <h2 style="color: #007E8A !important">Beauty Care</h2>
                         </div>
                     </div>
 
@@ -54,10 +53,20 @@
                     <div class="content-column col-lg-8 col-md-7 col-sm-12">
                         <div class="inner-column">
                             <ul class="mission-list">
-                                <li class="text3">Everybody deserves a day for themselves. Our Spa Care services offer a variety of special services that will help carry out those plans, guaranteeing seniors will be re-energized and relaxed. Highly trained professionals will provide services that range from haircuts to body massages, skin care, and even nail care.</li>
+                                <li class="text3">
+                                    Everybody deserves a day for themselves. Our Spa Care services offer a variety of special services that will help carry out those plans, guaranteeing seniors will be re-energized and relaxed. Highly trained professionals will provide services that range from haircuts to body massages, skin care, and even nail care.
+                                </li>
                                 <br/>
 								<li class="text3">
-                                    Practice self-love in a space that prioritizes comfort, dignity, and satisfaction. Book your appointment today and embark on a journey of beauty, self-care, and renewal.
+								    Hair Style services equipped with professionally trained hair stylists will provide a salon service like no other, each haircut will be carefully tailored toward your style and preference in addition to a shampoo, blow dry, and styling service. 
+                                </li>
+                                <br/>
+								<li class="text3">
+								    Our Spa Care services will take care of your physical and mental health, from our body massages to nail or facial care, you are bound to feel pampered and confident.  
+								</li>
+								<br/>
+								<li class="text3">
+								    Practice self-love in a space that prioritizes comfort, dignity, and satisfaction. To book your appointment, call 778-297-7108 and embark on a journey of beauty, self-care, and renewal. 
 								</li>
                             </ul>
                         </div>
@@ -88,10 +97,10 @@
                     <div class="news-block col-lg-3 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="service.php"><img src="img/Services/img_companion.jpg" alt="" /></a>
+                                <a href="Companion_Care.php"><img src="img/Services/img_companion.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="service.php">Companion Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="Companion_Care.php">Companion Care</a></h5>
                             </div>
                         </div>
                     </div>
@@ -99,22 +108,10 @@
                     <div class="news-block col-lg-3 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="Personal.php"><img src="img/Services/img_personal.jpg" alt="" /></a>
+                                <a href="Personal_Care.php"><img src="img/Services/img_personal.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="Personal.php">Personal Care</a></h5>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- News Block -->
-                    <div class="news-block col-lg-3 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <a href="Nursing.php"><img src="img/Services/img_nursing.jpg" alt="" /></a>
-                            </div>
-                            <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="Nursing.php">Nursing Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="Personal_Care.php">Personal Care</a></h5>
                             </div>
                         </div>
                     </div>
@@ -123,10 +120,22 @@
                     <div class="news-block col-lg-3 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="Specialty.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
+                                <a href="Nursing_Care.php"><img src="img/Services/img_nursing.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="Specialty.php">Specialty Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="Nursing_Care.php">Nursing Care</a></h5>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- News Block -->
+                    <div class="news-block col-lg-3 col-md-6 col-sm-12">
+                        <div class="inner-box">
+                            <div class="image">
+                                <a href="Specialty_Care.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
+                            </div>
+                            <div class="lower-content">
+                                <h5 style="text-align: center"><a class="h4" href="Specialty_Care.php">Specialty Care</a></h5>
                             </div>
                         </div>
                     </div>
