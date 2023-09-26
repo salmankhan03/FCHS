@@ -17,6 +17,26 @@
 	<!-- Responsive -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+	<script>
+        function getRandomNumber(min, max) {
+            return Math.floor(Math.random() * (max - min + 1)) + min;
+        }
+
+        function generateCaptcha() {
+            const min = 1000;
+            const max = 9999;
+            const randomNumber = getRandomNumber(min, max);
+
+            const captchaLabel = document.getElementById("captcha-label");
+            captchaLabel.textContent = `Please enter the following number: ${randomNumber}`;
+
+            const hiddenInput = document.getElementById("captcha-input");
+            hiddenInput.value = randomNumber;
+        }
+
+        window.onload = generateCaptcha;
+    </script>
 </head>
 
 <body>
@@ -92,15 +112,17 @@
 									</div>
 
 									<div class="form-group">
-										<span class="captcha">8 + 4*</span>
-										<input class="form-control" type="text" placeholder="" id="captcha" required>
+									
+										<span id="captcha-label" class="captcha"></span>
+										<input class="form-control" type="text" id="captcha" placeholder="" required>
+    									<input type="hidden" id="captcha-input">
 										<div class="invalid-feedback">
 											THIS FIELD IS REQUIRED.
 										</div>
 									</div>
 
 									<div class="form-group">
-										<button type="submit" class="theme-btn btn-style-one" name="submit_message"><span class="txt">Submit
+										<button type="submit" class="theme-btn btn-style-one" name="submit_message" ><span class="txt">Submit
 												now</span></button>
 									</div>
 
@@ -185,6 +207,17 @@
 						if (!form.checkValidity()) {
 							event.preventDefault()
 							event.stopPropagation()
+						}
+
+						const userInput = document.getElementById("captcha").value;
+						const captchaValue = document.getElementById("captcha-input").value;
+
+						if (userInput === captchaValue) {
+							console.log('captcha is valid')
+						} else {
+							form.classList.add('was-validated')
+							alert("Captcha is incorrect. Please try again.");
+							generateCaptcha();
 						}
 
 						form.classList.add('was-validated')
