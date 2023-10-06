@@ -29,7 +29,7 @@
             const randomNumber = getRandomNumber(min, max);
 
             const captchaLabel = document.getElementById("captcha-label");
-            captchaLabel.textContent = `Please enter the following number: ${randomNumber}`;
+            captchaLabel.textContent = `Please enter the following number*: ${randomNumber}`;
 
             const hiddenInput = document.getElementById("captcha-input");
             hiddenInput.value = randomNumber;

@@ -4402,11 +4402,10 @@ img {
 
 .default-form .form-group .captcha {
     position: relative;
-    color: #0e2a4e;
-    font-size: 20px;
-    font-weight: 600;
     margin-bottom: 12px;
     display: block;
+color: #797979;
+font-size: 16px;
 }
 
 .default-form input[type="text"],

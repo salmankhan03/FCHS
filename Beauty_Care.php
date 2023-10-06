@@ -66,7 +66,7 @@
 								</li>
 								<br/>
 								<li class="text3">
-								    Practice self-love in a space that prioritizes comfort, dignity, and satisfaction. To book your appointment, call 778-297-7108 and embark on a journey of beauty, self-care, and renewal. 
+								    Practice self-love in a space that prioritizes comfort, dignity, and satisfaction. To schedule your appointment, reach out to us by phone or email, and embark on a journey of beauty, self-care, and renewal.
 								</li>
                             </ul>
                         </div>
