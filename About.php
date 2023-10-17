@@ -33,7 +33,7 @@
 				<!-- Title Column -->
 				<div class="content-column col-lg-4 col-md-5 col-sm-12">
 					<div class="">
-                        <h5 class="text3">ABOUT US</h5>
+                        <h5 class="text3" style="letter-spacing:2px !important;">ABOUT US</h5>
                         <h2 class="h1">Our Team</h2>
                     </div>
 				</div>
@@ -42,7 +42,7 @@
 				<div class="content-column col-lg-8 col-md-7 col-sm-12">
 					<div class="inner-column">
 						<ul class="mission-list">
-							<li>
+							<li class="text3">
 							    We will help your family find a way that’s right for your loved one.  Our experience, expertise, compassionate approach, and highly-skilled Care Professionals can help people live better, more fulfilled lives.  All people deserve to have a good quality of life and feel safe and content while still being independent.  We take pride that with kindness and compassion, our highly-trained and trusted team deliver tailored care for all needs from companionship through to complex health requirements. 
 							</li>
                         </ul>
@@ -79,7 +79,7 @@
 							<!-- Sec Title Two -->
 							
 							<div class="sec-title-two style-two">
-								<h4 class="h2 pb-2" style="color: #fff">Why Choose Us </h4>
+								<h4 class="h2 mb-4" style="color: #fff">Why Choose Us </h4>
 								<div class="text3" style="color: #fff" class="text">We offer a full range of high-quality services enabling you and your loved one’s peace of mind.  Our focus is to help clients maintain their sense of independence within the comfort and respect.  Through considerate, compassionate, high-quality care, we focus on upholding the dignity of all those we take care of.  We ensure that our experienced care professionals are carefully selected, trustworthy, and they are committed to the highest professional standards of patient-centred care.  </div>
 							</div>
 						</div>
@@ -99,14 +99,14 @@
 					
 					<!-- Title Column -->
 					<div class="title-column col-lg-5 col-md-12 col-sm-12">
-						<div class="inner-column">
+						<div class="inner-column pt-0">
 							<!-- Sec Title Two -->
 							<div class="sec-title-two style-two">
 								<h2 class="h3">We are seeking compassionate individuals like you to join our team. </h2>
-								<div class="text text3" style="color: #007E8A !important">If you have a genuine love for the elderly, a desire to make a positive impact, and a passion for creating meaningful connections, then we invite you to embark on a fulfilling journey with us. </div>
+								<div class="text text3">If you have a genuine love for the elderly, a desire to make a positive impact, and a passion for creating meaningful connections, then we invite you to embark on a fulfilling journey with us. </div>
 							</div>
 							<div class="btn-box" style="margin-top: 20px">
-								<a href="career.php" class="theme-btn btn-style-one"><span class="txt">Apply Now</span></a>
+								<a href="Career.php" class="theme-btn btn-style-one"><span class="txt">Apply Now</span></a>
 							</div>
 						</div>
 					</div>

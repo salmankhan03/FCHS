@@ -69,8 +69,8 @@
 				<div class="title-box">
 					<h2>Get In Touch</h2>
 					<div class="bold-text">Please connect with us by filling out the form below and we will get back to
-						you:</div>
-					<div class="required">Fields marked with an * are required</div>
+						you</div>
+					<div class="required">Fields with * indicate required information</div>
 				</div>
 
 				<div class="row clearfix">
@@ -139,7 +139,7 @@
 							<div class="image">
 								<img src="img/Contact/contact-1.jpg" alt="" />
 							</div>
-							<h3>Head Office:</h3>
+							<h3>Head Office</h3>
 							<div class="text">#200 - 3071 No. 5 Road <br /> Richmond, BC, V6X 2T4</div>
 							<ul>
 								<li>Tel: <a href="tel:1800-456-7890">+1 (778) 297-7108</a></li>

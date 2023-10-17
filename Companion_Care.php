@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>CareGiver - Elder Care HTML Template | Home Page 01</title>
+	<title>CareGiver</title>
 	<!-- Stylesheets -->
 	<link rel="stylesheet" href="https://cdn.usebootstrap.com/bootstrap/4.1.1/css/bootstrap.min.css">
 	<link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css">
@@ -45,7 +45,7 @@
 					<div class="content-column col-lg-4 col-md-5 col-sm-12">
 						<div class="">
 							<h5 class="text3" style="letter-spacing: 2px !important;">OUR SERVICES</h5>
-							<h2 style="color: #007E8A !important">Companion Care </h2>
+							<h2>Companion Care </h2>
 						</div>
 					</div>
 

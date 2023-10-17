@@ -77,7 +77,7 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                 <div class="auto-container clearfix">
                     <!--Info-->
                     <div class="logo-outer">
-                        <div class="logo"><a href="index.php"><img src="img/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="img/logo.svg" alt="" title="" style="width: 300px; margin: auto; padding: 12px 0;"></a></div>
                     </div>
 
                     <!--Nav Box-->
@@ -155,19 +155,19 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
 
 		if(path === "index.php"){
 			const element = document.getElementById('index');
-			element.style.color = '#007E8A';
+			element.style.color = '#7659b1';
 		} else if(path === "about.php") {
 			const element = document.getElementById('about');
-			element.style.color = '#007E8A';
+			element.style.color = '#7659b1';
 		} else if(path === "service.php" || path === "Personal.php" || path === "Nursing.php" || path === "Specialty.php" || path === "spa.php") {
 			const element = document.getElementById('service');
-			element.style.color = '#007E8A';
+			element.style.color = '#7659b1';
 		} else if(path === "career.php") {
 			const element = document.getElementById('career');
-			element.style.color = '#007E8A';
+			element.style.color = '#7659b1';
 		} else if(path === "contact.php") {
 			const element = document.getElementById('contact');
-			element.style.color = '#007E8A';
+			element.style.color = '#7659b1';
 		}
 	</script>
 

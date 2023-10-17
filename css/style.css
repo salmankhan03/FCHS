@@ -88,10 +88,17 @@
 }
 
 :root {
-    --primary: #2A536A;
-    --secondary: #007E8A;
-    --light: #f7f2ee;
-    --dark: #797979;
+    --primary: #634da0;
+    --secondary: #7659b1;
+    --light: #FFF9F4;
+    --dark: #502d87;
+    --darker:#220949;
+    --orange: #ec6726;
+    --grey: #504f53;
+    --darkgrey:#333;
+    --original:#2A536A;
+    --originallight:#007E8A;
+
 }
 
 .h1,
@@ -100,7 +107,7 @@
 .h4,
 .h5,
 .h6 {
-    color: var(--secondary) !important
+    color: var(--primary) !important
 }
 
 .h1bg,
@@ -162,6 +169,7 @@
     font-family: 'Poppins', sans-serif !important;
     font-weight: 300 !important;
     font-size: 16px !important;
+    /*letter-spacing: 2px !important;*/
 }
 
 .mission-list .text3,
@@ -179,16 +187,16 @@
 }
 
 .text4 {
-    color: var(--primary) !important;
+    color: var(--grey) !important;
 }
 
 .main-menu .navigation>li:hover>a,
 .main-menu .navigation>li.current>a {
-    color: #007E8A !important;
+    color: var(--secondary) !important
 }
 
 .main-menu .navigation>li>ul>li:hover>a {
-    color: #007E8A !important;
+    color: var(--secondary) !important
 }
 
 .main-menu .navigation>li>ul>li>a:after {
@@ -197,7 +205,7 @@
     left: 0;
     bottom: -2px;
     width: 0px;
-    border-bottom: 2px solid #007E8A !important;
+    border-bottom: 2px solid #7659b1 !important;
     transition: all 500ms ease;
     -moz-transition: all 500ms ease;
     -webkit-transition: all 500ms ease;
@@ -206,7 +214,7 @@
 }
 
 .nav-outer .mobile-nav-toggler {
-    color: #007E8A !important;
+    color: var(--secondary) !important
 }
 
 .elementor-button {
@@ -223,7 +231,7 @@
 }
 
 .elementor-button:hover {
-    background-color: var(--primary) !important;
+    background-color: var(--dark) !important;
 }
 
 
@@ -270,7 +278,7 @@ h4,
 h5,
 h6 {
     position: relative !important;
-    font-weight: normal !important;
+    font-weight: bold !important;
     margin: 0px !important;
     background: none !important;
     line-height: 1.2em !important;
@@ -379,6 +387,7 @@ li {
     background-color: var(--secondary);
     text-transform: uppercase;
     font-family: 'Poppins', sans-serif;
+    border-radius: 50px;
 }
 
 .btn-style-one .txt {
@@ -402,6 +411,8 @@ li {
     transition: all 0.4s;
     -webkit-transform: scale(0.5, 1);
     transform: scale(0.5, 1);
+    border-radius: 50px;
+
 }
 
 .btn-style-one:hover::before {
@@ -412,6 +423,7 @@ li {
 
 .btn-style-one:hover {
     color: #ffffff;
+    border-radius: 50px;
 }
 
 /* Btn Style Two */
@@ -1259,9 +1271,9 @@ img {
     text-align: center;
     font-size: 17px;
     line-height: 35px;
-    font-weight: 500;
+    font-weight: normal;
     opacity: 1;
-    color: var(--primary);
+    color: var(--darkgrey);
     padding: 0px;
     text-transform: none;
     -webkit-transition: all 300ms ease;
@@ -1269,11 +1281,16 @@ img {
     -ms-transition: all 300ms ease;
     -o-transition: all 300ms ease;
     transition: all 300ms ease;
+    font-family: 'Poppins', serif;
 }
+/*.navigation>li>a:hover, .navigation>li>a:visited, .navigation>li>a:active, .navigation>li>a:focus {*/
+/*    color: var(--light);*/
+/*    background: transparent;*/
+/*}*/
 
 .main-menu .navigation>li:hover>a,
 .main-menu .navigation>li.current>a {
-    color: var(--secondary) !important;
+    color: var(--secondary);
 }
 
 .main-menu .navigation>li>ul {
@@ -1311,16 +1328,17 @@ img {
     display: block;
     padding: 12px 0px;
     line-height: 19px;
-    font-weight: 500;
+    font-weight: normal;
     font-size: 15px;
     text-align: left;
-    color: #242424;
+    color: var(--darkgrey);
     border-bottom: 1px solid #d8d8d8;
     text-transform: capitalize;
     -webkit-transition: all 300ms ease;
     -moz-transition: all 300ms ease;
     -ms-transition: all 300ms ease;
     transition: all 300ms ease;
+    font-family: 'Poppins', serif;
 }
 
 .main-menu .navigation>li>ul>li>a:after {
@@ -1329,7 +1347,7 @@ img {
     left: 0;
     bottom: -2px;
     width: 0px;
-    border-bottom: 2px solid #774364;
+    border-bottom: 2px solid #7659b1;
     transition: all 500ms ease;
     -moz-transition: all 500ms ease;
     -webkit-transition: all 500ms ease;
@@ -2192,7 +2210,7 @@ img {
     display: block;
     font-size: 55px;
     color: #ffffff;
-    font-weight: 700;
+    font-weight: bold !important;
     line-height: 1.18em;
     text-transform: capitalize;
 }
@@ -2273,7 +2291,7 @@ img {
 
 .services-section .title-box .bold-text {
     position: relative;
-    color: #242424;
+    color: var(--grey) !important;
     line-height: 1.4em;
     font-size: 22px;
     max-width: 1000px;
@@ -3594,7 +3612,7 @@ img {
 
 .main-footer {
     position: relative;
-    background-color: var(--primary);
+    background-color: var(--darker);
 }
 
 .main-footer .widgets-section {
@@ -3615,6 +3633,7 @@ img {
     padding-bottom: 12px;
     margin-bottom: 20px;
     text-transform: capitalize;
+    letter-spacing: 0.04em !important;
 }
 
 .main-footer .footer-widget h2:after {
@@ -3716,7 +3735,7 @@ img {
     position: relative;
     color: #a8a8a8;
     font-size: 20px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 10px;
     display: inline-block;
     -webkit-transition: all 300ms ease;
@@ -4093,6 +4112,7 @@ img {
     font-size: 40px;
     font-weight: 700;
     margin-bottom: 25px;
+    color: var(--primary);
 }
 
 .mission-section .content-column .bold-text {
@@ -4132,6 +4152,7 @@ img {
     font-size: 16px;
     margin-bottom: 5px;
     line-height: 30px;
+    line-height: 1.6em;
 }
 
 .mission-section .content-column .mission-list:last-child {
@@ -4357,7 +4378,7 @@ img {
 
 .contact-form-section .title-box h2 {
     position: relative;
-    color: #0e2a4e;
+    color: var(--primary);
     font-size: 42px;
     font-weight: 700;
     line-height: 1.3em;
@@ -4490,7 +4511,7 @@ font-size: 16px;
 
 .contact-form-section .info-column h3 {
     position: relative;
-    color: #0e2a4e;
+    color: var(--primary);
     font-size: 20px;
     font-weight: 700;
     line-height: 1.3em;
@@ -4518,7 +4539,7 @@ font-size: 16px;
 
 .contact-form-section .info-column ul li a {
     position: relative;
-    color: #797979;
+    color: var(--primary);
     transition: all 300ms ease;
     -webkit-transition: all 300ms ease;
     -ms-transition: all 300ms ease;
@@ -6787,4 +6808,14 @@ font-size: 16px;
 .elementor-1840 .elementor-element.elementor-element-New:not(.elementor-motion-effects-element-type-background),
 .elementor-1840 .elementor-element.elementor-element-New>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: #f7d5d5;
+}
+
+.elementor-widget-container{
+    margin: 0px !important;
+}
+.elementor-widget-heading{
+        margin: 0px !important;
+}
+#page .site-content {
+    margin-top: 140px !important;
 }

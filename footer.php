@@ -37,7 +37,7 @@
                             <div class="footer-column col-lg-12 col-md-12 col-sm-12">
                                 <div class="footer-widget logo-widget">
 									<div class="logo">
-                                    	<a href="index.php"><img src="img/logo_white.png" alt="" /></a>
+                                    	<a href="index.php"><img src="img/logo_white.svg" alt="" width="300"/></a>
                                     </div>
 								</div>
 							</div>
@@ -50,7 +50,7 @@
                             <div class="footer-column col-lg-12 col-md-12 col-sm-12">
                                 <div class="footer-widget contact-widget">
                                 	<h2>CONTACT INFO</h2>
-									<div class="widget-content">
+									<div class="widget-content" style="margin-top:12px;">
 										<a href="tel:1800-574-9687" style="font-size: 15px; margin-bottom: 0px !important"  class="contact-number text4bg">+1 (778) 297-7108</a>
 									</div>
 									<div class="widget-content">
@@ -69,7 +69,7 @@
                             <div class="footer-column col-lg-12 col-md-12 col-sm-12">
                                 <div class="footer-widget contact-widget">
                                 	<h2>LOCATION</h2>
-									<div class="widget-content">
+									<div class="widget-content" style="margin-top:12px;">
 										<a href="" class="contact-number " style="font-size:16px; color:#fff">#200 - 3071 No. 5 Road <br/>Richmond, BC, V6X 2T4</a>
 									</div>
 								</div>

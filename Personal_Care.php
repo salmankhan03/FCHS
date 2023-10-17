@@ -45,7 +45,7 @@
                     <div class="content-column col-lg-4 col-md-5 col-sm-12">
                         <div class="">
                             <h5 class="text3" style="letter-spacing: 2px !important;">OUR SERVICES</h5>
-                            <h2 style="color: #007E8A !important">Personal Care </h2>
+                            <h2>Personal Care </h2>
                         </div>
                     </div>
 

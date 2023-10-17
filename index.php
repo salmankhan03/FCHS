@@ -33,14 +33,11 @@
 <style>
    .elementor-1058 .elementor-element.elementor-element-ea83da6:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap, .elementor-1058 .elementor-element.elementor-element-ea83da6>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: #fff;
-    background-image: url('img/Home/img_career.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .elementor img {
     height: auto;
-    max-width: 80%;
+    /*max-width: 80%;*/
     border: none;
     border-radius: 0;
     -webkit-box-shadow: none;
@@ -83,7 +80,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <h2 class="h1">Personalized caregiving options</h2>
+                        <h2 class="h1" style="color:white !important;">Personalized caregiving options</h2>
                     </div>
                     
                     <div class="tp-caption" 
@@ -102,7 +99,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="text text1">Embrace life according to your own preferences 
+                        <div class="text text1" style="color:white !important;">Embrace life according to your own preferences 
 </div>
                     </div>
                    
@@ -128,7 +125,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <h2 class="h1">Trusted Quality Care<br> And Nursing</h2>
+                        <h2 class="h1" style="color:white !important;">Trusted Quality Care<br> And Nursing</h2>
                     </div>
                     
                     <div class="tp-caption" 
@@ -147,7 +144,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="text text1">Delivering compassionate and reliable healthcare excellence</div>
+                        <div class="text text1" style="color:white !important;">Delivering compassionate and reliable healthcare excellence</div>
                     </div>
                     
                     
@@ -164,8 +161,8 @@
 			<!-- Title Box -->
 			<div class="title-box">
 				<h2 class="h3 mb-1">Highly Trained and Compassionate Nursing to Support Your Well-Being</h2>
-				<div class="bold-text text2 mt-4 pt-3 pb-1" style="font-size: 21px !important">-	At Full Care Health Services, we are devoted to supporting our seniors. Our team of nurses are committed to the health and well-being of all seniors. </div>
-				<div class="text text3 p-4" style="color: #007E8A !important">We believe that all seniors deserve to be treated with respect, compassion, and attention, for it is truly an honour to be entrusted with their care. From companion care to specialty care, our plans are carefully designed to meet your needs and support you in life. </div>
+				<div class="bold-text text2 mt-4 pt-3 pb-1" style="font-size: 21px !important">At Full Care Health Services, we are devoted to supporting our seniors. Our team of nurses are committed to the health and well-being of all seniors. </div>
+				<div class="text text3 p-4" style="color: var(--grey) !important">We believe that all seniors deserve to be treated with respect, compassion, and attention, for it is truly an honour to be entrusted with their care. From companion care to specialty care, our plans are carefully designed to meet your needs and support you in life. </div>
 			</div>
 
 		</div>
@@ -178,7 +175,7 @@
         	
 			<!--Content Column-->
 			<div class="content-column">
-				<div class="image-layer" style="background-color: #2A536A"></div>
+				<div class="image-layer" style="background-color: #502d87"></div>
 				<div class="content-box">
 					<h2 class="h2bg">Mission </h2>
 					<div class="text text2bg mb-4 mt-4" style="line-height: 1.4; font-size: 22px !important; font-family: 'Lora', serif !important;">To support seniors in our community through professional and compassionate services</div>
@@ -220,7 +217,7 @@
                      </div>
                   </section>
 
-                  <section class="elementor-section elementor-top-section elementor-element elementor-element-7f90d3a elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f90d3a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+                  <section class="elementor-section elementor-top-section elementor-element elementor-element-7f90d3a elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f90d3a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="margin-bottom:0px">
                               <div class="elementor-element elementor-element-01855f2 elementor-tabs-2 elementor-tabs-view-horizontal elementor-widget elementor-widget-onilife-tabs elementor-widget-tabs" data-id="01855f2" data-element_type="widget" data-widget_type="onilife-tabs.default">
                                  <div class="elementor-widget-container">
                                     <div class="elementor-tabs" role="tablist">
@@ -269,12 +266,12 @@
                                                             </div>
                                                             <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Dedicated care to help you live independently and maintain your quality of life</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">Dedicated care to help you live independently and maintain your quality of life</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Looking for a friend that will walk alongside you and enhance your quality of life? Our professional non-medical caregivers will support seniors emotionally and physically, providing a sense of safety and happiness.
+                                                                  <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4">Looking for a friend that will walk alongside you and enhance your quality of life? Our professional non-medical caregivers will support seniors emotionally and physically, providing a sense of safety and happiness.
                                                                </span>
                                                                </div>
                                                             </div>
@@ -310,12 +307,12 @@
                                                             </div>
                                                              <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px" >Daily personal living tasks and private hygiene provided by a professional and fully trained caregiver</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px" >Daily personal living tasks and private hygiene provided by a professional and fully trained caregiver</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">
+                                                                  <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4">
                                                                   Age inside of the comforts of your own home. Our personal care services are structured to assist you with everyday tasks while you embark on your journey to an active and independent lifestyle. 
                                                                  </span>
                                                                </div>
@@ -352,12 +349,12 @@
                                                             </div>
                                                               <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Receive premium-level care that ensures your medical needs are looked after</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">Receive premium-level care that ensures your medical needs are looked after</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4;">At Fully Care Health Services, our nursing care is specially designed to meet your unique personal needs. Each plan is carefully mapped out according to the needs of each senior, guaranteeing consistent ample care for you or your loved ones.
+                                                                  <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4;">At Fully Care Health Services, our nursing care is specially designed to meet your unique personal needs. Each plan is carefully mapped out according to the needs of each senior, guaranteeing consistent ample care for you or your loved ones.
                                                                </span>
                                                                </div>
                                                             </div>
@@ -394,12 +391,12 @@
                                                             </div>
                                                          <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Flexibility and specialized care by professional caregivers will provide you with the peace of mind and relief necessary to fulfill an individual’s unique needs</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">Flexibility and specialized care by professional caregivers will provide you with the peace of mind and relief necessary to fulfill an individual’s unique needs</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">Some specific medical conditions require specialized support and services. Our specialty care plan is designed to help address your medical conditions while ensuring the best possible quality of life and independence. 
+                                                                  <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4">Some specific medical conditions require specialized support and services. Our specialty care plan is designed to help address your medical conditions while ensuring the best possible quality of life and independence. 
                                                                </span>
                                                                </div>
                                                             </div>
@@ -434,12 +431,12 @@
                                                             </div>
                                                          <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h2 class="elementor-heading-title elementor-size-default text4" style="font-family: 'Lora', serif !important; line-height: 1.4 !important; font-size:20px">Experience total bliss and rejuvenation through our spa care services</h2>
+                                                                  <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">Experience total bliss and rejuvenation through our spa care services</h2>
                                                                </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                <div class="elementor-widget-container text3">
-                                                                  <span class="text3" style="color: #007E8A !important; font-weight: bold; line-height: 1.4">We understand self-care is important, our spa care offers a variety of different services carefully orchestrated to have you feeling rejuvenated after your visit. From hair care to body massages, facial care, and nail care, our skillfully trained professionals are committed to making you or your loved one’s experience unforgettable. 
+                                                                  <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4">We understand self-care is important, our spa care offers a variety of different services carefully orchestrated to have you feeling rejuvenated after your visit. From hair care to body massages, facial care, and nail care, our skillfully trained professionals are committed to making you or your loved one’s experience unforgettable. 
                                                                </span>
                                                                </div>
                                                             </div>
@@ -462,7 +459,7 @@
                            <div class="elementor-widget-wrap elementor-element-populated">
                               <div class="elementor-element elementor-element-3e0093b elementor-widget elementor-widget-image" data-id="3e0093b" data-element_type="widget" data-widget_type="image.default">
                                  <div class="elementor-widget-container">
-                                    <img width="716" height="600" src="img/Home/img_process.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_process.jpg 716w, img/Home/img_process.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" /> 
+                                    <img width="716" height="600" src="img/Home/img_process.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_process.jpg 716w, img/Home/img_process.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" style="padding-right:50px;" /> 
                                  </div>
                               </div>
                            </div>
@@ -472,7 +469,7 @@
                               
                               <div class="elementor-element elementor-element-76e1349 elementor-widget elementor-widget-heading" data-id="76e1349" data-element_type="widget" data-widget_type="heading.default">
                                  <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default h2" style="font-size: 40px">Our Process 
+                                    <h2 class="elementor-heading-title elementor-size-default h2 mb-4" style="font-size: 40px">Our Process 
                                     </h2>
                                  </div>
                               </div>
@@ -492,7 +489,7 @@
                              
                               <div class="elementor-element elementor-element-564c877 elementor-widget elementor-widget-heading" data-id="564c877" data-element_type="widget" data-widget_type="heading.default">
                                  <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default h2" style="font-size: 40px">Career</h2>
+                                    <h2 class="elementor-heading-title elementor-size-default h2 mb-4" style="font-size: 40px">Career</h2>
                                  </div>
                               </div>
                      
@@ -501,7 +498,7 @@
                                     Are you passionate in helping others? Join us and embark on a rewarding career that makes a meaningful difference in the lives of seniors. As a dedicated and compassionate caregiver, you will have the opportunity to listen to our clients and their families, fulfilling their unique needs and requests.                                  </div>
                               </div>
 
-                              <a href="career.php" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                              <a href="Professional_Caregiver_Application.php" class="elementor-button-link elementor-button elementor-size-sm mt-4" role="button">
                                  <span class="elementor-button-content-wrapper">
                                  <span class="elementor-button-text">Apply now</span>
                                  </span>
@@ -510,7 +507,12 @@
                            </div>
                         </div>
                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ea83da6" data-id="ea83da6" data-element_type="column">
-                           <div class="elementor-widget-wrap elementor-element-populated">
+                           <div class="elementor-widget-wrap elementor-element-populated" style="background:transparent;">
+                                <div class="elementor-element elementor-element-3e0093b elementor-widget elementor-widget-image" data-id="3e0093b" data-element_type="widget" data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="716" height="600" src="img/Home/img_process.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_career.jpg 716w, img/Home/img_career.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" style="padding-left:50px;" /> 
+                                    </div>
+                                </div>
                            </div>
                         </div>
                      </div>
