@@ -9,6 +9,7 @@
 <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css">
 
 <link href="css/style.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
 <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet">
 
 <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">

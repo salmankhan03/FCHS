@@ -8,6 +8,7 @@
 <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css">
 
 <link href="css/style.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
 <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet">
 
 <link href="https://fonts.google.com/specimen/Poppins?query=poppin" rel="stylesheet">
@@ -61,7 +62,7 @@
             <div class="rev_slider fullwidthabanner" id="rev_slider_one" data-version="5.4.1">
                 <ul>
                     
-                    <li data-transition="parallaxvertical" data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1688" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="http://t.commonsupport.com/care-giver/images/main-slider/2.jpg" data-title="Slide Title">
+                    <li class="homeBanner" data-transition="parallaxvertical" data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1688" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="http://t.commonsupport.com/care-giver/images/main-slider/2.jpg" data-title="Slide Title">
                     <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="img/Home/fchs_home_1.jpg">
                     
 					<div class="tp-caption" 
@@ -106,7 +107,7 @@
                     
 					</li>
                      
-                    <li data-transition="parallaxvertical" data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1689" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="images/main-slider/2.jpg" data-title="Slide Title">
+                    <li class="homeBanner" data-transition="parallaxvertical" data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1689" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="images/main-slider/2.jpg" data-title="Slide Title">
                     <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="img/Home/fchs_home_2.jpg">
                     
                     <div class="tp-caption" 
@@ -185,12 +186,12 @@
 			
 			<!--Image Column-->
         	<div class="image-column" style="background-image: url(img/Home/img_mission.jpg)">
-				<div class="inner-column">
+				<!-- <div class="inner-column">
 					<div class="image">
 						<img src="images/resource/video-img.jpg" alt="">
 					</div>
 					
-				</div>
+				</div> -->
             </div>
             <!--End Image Column-->
 		</div>
@@ -454,12 +455,12 @@
                  
                   <section class="elementor-section elementor-top-section elementor-element elementor-element-ff72304 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="ff72304" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;opal-am-popup&quot;,&quot;animation_delay&quot;:100}">
    
-                  <div class="elementor-container elementor-column-gap-no">
+                  <div class="ourProcess elementor-container elementor-column-gap-no">
                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9bb7472" data-id="9bb7472" data-element_type="column">
                            <div class="elementor-widget-wrap elementor-element-populated">
                               <div class="elementor-element elementor-element-3e0093b elementor-widget elementor-widget-image" data-id="3e0093b" data-element_type="widget" data-widget_type="image.default">
                                  <div class="elementor-widget-container">
-                                    <img width="716" height="600" src="img/Home/img_process.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_process.jpg 716w, img/Home/img_process.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" style="padding-right:50px;" /> 
+                                    <img width="716" height="600" src="img/Home/img_process.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_process.jpg 716w, img/Home/img_process.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" /> 
                                  </div>
                               </div>
                            </div>

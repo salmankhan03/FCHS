@@ -66,7 +66,7 @@
                                     This field is required. Please complete the following fields: First, Last.
                                 </div>
                             </div>
-                            <div class="col-md-6 col-sm-12">
+                            <div class="col-md-6 col-sm-12 colTopMargin">
                                 <h6 for="lname" class="form-label">Last Name</h6>
                                 <input type="text" class="form-control" id="lname" name="lname" required>
                                 <div class="invalid-feedback error-box">
@@ -83,7 +83,7 @@
                                     This field is required.
                                 </div>
                             </div>
-                             <div class="col-md-6 col-sm-12">
+                             <div class="col-md-6 col-sm-12 colTopMargin">
                                 <h6 for="tel" class=" form-label">Phone</h6>
                                 <input type="tel" class="form-control" id="phone" name="phone" required>
                                 <div class="invalid-feedback error-box">
@@ -102,15 +102,15 @@
                                 <!--<input type="text" class="form-control " id="saddress" name="saddress" required>-->
 
                                 <div class="row mt-4">
-                                    <div class="col-md-4 col-sm-12">
+                                    <div class="col-md-4 col-sm-12 colTopMargin">
                                         <h6 for="city" class=" form-label">City</h6>
                                         <input type="text" class="form-control" id="city" name="city" required>
                                     </div>
-                                    <div class="col-md-4 col-sm-12">
+                                    <div class="col-md-4 col-sm-12 colTopMargin">
                                         <h6 for="state" class="form-label">Province</h6>
                                         <input type="text" class="form-control" id="state" name="state" required>
                                     </div>
-                                     <div class="col-md-4 col-sm-12">
+                                     <div class="col-md-4 col-sm-12 colTopMargin">
                                         <h6 for="zip" class=" form-label">Postal Code</h6>
                                         <input type="text" class="form-control" id="zip" name="zip" required>
                                     </div>

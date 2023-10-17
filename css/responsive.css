@@ -843,7 +843,26 @@
 }
 
 @media only screen and (max-width: 1020px){
-	.jobUpperSpace{
-		margin-top: 0px !important;
-	 }
+	.homeBanner > .tp-mask-wrap{
+		transform: matrix(1, 0, 0, 1, 0, 82) !important;
+	}
 }
+
+@media only screen and (max-width: 1020px){
+	.footer-column{
+		text-align: center
+	}
+}
+
+@media only screen and (max-width: 1020px){
+	.main-footer .footer-widget h2:after {
+		position: absolute;
+		content: '';
+		left: 25% !important;
+		bottom: 0px;
+		width: 30px;
+		height: 1px;
+		background-color: #be9a8d;
+	}
+}
+

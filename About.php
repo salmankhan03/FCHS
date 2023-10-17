@@ -67,7 +67,7 @@
                         <div class="row ">
                             <div class="column col-lg-12 col-md-12 col-sm-12" >
                                 <div class="image">
-                                    <img style="padding: 0px 40px" src="img/About/img_why_choose_us.jpg" alt="" />
+                                    <img class="chooseUs" style="padding: 0px 40px" src="img/About/img_why_choose_us.jpg" alt="" />
                                 </div>
                             </div>
                         </div>
