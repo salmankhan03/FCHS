@@ -147,36 +147,25 @@
     <!--Scroll to top-->
     <script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script>
     <script>
-   (function($) {
-	
-	"use strict";
-	
-	
-	//Hide Loading Box (Preloader)
-	function handlePreloader() {
-		if($('.preloader').length){
-			$('.preloader').delay(200).fadeOut(500);
-		}
-	}
-	
-	// Scroll to a Specific Div
-	if($('.scroll-to-target').length){
-		$(".scroll-to-target").on('click', function() {
-			var target = $(this).attr('data-target');
-		   // animate
-		   $('html, body').animate({
-			   scrollTop: $(target).offset().top
-			 }, 1500);
-	
-		});
-	}
-	
-	$(window).on('load', function() {
-		handlePreloader();
-	});	
+        $(document).ready(function () {
+            $(".scroll-to-top").hide();
 
-})(window.jQuery);
-</script>
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 0) { 
+                    $(".scroll-to-top").fadeIn();
+                } else {
+                    $(".scroll-to-top").fadeOut();
+                }
+            });
+
+            $(".scroll-to-target").on('click', function () {
+                var target = $(this).attr('data-target');
+                $('html, body').animate({
+                    scrollTop: $(target).offset().top
+                }, 1500);
+            });
+        });
+    </script>
     <!--Revolution Slider-->
     <script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/revslider@5.4.201-8.6/js/jquery.themepunch.tools.min.js"></script>

@@ -162,35 +162,24 @@
 	<!--Scroll to top-->
 	<script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script>
 	<script>
-		(function($) {
+		$(document).ready(function () {
+			$(".scroll-to-top").hide();
 
-			"use strict";
-
-
-			//Hide Loading Box (Preloader)
-			function handlePreloader() {
-				if ($('.preloader').length) {
-					$('.preloader').delay(200).fadeOut(500);
+			$(window).scroll(function () {
+				if ($(this).scrollTop() > 0) { 
+					$(".scroll-to-top").fadeIn();
+				} else {
+					$(".scroll-to-top").fadeOut();
 				}
-			}
-
-			// Scroll to a Specific Div
-			if ($('.scroll-to-target').length) {
-				$(".scroll-to-target").on('click', function() {
-					var target = $(this).attr('data-target');
-					// animate
-					$('html, body').animate({
-						scrollTop: $(target).offset().top
-					}, 1500);
-
-				});
-			}
-
-			$(window).on('load', function() {
-				handlePreloader();
 			});
 
-		})(window.jQuery);
+			$(".scroll-to-target").on('click', function () {
+				var target = $(this).attr('data-target');
+				$('html, body').animate({
+					scrollTop: $(target).offset().top
+				}, 1500);
+			});
+		});
 	</script>
 	<script>
 		// Example starter JavaScript for disabling form submissions if there are invalid fields

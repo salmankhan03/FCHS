@@ -95,7 +95,7 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                                 <ul class="navigation clearfix">
                                     <li class=""><a id="index" href="index.php">Home</a>
                                     </li>
-                                    <li class="dropdown"><a id="service" href="service.php">Services</a>
+                                    <li class="dropdown"><a id="service" href="Companion_Care.php">Services</a>
                                         <ul>
                                             <li><a href="Companion_Care.php">Companion Care</a></li>
                                             <li><a href="Personal_Care.php">Personal Care</a></li>
@@ -172,9 +172,9 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
 	</script>
 
 <!--Scroll to top-->
-<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
+<!-- <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div> -->
 
-<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
+<!-- <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div> -->
 
 <!--Scroll to top-->
 <script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script>
