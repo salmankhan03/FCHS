@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FCOH</title>
+    <title>FCHS - Beauty Care</title>
     <!-- Stylesheets -->
     <link rel="stylesheet" href="https://cdn.usebootstrap.com/bootstrap/4.1.1/css/bootstrap.min.css">
     <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css">
