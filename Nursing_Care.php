@@ -6,10 +6,12 @@
     <title>FCOH</title>
     <!-- Stylesheets -->
     <link rel="stylesheet" href="https://cdn.usebootstrap.com/bootstrap/4.1.1/css/bootstrap.min.css">
-    <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css">
+    <!-- <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"> -->
+    <link href="lib/settings.css" rel="stylesheet" type="text/css">
 
     <link href="css/style.css" rel="stylesheet">
-    <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet">
+    <!-- <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet"> -->
+    <link href="lib/responsive.css" rel="stylesheet">
 
     <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
     <link rel="icon" href="images/favicon.png" type="image/x-icon">
@@ -145,7 +147,7 @@
     <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
 
     <!--Scroll to top-->
-    <script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script>
+    <!-- <script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script> -->
     <script>
         $(document).ready(function () {
             $(".scroll-to-top").hide();
@@ -167,7 +169,17 @@
         });
     </script>
     <!--Revolution Slider-->
-    <script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="lib/jquerycare.js"></script>
+    <script src="lib/revolution.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/revslider@5.4.201-8.6/js/jquery.themepunch.tools.min.js"></script>
+    <script src="lib/layeranimation.js"></script>
+    <script src="lib/revolution.extension.navigation.min.js.js"></script>
+    <script src="lib/revolution.extension.parallax.min.js"></script>
+    <script src="lib/revolution.extension.slideanims.min.js"></script>
+    <script src="lib/main-slider-script.js"></script>
+    <script src="lib/appear.js"></script>
+    <script src="lib/fancybox.js"></script>
+    <!-- <script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/revslider@5.4.201-8.6/js/jquery.themepunch.tools.min.js"></script>
     <script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
     <script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
@@ -175,7 +187,7 @@
     <script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
     <script src="http://t.commonsupport.com/care-giver/js/main-slider-script.js"></script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.js"></script> -->
     <script src="js/appear.js"></script>
     <!-- <script src="js/script.js"></script> -->
 </body>
