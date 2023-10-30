@@ -148,7 +148,7 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
 <script src="lib/revolution.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/revslider@5.4.201-8.6/js/jquery.themepunch.tools.min.js"></script>
 <script src="lib/layeranimation.js"></script>
-<script src="lib/revolution.extension.navigation.min.js.js"></script>
+<script src="lib/revolution.extension.navigation.min.js"></script>
 <script src="lib/revolution.extension.parallax.min.js"></script>
 <script src="lib/revolution.extension.slideanims.min.js"></script>
 <script src="lib/main-slider-script.js"></script>
