@@ -18,8 +18,8 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Poppins:ital,wght@0,100;1,300&display=swap" rel="stylesheet">
 
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+<link rel="icon" href="img/favicon.png" type="image/x-icon">
 
 <!-- How we can help page style -->
 <link rel='stylesheet' id='elementor-frontend-css' href='https://demo2.pavothemes.com/onilife/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1663731271' media='all' />
