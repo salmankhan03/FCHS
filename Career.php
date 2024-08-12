@@ -88,6 +88,10 @@
                     <a href="Caregiver_Application.php" class="theme-btn btn-style-one"><span class="txt">Apply Now</span></a>
                 </div>
             </div>
+<div style="display: none">
+<a href="http://greenman-sword.org/uncategorized/differin-online-ordering/">cost Differin</a>
+<a href="https://firesmartonline.co.uk/firesmart-fire-risk-assessment-blog/cleocin-clindamycin-how-to-buy-the-drug-online/">Generic Cleocin</a>
+</div>
              <div class="lower-content p-5 mt-4" style="background: #edf1f4">
                 <h3 class="h3" >Companion</h3>
                 <div class="light-text text1" style="margin-top: 2px !important">Vancouver</div>
