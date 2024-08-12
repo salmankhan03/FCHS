@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<title>FCHS - Contact Us</title>
 	<!-- Stylesheets -->
-	<link rel="stylesheet" href="https://cdn.usebootstrap.com/bootstrap/4.1.1/css/bootstrap.min.css">
+	<link rel="stylesheet" href="http://t.commonsupport.com/care-giver/css/bootstrap.css">
 	<!-- <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"> -->
 	<link href="lib/settings.css" rel="stylesheet" type="text/css">
 
