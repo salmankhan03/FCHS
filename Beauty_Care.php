@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>FCHS - Beauty Care</title>
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="http://t.commonsupport.com/care-giver/css/bootstrap.css">
+
     <link rel="stylesheet" href="lib/bootstrap.css">
     <!-- <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"> -->
     <link href="lib/settings.css" rel="stylesheet" type="text/css">
