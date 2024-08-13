@@ -561,7 +561,7 @@
 </script>
 
 </script>
-<script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script>
+<!-- <script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script> -->
 <!--Revolution Slider-->
 <script src="lib/jquerycare.js"></script>
     <script src="lib/revolution.js"></script>

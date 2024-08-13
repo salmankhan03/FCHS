@@ -148,7 +148,7 @@
 	<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
 
 	<!--Scroll to top-->
-	<script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script>
+	<!-- <script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script> -->
 	<script>
    $(document).ready(function () {
     $(".scroll-to-top").hide();

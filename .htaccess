@@ -1,10 +1,10 @@
-ErrorDocument 404 https://%{HTTP_HOST}/en/404.php
+ErrorDocument 404 https://%{HTTP_HOST}/FCHS/404.php
 
 RewriteEngine On
 RewriteBase /
 
 RewriteCond %{REQUEST_URI} ^/404/$
-RewriteRule ^(.*)$ https://%{HTTP_HOST}/en/404.php [L]
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/FCHS/404.php [L]
 
 
 RewriteEngine On
