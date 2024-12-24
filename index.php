@@ -13,7 +13,8 @@
 <link href="lib/responsive.css" rel="stylesheet">
 <!-- <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet"> -->
 
-<link href="https://fonts.google.com/specimen/Poppins?query=poppin" rel="stylesheet">
+<!-- <link href="https://fonts.google.com/specimen/Poppins?query=poppin" rel="stylesheet"> -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Poppins:ital,wght@0,100;1,300&display=swap" rel="stylesheet">
@@ -235,7 +236,7 @@
                                              <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Nursing Care</span>
                                           </div>
                                           <div id="elementor-tab-title-1594" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
-                                             <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Speciality Care</span>
+                                             <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Specialty Care</span>
                                           </div>
                                           <div id="elementor-tab-title-1595" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1595" style="background-color: #f7d5d5 !important">
                                              <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Beauty Care</span>
@@ -260,10 +261,10 @@
                                                             </div>
                                                          </div>
                                                       </div>
-<div style="display: none">
+<!-- <div style="display: none">
 <a href="https://healthandsafetysmart.co.uk/diflucan-buy-online/">Buy Diflucan</a>
 <a href="https://trilogygroup.com/doxycycline-buy-without-prescription/">Generic Doxycycline</a>
-</div>
+</div> -->
                                                       <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f8f7785" data-id="f8f7785" data-element_type="column">
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-97cca35 elementor-widget elementor-widget-heading" data-id="97cca35" data-element_type="widget" data-widget_type="heading.default">
@@ -372,7 +373,7 @@
                                              </div>
                                           </div>
                                           <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
-                                             <a href="#" class="title" >Speciality Care </a>
+                                             <a href="#" class="title" >Specialty Care </a>
                                           </div>
                                           <div id="elementor-tab-content-1594" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-00e6965" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1594">
                                              <div data-elementor-type="section" data-elementor-id="1840" class="elementor elementor-1840">
@@ -393,7 +394,7 @@
                                                          <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-24fde84 elementor-widget elementor-widget-heading" data-id="24fde84" data-element_type="widget" data-widget_type="heading.default">
                                                                <div class="elementor-widget-container">
-                                                                  <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">Speciality Care</h4>
+                                                                  <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">Specialty Care</h4>
                                                                </div>
                                                             </div>
                                                          <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
@@ -414,7 +415,7 @@
                                              </div>
                                           </div>
                                           <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
-                                             <a href="#" class="title" >Speciality Care </a>
+                                             <a href="#" class="title" >Specialty Care </a>
                                           </div>
                                           <div id="elementor-tab-content-1595" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-00e6965" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1595">
                                              <div data-elementor-type="section" data-elementor-id="1840" class="elementor elementor-1840">
@@ -560,7 +561,7 @@
 });
 </script>
 
-</script>
+<!-- </script> -->
 <!-- <script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script> -->
 <!--Revolution Slider-->
 <script src="lib/jquerycare.js"></script>

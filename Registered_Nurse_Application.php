@@ -7,7 +7,7 @@
     <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
 	<link rel="icon" href="img/favicon.png" type="image/x-icon">
 
-    <title>Job Application - Resgistered Nurse</title>
+    <title>Job Application - Registered Nurse</title>
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -54,7 +54,7 @@
             <form id="jobTitleForm" class="needs-validation" action="send-job-title-mail.php" method="post" novalidate>
                 <div class="row">
                     <div class="col-md-12">
-                        <h1 class="title jobUpperSpace">Resgistered Nurse Application</h1>
+                        <h1 class="title jobUpperSpace">Registered Nurse Application</h1>
                         <!--<h6 class="form-label mt-5">Job Title</h6>-->
                         <!--<div class="simple-box">-->
                         <!--    Neighborhood Health Team Lead Nurse - Home Care, Island of Montreal, West-Island, North Shore and South Shore-->
@@ -138,7 +138,7 @@
 
                         <div class="row mt-4">
                             <div class="col-md-12">
-                                <h6 for="question2" class=" form-label">Why do you feel you would be a good Resgistered Nurse?</h6>
+                                <h6 for="question2" class=" form-label">Why do you feel you would be a good Registered Nurse?</h6>
                                 <textarea class="form-control" id="question2" name="answer2" required  rows="2"> </textarea>
                                 <div class="invalid-feedback error-box">
                                     This field is required.

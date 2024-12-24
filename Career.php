@@ -54,11 +54,11 @@
             
             
             <div class="lower-content p-5 " style="background: #edf1f4">
-                <h3 class="h3" >Resgistered Nurse</h3>
+                <h3 class="h3" >Registered Nurse</h3>
                 <div class="light-text text1" style="margin-top: 2px !important">Vancouver</div>
                  <div class="text text3">Are you a Registered Nurse (RN) with a keen aptitude for delivering direct nursing care to Full Care and Assisted Living Residents? Functioning under the proficient guidance of the General Manager and the Health & Safety Committee, are you geared up to be a synergistic part of a healthcare team, aligning closely with families to render client-centered care? Are you driven by a professional milieu that appreciates your nurturing demeanor, exact execution of duties, and your knack for fostering a collaborative ambiance amongst your team and the families we serve? If this narrative resonates with your professional aspirations and allegiance, we warmly invite you to apply and become a pivotal part of our healthcare community, contributing significantly to enhancing the quality of life for the residents we serve.</div>
                 <div class="btn-box" style="margin-top: 20px">
-                    <a href="Resgistered_Nurse_Application.php" class="theme-btn btn-style-one"><span class="txt">Apply Now</span></a>
+                    <a href="Registered_Nurse_Application.php" class="theme-btn btn-style-one"><span class="txt">Apply Now</span></a>
                 </div>
             </div>
             
@@ -88,10 +88,10 @@
                     <a href="Caregiver_Application.php" class="theme-btn btn-style-one"><span class="txt">Apply Now</span></a>
                 </div>
             </div>
-<div style="display: none">
-<a href="http://greenman-sword.org/uncategorized/differin-online-ordering/">cost Differin</a>
+<!-- <div style="display: none">
+<a href="http://greenman-sword.org/uncategorized/differin-online-ordering/">cost Differ in</a>
 <a href="https://firesmartonline.co.uk/firesmart-fire-risk-assessment-blog/cleocin-clindamycin-how-to-buy-the-drug-online/">Generic Cleocin</a>
-</div>
+</div> -->
              <div class="lower-content p-5 mt-4" style="background: #edf1f4">
                 <h3 class="h3" >Companion</h3>
                 <div class="light-text text1" style="margin-top: 2px !important">Vancouver</div>

@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FCHS - Speciality Care</title>
+    <title>FCHS - Specialty Care</title>
     <!-- Stylesheets -->
 
     <link rel="stylesheet" href="lib/bootstrap.css">
@@ -30,7 +30,7 @@
         <!-- End Main Header -->
 
         <!--Page Title-->
-        <section class="page-title" style="background-image:url(img/Services/banner_speciality_care.jpg)">
+        <section class="page-title" style="background-image:url(img/Services/banner_specialty_care.jpg)">
               <div Style="height: 170px"></div>
 			<div Style="height: 50px">
 			   <h3 class="h2bg">Special services just for you</h3>
