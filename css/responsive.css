@@ -858,7 +858,8 @@
 	.main-footer .footer-widget h2:after {
 		position: absolute;
 		content: '';
-		left: 25% !important;
+		left: 50% !important;
+		transform: translateX(-50%);
 		bottom: 0px;
 		width: 30px;
 		height: 1px;
