@@ -106,16 +106,18 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                                             <li><a href="Beauty_Care.php">Beauty Care</a></li>
                                         </ul>
                                     </li>
-                                    <li class=""><a id="about" href="About.php">About us</a>
+                                    <li class=""><a id="about" href="About.php">About Us</a>
                                     </li>
                                     <li class=""><a id="career" href="Career.php">Career</a>
                                     </li>
                                     <li class=""><a id="contact" href="Contact.php">Contact</a>
                                     </li>
-
-                                   
-									
                                 </ul>
+                                <div class="lang-nav">
+                                        <a href="index.php" class="lang-btn lang-en <?php echo !strpos($_SERVER['REQUEST_URI'], '/zh/') ? 'active' : ''; ?>">EN</a>
+                                        <span class="lang-separator">|</span>
+                                        <a href="zh/index.php" class="lang-btn <?php echo strpos($_SERVER['REQUEST_URI'], '/zh/') ? 'active' : ''; ?>">中文</a>
+                                    </div>
                             </div>
                         </nav>
                         <!-- Main Menu End-->

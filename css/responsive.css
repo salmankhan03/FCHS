@@ -115,6 +115,10 @@
 	.main-menu .navigation > li > a{
 		font-size:15px;
 	}
+
+	.lang-btn {
+		font-size: 15px;
+	}
 	
 	.main-header .header-top .top-left,
 	.main-header .header-top .top-right{

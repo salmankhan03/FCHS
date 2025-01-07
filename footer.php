@@ -85,7 +85,7 @@
 			</div>
 			<div class="footer-bottom clearfix">
                 <div class="pull-left">
-                    <div class="copyright" style="color:#fff">&copy; Copyright Full Care Health Service LTD. 2023. All right reserved.</div>
+                    <div class="copyright" style="color:#fff">&copy; Copyright Full Care Health Service LTD. <?php echo Date('Y'); ?>. All right reserved.</div>
                 </div>
                
             </div>
