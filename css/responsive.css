@@ -119,6 +119,10 @@
 	.lang-btn {
 		font-size: 15px;
 	}
+
+	.lang-en {
+		padding-top: 2px;
+	}
 	
 	.main-header .header-top .top-left,
 	.main-header .header-top .top-right{
