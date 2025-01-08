@@ -76,58 +76,65 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
         
             <div class="inner-container">
                 
-                <div class="auto-container clearfix">
+                <div class="auto-container clearfix nav-container">
                     <!--Info-->
                     <div class="logo-outer">
-                        <div class="logo"><a href="index.php"><img src="img/logo.svg" alt="" title="" style="width: 300px; margin: auto; padding: 12px 0;"></a></div>
+                        <div class="logo"><a href="index.php"><img src="img/logo.svg" alt="logo" title="" class="logo-img"></a></div>
                     </div>
+                    
+                    <div class="right-align">
+                        <div class="mobile-lang-nav">
+                            <a href="index.php" class="mobile-lang-btn lang-en <?php echo !strpos($_SERVER['REQUEST_URI'], '/zh/') ? 'active' : ''; ?>">EN</a>
+                            <span class="lang-separator">|</span>
+                            <a href="zh/index.php" class="mobile-lang-btn <?php echo strpos($_SERVER['REQUEST_URI'], '/zh/') ? 'active' : ''; ?>">中文</a>
+                        </div>
+                        <!--Nav Box-->
+                        <div class="nav-outer clearfix">
+                            <!--Mobile Navigation Toggler For Mobile--><div class="mobile-nav-toggler"><span class="fa fa-bars"></span></div>
+                            <nav class="main-menu navbar-expand-md navbar-light">
+                                <div class="navbar-header">
+                                    <!-- Togg le Button -->      
+                                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                        <span class="icon flaticon-menu"></span>
+                                    </button>
+                                </div>
 
-                    <!--Nav Box-->
-                    <div class="nav-outer clearfix">
-                        <!--Mobile Navigation Toggler For Mobile--><div class="mobile-nav-toggler"><span class="fa fa-bars"></span></div>
-                        <nav class="main-menu navbar-expand-md navbar-light">
-                            <div class="navbar-header">
-                                <!-- Togg le Button -->      
-                                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                                    <span class="icon flaticon-menu"></span>
-                                </button>
-                            </div>
-
-                            <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
-                                <ul class="navigation clearfix">
-                                    <li class=""><a id="index" href="index.php">Home</a>
-                                    </li>
-                                    <li class="dropdown"><a id="service" href="Companion_Care.php">Services</a>
-                                        <ul>
-                                            <li><a href="Companion_Care.php">Companion Care</a></li>
-                                            <li><a href="Personal_Care.php">Personal Care</a></li>
-                                            <li><a href="Nursing_Care.php">Nursing Care</a></li>
-                                            <li><a href="Specialty_Care.php">Specialty Care</a></li>
-                                            <li><a href="Beauty_Care.php">Beauty Care</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class=""><a id="about" href="About.php">About Us</a>
-                                    </li>
-                                    <li class=""><a id="career" href="Career.php">Career</a>
-                                    </li>
-                                    <li class=""><a id="contact" href="Contact.php">Contact</a>
-                                    </li>
-                                </ul>
-                                <div class="lang-nav">
+                                <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
+                                    <ul class="navigation clearfix">
+                                        <li class=""><a id="index" href="index.php">Home</a>
+                                        </li>
+                                        <li class="dropdown"><a id="service" href="Companion_Care.php">Services</a>
+                                            <ul>
+                                                <li><a href="Companion_Care.php">Companion Care</a></li>
+                                                <li><a href="Personal_Care.php">Personal Care</a></li>
+                                                <li><a href="Nursing_Care.php">Nursing Care</a></li>
+                                                <li><a href="Specialty_Care.php">Specialty Care</a></li>
+                                                <li><a href="Beauty_Care.php">Beauty Care</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class=""><a id="about" href="About.php">About Us</a>
+                                        </li>
+                                        <li class=""><a id="career" href="Career.php">Career</a>
+                                        </li>
+                                        <li class=""><a id="contact" href="Contact.php">Contact</a>
+                                        </li>
+                                    </ul>
+                                    <div class="lang-nav">
                                         <a href="index.php" class="lang-btn lang-en <?php echo !strpos($_SERVER['REQUEST_URI'], '/zh/') ? 'active' : ''; ?>">EN</a>
                                         <span class="lang-separator">|</span>
                                         <a href="zh/index.php" class="lang-btn <?php echo strpos($_SERVER['REQUEST_URI'], '/zh/') ? 'active' : ''; ?>">中文</a>
                                     </div>
-                            </div>
-                        </nav>
-                        <!-- Main Menu End-->
+                                </div>
+                            </nav>
+                            <!-- Main Menu End-->
 
-                        <!-- Main Menu End-->
-                        <!-- <div class="outer-box clearfix">
-                            <div class="btn-box">
-                                <a href="contact.html" class="theme-btn btn-style-one"><span class="txt">Ask a Question</span></a>
-                            </div>
-                        </div> -->
+                            <!-- Main Menu End-->
+                            <!-- <div class="outer-box clearfix">
+                                <div class="btn-box">
+                                    <a href="contact.html" class="theme-btn btn-style-one"><span class="txt">Ask a Question</span></a>
+                                </div>
+                            </div> -->
+                        </div>
                     </div>
                 </div>
             </div>

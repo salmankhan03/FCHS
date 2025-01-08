@@ -764,7 +764,7 @@ li {
     float: left;
 }
 
-/* .preloader {
+.preloader {
     position: fixed;
     left: 0px;
     top: 0px;
@@ -775,7 +775,7 @@ li {
     background-position: center center;
     background-repeat: no-repeat;
     background-image: url('https://t.commonsupport.com/care-giver/images/icons/preloader.svg');
-} */
+}
 
 img {
     display: inline-block;
@@ -6845,4 +6845,40 @@ font-size: 16px;
 
 .lang-separator {
     color: #333333;
+}
+
+.mobile-lang-nav {
+    font-family: 'Poppins', serif;
+    display: inline-flex;
+    align-items: center;
+    margin-right: auto;
+    position: relative;
+    padding: 8px 10px 0 0;
+    display: none;
+}
+
+.mobile-lang-btn {
+    font-size: 15px;
+    color: #222222;
+    padding: 0px 5px;
+    transition: all 300ms ease;
+}
+
+.mobile-lang-btn:hover {
+    color: #333333;
+}
+
+.mobile-lang-btn.active {
+    color: #7659b1;
+    font-weight: 600;
+}
+
+.mobile-lang-separator {
+    color: #333333;
+}
+
+.logo-img {
+    width: 300px;
+    margin: auto;
+    padding: 12px 0;
 }

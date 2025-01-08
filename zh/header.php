@@ -42,51 +42,57 @@
             <div class="header-upper">
                 <div class="inner-container">
 
-                    <div class="auto-container clearfix">
+                    <div class="auto-container clearfix nav-container">
                         <!--Info-->
                         <div class="logo-outer">
-                            <div class="logo"><a href="index.php"><img src="img/logo.svg" alt="" title="" style="width: 300px; margin: auto; padding: 12px 0;"></a></div>
+                            <div class="logo"><a href="zh/index.php"><img src="img/logo.svg" alt="logo" title="" class="logo-img"></a></div>
                         </div>
 
-                        <!--Nav Box-->
-                        <div class="nav-outer clearfix">
-                            <!--Mobile Navigation Toggler For Mobile-->
-                            <div class="mobile-nav-toggler"><span class="fa fa-bars"></span></div>
-                            <nav class="main-menu navbar-expand-md navbar-light">
-                                <div class="navbar-header">
-                                    <!-- Togg le Button -->
-                                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                                        <span class="icon flaticon-menu"></span>
-                                    </button>
-                                </div>
-
-                                <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
-                                    <ul class="navigation clearfix">
-                                        <li class=""><a id="index" href="zh/index.php">家</a>
-                                        </li>
-                                        <li class="dropdown"><a id="service" href="zh/Companion_Care.php">服務</a>
-                                            <ul>
-                                                <li><a href="zh/Companion_Care.php">Companion Care</a></li>
-                                                <li><a href="zh/Personal_Care.php">Personal Care</a></li>
-                                                <li><a href="zh/Nursing_Care.php">Nursing Care</a></li>
-                                                <li><a href="zh/Specialty_Care.php">Specialty Care</a></li>
-                                                <li><a href="zh/Beauty_Care.php">Beauty Care</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class=""><a id="about" href="zh/About.php">關於我們</a>
-                                        </li>
-                                        <li class=""><a id="career" href="zh/Career.php">職業</a>
-                                        </li>
-                                        <li class=""><a id="contact" href="zh/Contact.php">接觸</a>
-                                        </li>
-                                    </ul>
-                                    <div class="lang-nav">
-                                        <a href="index.php" class="lang-btn lang-en <?php echo !strpos($_SERVER['REQUEST_URI'], '/zh/') ? 'active' : ''; ?>">EN</a>
-                                        <span class="lang-separator">|</span>
-                                        <a href="zh/index.php" class="lang-btn <?php echo strpos($_SERVER['REQUEST_URI'], '/zh/') ? 'active' : ''; ?>">中文</a>
+                        <div class="right-align">
+                            <div class="mobile-lang-nav">
+                                <a href="index.php" class="mobile-lang-btn lang-en <?php echo !strpos($_SERVER['REQUEST_URI'], '/zh/') ? 'active' : ''; ?>">EN</a>
+                                <span class="lang-separator">|</span>
+                                <a href="zh/index.php" class="mobile-lang-btn <?php echo strpos($_SERVER['REQUEST_URI'], '/zh/') ? 'active' : ''; ?>">中文</a>
+                            </div>
+                            <!--Nav Box-->
+                            <div class="nav-outer clearfix">
+                                <!--Mobile Navigation Toggler For Mobile-->
+                                <div class="mobile-nav-toggler"><span class="fa fa-bars"></span></div>
+                                <nav class="main-menu navbar-expand-md navbar-light">
+                                    <div class="navbar-header">
+                                        <!-- Togg le Button -->
+                                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                            <span class="icon flaticon-menu"></span>
+                                        </button>
                                     </div>
-                                </div>
-                            </nav>
+                                    <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
+                                        <ul class="navigation clearfix">
+                                            <li class=""><a id="index" href="zh/index.php">家</a>
+                                            </li>
+                                            <li class="dropdown"><a id="service" href="zh/Companion_Care.php">服務</a>
+                                                <ul>
+                                                    <li><a href="zh/Companion_Care.php">Companion Care</a></li>
+                                                    <li><a href="zh/Personal_Care.php">Personal Care</a></li>
+                                                    <li><a href="zh/Nursing_Care.php">Nursing Care</a></li>
+                                                    <li><a href="zh/Specialty_Care.php">Specialty Care</a></li>
+                                                    <li><a href="zh/Beauty_Care.php">Beauty Care</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class=""><a id="about" href="zh/About.php">關於我們</a>
+                                            </li>
+                                            <li class=""><a id="career" href="zh/Career.php">職業</a>
+                                            </li>
+                                            <li class=""><a id="contact" href="zh/Contact.php">接觸</a>
+                                            </li>
+                                        </ul>
+                                        <div class="lang-nav">
+                                            <a href="index.php" class="lang-btn lang-en <?php echo !strpos($_SERVER['REQUEST_URI'], '/zh/') ? 'active' : ''; ?>">EN</a>
+                                            <span class="lang-separator">|</span>
+                                            <a href="zh/index.php" class="lang-btn <?php echo strpos($_SERVER['REQUEST_URI'], '/zh/') ? 'active' : ''; ?>">中文</a>
+                                        </div>
+                                    </div>
+                                </nav>
+                            </div>
                         </div>
                     </div>
                 </div>

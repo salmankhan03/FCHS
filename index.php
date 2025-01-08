@@ -556,7 +556,7 @@
         var target = $(this).attr('data-target');
         $('html, body').animate({
             scrollTop: $(target).offset().top
-        }, 1500);
+        }, 0);
     });
 });
 </script>
