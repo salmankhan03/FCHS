@@ -190,30 +190,34 @@
 		(function() {
 			'use strict'
 
-			// Fetch all the forms we want to apply custom Bootstrap validation styles to
 			var forms = document.querySelectorAll('.needs-validation')
 
-			// Loop over them and prevent submission
 			Array.prototype.slice.call(forms)
 				.forEach(function(form) {
 					form.addEventListener('submit', function(event) {
+						event.preventDefault(); // Prevent default submission first
+						
+						// Check form validity
 						if (!form.checkValidity()) {
-							event.preventDefault()
-							event.stopPropagation()
+							event.stopPropagation();
+							form.classList.add('was-validated');
+							return;
 						}
 
+						// Check captcha
 						const userInput = document.getElementById("captcha").value;
 						const captchaValue = document.getElementById("captcha-input").value;
 
-						if (userInput === captchaValue) {
-							console.log('captcha is valid')
-						} else {
-							form.classList.add('was-validated')
+						if (userInput !== captchaValue) {
+							event.stopPropagation();
 							alert("Captcha is incorrect. Please try again.");
 							generateCaptcha();
+							form.classList.add('was-validated');
+							return;
 						}
 
-						form.classList.add('was-validated')
+						// If everything is valid, submit the form
+						form.submit();
 					}, false)
 				})
 		})()
