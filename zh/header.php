@@ -60,7 +60,7 @@
                                 <div class="mobile-nav-toggler"><span class="fa fa-bars"></span></div>
                                 <nav class="main-menu navbar-expand-md navbar-light">
                                     <div class="navbar-header">
-                                        <!-- Togg le Button -->
+                                        <!-- Toggle Button -->
                                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                             <span class="icon flaticon-menu"></span>
                                         </button>
