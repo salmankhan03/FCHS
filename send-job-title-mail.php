@@ -6,7 +6,7 @@ use PHPMailer\PHPMailer\Exception;
 
 require 'vendor/autoload.php';
 
-if (!empty($_POST['fname'])  && !empty($_POST['lname']) && !empty($_POST['email']) && !empty($_POST['phone']) && !empty($_POST['address']) && !empty($_POST['city']) && !empty($_POST['state']) && !empty($_POST['zip']) && !empty($_POST['answer1']) && !empty($_POST['answer2']) && !empty($_POST['answer3']) && !empty($_POST['employer']) && !empty($_POST['motivation']) && !empty($_POST['information_source'])) {
+if (!empty($_POST['fname'])  && !empty($_POST['lname']) && !empty($_POST['email']) && !empty($_POST['phone']) && !empty($_POST['address']) && !empty($_POST['city']) && !empty($_POST['state']) && !empty($_POST['zip']) && !empty($_POST['answer1']) && !empty($_POST['answer2']) && !empty($_POST['answer3']) && !empty($_POST['employer']) && !empty($_POST['travel']) && !empty($_POST['motivation']) && !empty($_POST['information_source'])) {
     $mail = new PHPMailer(true);
 
     $mail->isSMTP();
@@ -18,15 +18,16 @@ if (!empty($_POST['fname'])  && !empty($_POST['lname']) && !empty($_POST['email'
     $mail->Port = 587;
 
     $mail->setFrom($_POST['email']);
-    $mail->addAddress('tonyh@intellidt.com');
+    $mail->addAddress('hiring@fullcarehs.com');
     $mail->Subject = 'FCHS Application Form';
     $mail->isHTML(TRUE);
 
 
 
     $body = "<html>
-    <b>First Name: </b> {$_POST['fname']} <br>
-    <b>Last Name: </b> {$_POST['lname']} <br>
+    <b>Position: </b> {$_POST['job_title']} </br><br>
+    <b>First Name: </b> {$_POST['fname']} </br><br>
+    <b>Last Name: </b> {$_POST['lname']} </br><br>
     <b>Email: </b> {$_POST['email']} </br><br>
     <b>Contact No: </b> {$_POST['phone']} </br><br>
     <b>Address Line 1: </b> {$_POST['address']} </br><br>
@@ -36,7 +37,8 @@ if (!empty($_POST['fname'])  && !empty($_POST['lname']) && !empty($_POST['email'
     <b>What do you love most about caregiving? </b><br> {$_POST['answer1']} </br><br></br>
     <b>Why do you feel you would be a good Full Care Health Services Caregiver? </b><br> {$_POST['answer2']} </br> <br></br>
     <b>What is the most important thing you seek from an employer? </b> <br> {$_POST['answer3']} </br> <br></br>
-    <b>Are you legally authorized to work in Canada with any employer? </b> <br> {$_POST['employer']} </br><br> </br>
+    <b>What kind of hours are you seeking? </b> <br> {$_POST['employer']} </br><br> </br>
+    <b>I travel by: </b> <br> {$_POST['travel']} </br><br> </br>
     <b>If you were successfully hired, what things will motivate you the most in your job? </b> <br> {$_POST['motivation']} </br> <br></br>
     <b>How did you hear about us? </b> <br> {$_POST['information_source']} </br> <br></br>
     </html>";

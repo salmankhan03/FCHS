@@ -60,7 +60,7 @@
                         <!--    Neighborhood Health Team Lead Nurse - Home Care, Island of Montreal, West-Island, North Shore and South Shore-->
                         <!--</div>-->
                         <!--<h6 class="mt-4">Please enter all relevant personal information in the fields below</h6>-->
-
+                        <input type="hidden" id="job_title" name="job_title" value="Registered Nurse">
                         <div class="row mt-5">
                             <div class="col-md-6 col-sm-12">
                                 <h6 for="fname" class=" form-label">First Name</h6>
