@@ -129,7 +129,7 @@
                         <div class="row mt-4">
                             <div class="col-md-12">
                                 <h6 for="question1" class=" form-label">What do you love most about caregiving?</h6>
-                                <textarea class="form-control" id="question1" name="answer1" required rows="2"> </textarea>
+                                <textarea class="form-control" id="question1" name="answer1" required rows="2"></textarea>
                                 <div class="invalid-feedback error-box">
                                     This field is required.
                                 </div>
@@ -139,7 +139,7 @@
                         <div class="row mt-4">
                             <div class="col-md-12">
                                 <h6 for="question2" class=" form-label">Why do you feel you would be a good Companion?</h6>
-                                <textarea class="form-control" id="question2" name="answer2" required  rows="2"> </textarea>
+                                <textarea class="form-control" id="question2" name="answer2" required  rows="2"></textarea>
                                 <div class="invalid-feedback error-box">
                                     This field is required.
                                 </div>
@@ -150,7 +150,7 @@
                             <div class="col-md-12">
                                 <h6 for="question3" class=" form-label">What is the most important thing you seek from
                                     an employer?</h6>
-                                <textarea class="form-control" id="question3" name="answer3" required  rows="2"> </textarea>
+                                <textarea class="form-control" id="question3" name="answer3" required  rows="2"></textarea>
                                 <div class="invalid-feedback error-box">
                                     This field is required.
                                 </div>

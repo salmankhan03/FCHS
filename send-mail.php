@@ -18,8 +18,8 @@ if (!empty($_POST['name'])  && !empty($_POST['email']) && !empty($_POST['contact
     $mail->Port = 587;
 
     $mail->setFrom($_POST['email']);
-    //$mail->addAddress('smitd@intellidt.com');
-    $mail->addAddress('inquiry@fullcarehs.com');
+    $mail->addAddress('tonyh@intellidt.com');
+    //$mail->addAddress('inquiry@fullcarehs.com');
 
     $mail->Subject = 'FCHS Contact Form';
     $mail->isHTML(TRUE);
@@ -34,20 +34,20 @@ if (!empty($_POST['name'])  && !empty($_POST['email']) && !empty($_POST['contact
         echo 'Message could not be sent.';
         echo 'Mailer Error: ' . $mail->ErrorInfo;
 
-        echo '<script>alert("Message could not be sent. Mailer Error:  . "' . $mail->ErrorInfo . '")</script>';
+        //echo '<script>alert("Message could not be sent. Mailer Error:  . "' . $mail->ErrorInfo . '")</script>';
     } else {
         // header("Location: contact.php");
         // echo '<script>alert("Message has been sent")</script>';
         echo '<script>
             alert("Message has been sent");
-            window.location.href = "contact.php";
+            window.location.href = "' . $_SERVER['HTTP_REFERER'] . '";
         </script>';
     }
 } else {
     // header("Location: contact.php");
     // echo '<script>alert("Message has been sent")</script>';
     echo '<script>
-        alert("Message has been sent");
+        alert("Error");
         window.location.href = "contact.php";
     </script>';
 }
