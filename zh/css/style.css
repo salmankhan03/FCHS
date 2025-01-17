@@ -1,0 +1,25 @@
+@media (max-width: 694px) {
+    .responsive-br-1 {
+        display: none;
+    }
+}
+
+@media (max-width: 888px) {
+    .responsive-br-2 {
+        display: none;
+    }
+}
+
+.text1 {
+    font-weight: 400 !important;
+}
+
+.text3 {
+    font-weight: 400 !important;
+    font-size: 16px !important;
+}
+
+.text3bg {
+    font-weight: 400 !important;
+    font-size: 16px;
+}

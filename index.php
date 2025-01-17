@@ -518,7 +518,7 @@
                            <div class="elementor-widget-wrap elementor-element-populated" style="background:transparent;">
                                 <div class="elementor-element elementor-element-3e0093b elementor-widget elementor-widget-image" data-id="3e0093b" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
-                                        <img width="716" height="600" src="img/Home/img_process.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_career.jpg 716w, img/Home/img_career.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" style="padding-left:50px;" /> 
+                                        <img width="716" height="600" src="img/Home/img_process.jpg" class="attachment-large size-large pl-md-5" alt="" loading="lazy" srcset="img/Home/img_career.jpg 716w, img/Home/img_career.jpg 300w" sizes="(max-width: 716px) 100vw, 716px"/> 
                                     </div>
                                 </div>
                            </div>

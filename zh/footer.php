@@ -14,6 +14,8 @@
 <!-- <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet"> -->
 <link href="lib/responsive.css" rel="stylesheet">
 
+<link href="zh/css/style.css" rel="stylesheet">
+
 <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
 <link rel="icon" href="img/favicon.png" type="image/x-icon">
 
@@ -71,7 +73,7 @@
 							<!--Footer Column-->
                             <div class="footer-column col-lg-12 col-md-12 col-sm-12">
                                 <div class="footer-widget contact-widget">
-                                	<h2>地點</h2>
+                                	<h2>地址</h2>
 									<div class="widget-content" style="margin-top:12px;">
 										<a href="" class="contact-number " style="font-size:16px; color:#fff">#200 - 3071 No. 5 Road <br/>Richmond, BC, V6X 2T4</a>
 									</div>

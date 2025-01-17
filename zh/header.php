@@ -22,6 +22,8 @@
     <!-- <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet"> -->
     <link href="lib/responsive.css" rel="stylesheet">
 
+    <link href="zh/css/style.css" rel="stylesheet">
+
     <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
     <link rel="icon" href="img/favicon.png" type="image/x-icon">
 
@@ -67,22 +69,22 @@
                                     </div>
                                     <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                         <ul class="navigation clearfix">
-                                            <li class=""><a id="index" href="zh/index.php">家</a>
+                                            <li class=""><a id="index" href="zh/index.php">主頁</a>
                                             </li>
                                             <li class="dropdown"><a id="service" href="zh/Companion_Care.php">服務</a>
                                                 <ul>
-                                                    <li><a href="zh/Companion_Care.php">Companion Care</a></li>
-                                                    <li><a href="zh/Personal_Care.php">Personal Care</a></li>
-                                                    <li><a href="zh/Nursing_Care.php">Nursing Care</a></li>
-                                                    <li><a href="zh/Specialty_Care.php">Specialty Care</a></li>
-                                                    <li><a href="zh/Beauty_Care.php">Beauty Care</a></li>
+                                                    <li><a href="zh/Companion_Care.php">陪伴服務</a></li>
+                                                    <li><a href="zh/Personal_Care.php">個人護理</a></li>
+                                                    <li><a href="zh/Nursing_Care.php">醫療護理</a></li>
+                                                    <li><a href="zh/Specialty_Care.php">特殊護理</a></li>
+                                                    <li><a href="zh/Beauty_Care.php">美容護理</a></li>
                                                 </ul>
                                             </li>
                                             <li class=""><a id="about" href="zh/About.php">關於我們</a>
                                             </li>
-                                            <li class=""><a id="career" href="zh/Career.php">職業</a>
+                                            <li class=""><a id="career" href="Career.php">職業</a>
                                             </li>
-                                            <li class=""><a id="contact" href="zh/Contact.php">接觸</a>
+                                            <li class=""><a id="contact" href="zh/Contact.php">聯繫</a>
                                             </li>
                                         </ul>
                                         <div class="lang-nav">

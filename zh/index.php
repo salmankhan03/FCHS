@@ -16,6 +16,8 @@
     <link href="lib/responsive.css" rel="stylesheet">
     <!-- <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet"> -->
 
+    <link href="zh/css/style.css" rel="stylesheet">
+
     <!-- <link href="https://fonts.google.com/specimen/Poppins?query=poppin" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -88,7 +90,7 @@
                                 data-y="['middle','middle','middle','middle']"
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                                <h2 class="h1" style="color:white !important;">個人化護理選項</h2>
+                                <h2 class="h1" style="color:white !important;">全面個性化看護方案</h2>
                             </div>
 
                             <div class="tp-caption"
@@ -107,8 +109,7 @@
                                 data-y="['middle','middle','middle','middle']"
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                                <div class="text text1" style="color:white !important;">按照自己的喜好擁抱生活
-                                </div>
+                                <div class="text text1" style="color:white !important;">依照您的需求幫助您享受生活</div>
                             </div>
 
 
@@ -133,7 +134,7 @@
                                 data-y="['middle','middle','middle','middle']"
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                                <h2 class="h1" style="color:white !important;">值得信賴的優質護理<br>和護理</h2>
+                                <h2 class="h1" style="color:white !important;">信心保證的專業護理服務</h2>
                             </div>
 
                             <div class="tp-caption"
@@ -152,10 +153,8 @@
                                 data-y="['middle','middle','middle','middle']"
                                 data-textalign="['top','top','top','top']"
                                 data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                                <div class="text text1" style="color:white !important;">提供富有同情心和可靠的卓越醫療保健</div>
+                                <div class="text text1" style="color:white !important;">誠然、同理心、尊重每位客人的意願</div>
                             </div>
-
-
                         </li>
                     </ul>
                 </div>
@@ -168,9 +167,9 @@
             <div class="auto-container">
                 <!-- Title Box -->
                 <div class="title-box">
-                    <h2 class="h3 mb-1">訓練有素、富有同情心的護理，支持您的健康</h2>
-                    <div class="bold-text text2 mt-4 pt-3 pb-1" style="font-size: 21px !important">在 Full Care Health Services，我們致力於支持我們的老年人。我們的護理團隊致力於所有老年人的健康和福祉。</div>
-                    <div class="text text3 p-4" style="color: var(--grey) !important">我們相信所有老年人都應該受到尊重、同情和關注，因為能夠接受他們的照顧確實是一種榮幸。從陪伴護理到特殊護理，我們的計劃經過精心設計，以滿足您的需求並為您的生活提供支持。</div>
+                    <h2 class="h3 mb-1">悉心呵護您與摯愛的健康</h2>
+                    <div class="bold-text text2 mt-4 pt-3 pb-1" style="font-size: 21px !important">Full Care Health Services致力於長者提供一站式全面健康照護服務。<span class="responsive-br-1"><br></span>我們的專業護理團隊能幫助您或您的摯愛繼續享受豐盛人生。</div>
+                    <div class="text text3 p-4" style="color: var(--grey) !important">我們相信，每位長者都應該受到尊重與重視，讓您能安心又放心接受我們的協助。我們會根據您或摯愛的需求，<span class="responsive-br-2"><br></span>提供個人化的護理服務計劃：從陪伴照顧到專業個人護理，所有服務均以迎合您的需要，支持您的健康。</div>
                 </div>
 
             </div>
@@ -184,10 +183,10 @@
                 <!--Content Column-->
                 <div class="content-column">
                     <div class="image-layer" style="background-color: #502d87"></div>
-                    <div class="content-box">
-                        <h2 class="h2bg">Mission </h2>
-                        <div class="text text2bg mb-4 mt-4" style="line-height: 1.4; font-size: 22px !important; font-family: 'Lora', serif !important;">To support seniors in our community through professional and compassionate services</div>
-                        <div class="text3bg  pb-4">We believe in fostering independence, dignity, and a sense of belonging among the elderly by providing a nurturing environment and building strong connections. Our commitment is to celebrate and uplift the lives of our beloved seniors, ensuring they age with grace, fulfillment, and the utmost respect. </div>
+                    <div class="content-box py-4">
+                        <h2 class="h2bg">我們的使命 </h2>
+                        <div class="text text2bg mb-4 mt-4" style="line-height: 1.4; font-size: 22px !important; font-family: 'Lora', serif !important;">以專業、關懷的服務態度豐富長者的生活</div>
+                        <div class="text3bg  pb-4">我們透過營造一個關懷的環境，建立堅固互信的聯繫，促進並維護長者的獨立自主性、尊嚴與歸屬感。我們的願景是提升長者們的生活質量，確保他們以優雅、充實和尊重的方式安享銀髮時光。</div>
                     </div>
                 </div>
 
@@ -217,7 +216,7 @@
 
                                         <div class="elementor-element elementor-element-e142df9 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="e142df9" data-element_type="widget" data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
-                                                <h2 class="elementor-heading-title elementor-size-default h2" style="font-size: 40px !important ">How We Can Help</h2>
+                                                <h2 class="elementor-heading-title elementor-size-default h2" style="font-size: 40px !important ">個人化服務以您為主</h2>
                                             </div>
                                         </div>
                                     </div>
@@ -231,24 +230,24 @@
                                     <div class="elementor-tabs" role="tablist">
                                         <div class="elementor-tabs-wrapper">
                                             <div id="elementor-tab-title-1591" class="elementor-tab-title elementor-tab-desktop-title elementor-active elementor-repeater-item-02a7bc9" data-tab="1" role="tab" aria-controls="elementor-tab-content-1591">
-                                                <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Companion Care</span>
+                                                <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">陪伴服務</span>
                                             </div>
                                             <div id="elementor-tab-title-1592" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-e99301d" data-tab="2" role="tab" aria-controls="elementor-tab-content-1592">
-                                                <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Personal Care</span>
+                                                <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">個人護理</span>
                                             </div>
                                             <div id="elementor-tab-title-1593" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-e7216ce" data-tab="3" role="tab" aria-controls="elementor-tab-content-1593">
-                                                <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Nursing Care</span>
+                                                <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">醫療護理</span>
                                             </div>
                                             <div id="elementor-tab-title-1594" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
-                                                <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Specialty Care</span>
+                                                <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">特殊護理</span>
                                             </div>
                                             <div id="elementor-tab-title-1595" class="elementor-tab-title elementor-tab-desktop-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1595" style="background-color: #f7d5d5 !important">
-                                                <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">Beauty Care</span>
+                                                <span class="title text3bg" style="letter-spacing: 1px; font-weight: bold !important;">美容護理</span>
                                             </div>
                                         </div>
                                         <div class="elementor-tabs-content-wrapper">
                                             <div class="elementor-tab-title elementor-tab-mobile-title elementor-active elementor-repeater-item-02a7bc9" data-tab="1" role="tab" aria-controls="elementor-tab-content-1591">
-                                                <a href="#" class="title">Companion Care</a>
+                                                <a href="#" class="title">陪伴服務</a>
                                             </div>
                                             <div id="elementor-tab-content-1591" class="elementor-tab-content elementor-clearfix elementor-active elementor-repeater-item-02a7bc9" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1591">
                                                 <div data-elementor-type="section" data-elementor-id="1386" class="elementor elementor-1386">
@@ -270,17 +269,17 @@
                                                                 <div class="elementor-widget-wrap elementor-element-populated">
                                                                     <div class="elementor-element elementor-element-97cca35 elementor-widget elementor-widget-heading" data-id="97cca35" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">Companion Care</h4>
+                                                                            <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">陪伴服務</h4>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">Dedicated care to help you live independently and maintain your quality of life</h2>
+                                                                            <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">專注的護理助您保持獨立的同時維持生活品質</h2>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container text3">
-                                                                            <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4">Looking for a friend that will walk alongside you and enhance your quality of life? Our professional non-medical caregivers will support seniors emotionally and physically, providing a sense of safety and happiness.
+                                                                            <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4">需要一個陪伴您，並協助升生活品質的朋友嗎？我們的專業非醫療照顧者將提供身體和心靈的支持，讓您陪伴歡樂，放心。
                                                                             </span>
                                                                         </div>
                                                                     </div>
@@ -291,7 +290,7 @@
                                                 </div>
                                             </div>
                                             <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-e99301d" data-tab="2" role="tab" aria-controls="elementor-tab-content-1592">
-                                                <a href="#" class="title">Personal Care </a>
+                                                <a href="#" class="title">個人護理</a>
                                             </div>
                                             <div id="elementor-tab-content-1592" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-e99301d" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1592">
                                                 <div data-elementor-type="section" data-elementor-id="1517" class="elementor elementor-1517">
@@ -311,18 +310,18 @@
                                                                 <div class="elementor-widget-wrap elementor-element-populated">
                                                                     <div class="elementor-element elementor-element-b2080be elementor-widget elementor-widget-heading" data-id="b2080be" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">Personal Care </h4>
+                                                                            <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">個人護理</h4>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">Daily personal living tasks and private hygiene provided by a professional and fully trained caregiver</h2>
+                                                                            <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">由專業訓練的看護員提供日常生活和個人衛生護理服務</h2>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container text3">
                                                                             <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4">
-                                                                                Age inside of the comforts of your own home. Our personal care services are structured to assist you with everyday tasks while you embark on your journey to an active and independent lifestyle.
+                                                                            在家也能舒適地享受銀髮生活。我們的個人護理服務旨在協助您完成日常雜項，讓您維持積極與獨立的生活模式。
                                                                             </span>
                                                                         </div>
                                                                     </div>
@@ -333,7 +332,7 @@
                                                 </div>
                                             </div>
                                             <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-e7216ce" data-tab="3" role="tab" aria-controls="elementor-tab-content-1593">
-                                                <a href="#" class="title">Nursing Care </a>
+                                                <a href="#" class="title">醫療護理</a>
                                             </div>
                                             <div id="elementor-tab-content-1593" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-e7216ce" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1593">
                                                 <div data-elementor-type="section" data-elementor-id="1805" class="elementor elementor-1805">
@@ -353,17 +352,17 @@
                                                                 <div class="elementor-widget-wrap elementor-element-populated">
                                                                     <div class="elementor-element elementor-element-dea8eb9 elementor-widget elementor-widget-heading" data-id="dea8eb9" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">Nursing Care </h4>
+                                                                            <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">醫療護理 </h4>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">Receive premium-level care that ensures your medical needs are looked after</h2>
+                                                                            <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">滿足您的個人醫療需求</h2>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container text3">
-                                                                            <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4;">At Fully Care Health Services, our nursing care is specially designed to meet your unique personal needs. Each plan is carefully mapped out according to the needs of each senior, guaranteeing consistent ample care for you or your loved ones.
+                                                                            <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4;">在 Full Care Health Services，我們的個人化護理服務可滿足您的個人需求。每個計劃都根據每位長者的需求量身製定，保證您或摯愛獲得高水準和充分的幫助。
                                                                             </span>
                                                                         </div>
                                                                     </div>
@@ -374,7 +373,7 @@
                                                 </div>
                                             </div>
                                             <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
-                                                <a href="#" class="title">Specialty Care </a>
+                                                <a href="#" class="title">特殊護理</a>
                                             </div>
                                             <div id="elementor-tab-content-1594" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-00e6965" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1594">
                                                 <div data-elementor-type="section" data-elementor-id="1840" class="elementor elementor-1840">
@@ -395,17 +394,17 @@
                                                                 <div class="elementor-widget-wrap elementor-element-populated">
                                                                     <div class="elementor-element elementor-element-24fde84 elementor-widget elementor-widget-heading" data-id="24fde84" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">Specialty Care</h4>
+                                                                            <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">特殊護理</h4>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">Flexibility and specialized care by professional caregivers will provide you with the peace of mind and relief necessary to fulfill an individual’s unique needs</h2>
+                                                                            <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">專業護理員提供靈活及專業的個人訂製特殊服務</h2>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container text3">
-                                                                            <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4">Some specific medical conditions require specialized support and services. Our specialty care plan is designed to help address your medical conditions while ensuring the best possible quality of life and independence.
+                                                                            <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4">有些特定的醫療狀況需要專業的幫助和服務？我們的專業護理計劃旨在幫助解決您的醫療需求，並保障最佳的生活品質和自主性。
                                                                             </span>
                                                                         </div>
                                                                     </div>
@@ -416,7 +415,7 @@
                                                 </div>
                                             </div>
                                             <div class="elementor-tab-title elementor-tab-mobile-title  elementor-repeater-item-00e6965" data-tab="4" role="tab" aria-controls="elementor-tab-content-1594">
-                                                <a href="#" class="title">Specialty Care </a>
+                                                <a href="#" class="title">美容護理</a>
                                             </div>
                                             <div id="elementor-tab-content-1595" class="elementor-tab-content elementor-clearfix  elementor-repeater-item-00e6965" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1595">
                                                 <div data-elementor-type="section" data-elementor-id="1840" class="elementor elementor-1840">
@@ -435,17 +434,17 @@
                                                                 <div class="elementor-widget-wrap elementor-element-populated">
                                                                     <div class="elementor-element elementor-element-24fde84 elementor-widget elementor-widget-heading" data-id="24fde84" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">Beauty Care</h4>
+                                                                            <h4 class="elementor-heading-title elementor-size-default h3" style="font-size: 36px !important">美容護理</h4>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">Experience total bliss and rejuvenation through our spa care services</h2>
+                                                                            <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">體驗不一樣的美容護理，幫助您完全容光煥發</h2>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container text3">
-                                                                            <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4">We understand self-care is important, our spa care offers a variety of different services carefully orchestrated to have you feeling rejuvenated after your visit. From hair care to body massages, facial care, and nail care, our skillfully trained professionals are committed to making you or your loved one’s experience unforgettable.
+                                                                            <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4">從頭髮護理到身體按摩、臉部美容及修甲服務，我們技術嫻熟的專業員致力於讓您或您摯愛享受令人一試難忘的體驗。
                                                                             </span>
                                                                         </div>
                                                                     </div>
@@ -478,13 +477,13 @@
 
                                         <div class="elementor-element elementor-element-76e1349 elementor-widget elementor-widget-heading" data-id="76e1349" data-element_type="widget" data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
-                                                <h2 class="elementor-heading-title elementor-size-default h2 mb-4" style="font-size: 40px">Our Process
+                                                <h2 class="elementor-heading-title elementor-size-default h2 mb-4" style="font-size: 40px">服務計劃流程
                                                 </h2>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-989410b elementor-widget elementor-widget-text-editor" data-id="989410b" data-element_type="widget" data-widget_type="text-editor.default">
                                             <div class="elementor-widget-container text3">
-                                                We develop comprehensive care plans based on individual requirements, in consultation with the senior and/or family. This assessment process ensures our caregivers are matched to our clients, fostering strong connections, and engaging our seniors to enjoy life to the fullest. <br><br>
+                                            我們將根據您的個人需求，制定全面的護理計劃，並與長者及其家屬進行協商。這個過程確保我們能更專業地匹配我們的服務生迎合您的所需，保持緊密的聯繫，更能激發您充分享受生活的動力。<br><br>
                                             </div>
                                         </div>
                                     </div>
@@ -498,18 +497,18 @@
 
                                         <div class="elementor-element elementor-element-564c877 elementor-widget elementor-widget-heading" data-id="564c877" data-element_type="widget" data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
-                                                <h2 class="elementor-heading-title elementor-size-default h2 mb-4" style="font-size: 40px">Career</h2>
+                                                <h2 class="elementor-heading-title elementor-size-default h2 mb-4" style="font-size: 40px">加入我們</h2>
                                             </div>
                                         </div>
 
                                         <div class="elementor-element elementor-element-331aaf7 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="331aaf7" data-element_type="widget" data-widget_type="text-editor.default">
                                             <div class="elementor-widget-container text3">
-                                                Are you passionate in helping others? Join us and embark on a rewarding career that makes a meaningful difference in the lives of seniors. As a dedicated and compassionate caregiver, you will have the opportunity to listen to our clients and their families, fulfilling their unique needs and requests. </div>
+                                            您熱衷於幫助別人嗎？加入我們，開始一份有意義的職業生涯，為長者們的生活帶來更有意義的改變。作為一名敬業且富有同情心的護理員，您將要細心聆聽我們的客戶及其家人的意見，並滿足他們的獨特需求。</div>
                                         </div>
 
                                         <a href="zh/Career.php" class="elementor-button-link elementor-button elementor-size-sm mt-4" role="button">
                                             <span class="elementor-button-content-wrapper">
-                                                <span class="elementor-button-text">Apply now</span>
+                                                <span class="elementor-button-text">立即申請</span>
                                             </span>
                                         </a>
 
@@ -519,7 +518,7 @@
                                     <div class="elementor-widget-wrap elementor-element-populated" style="background:transparent;">
                                         <div class="elementor-element elementor-element-3e0093b elementor-widget elementor-widget-image" data-id="3e0093b" data-element_type="widget" data-widget_type="image.default">
                                             <div class="elementor-widget-container">
-                                                <img width="716" height="600" src="img/Home/img_process.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="img/Home/img_career.jpg 716w, img/Home/img_career.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" style="padding-left:50px;" />
+                                                <img width="716" height="600" src="img/Home/img_process.jpg" class="attachment-large size-large pl-md-5" alt="" loading="lazy" srcset="img/Home/img_career.jpg 716w, img/Home/img_career.jpg 300w" sizes="(max-width: 716px) 100vw, 716px"/>
                                             </div>
                                         </div>
                                     </div>
