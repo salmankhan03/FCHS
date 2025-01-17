@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FCHS - Beauty Care</title>
+    <title>FCHS - 美容護理</title>
     <!-- Stylesheets -->
 
     <link rel="stylesheet" href="lib/bootstrap.css">
@@ -47,8 +47,8 @@
                     <!-- Title Column -->
                     <div class="content-column col-lg-4 col-md-5 col-sm-12">
                         <div class="">
-                            <h5 class="text3" style="letter-spacing: 2px !important;">OUR SERVICES</h5>
-                            <h2>Beauty Care</h2>
+                            <h5 class="text3" style="letter-spacing: 2px !important;">我們的服務</h5>
+                            <h2>美容護理</h2>
                         </div>
                     </div>
 
@@ -88,7 +88,7 @@
                 <div class="sec-title style-two">
                     <div class="clearfix  pt-4 pb-4">
                         <div style="text-align: center">
-                            <h2 class="h2 pt-5">Explore Our Services</h2>
+                            <h2 class="h2 pt-5">了解更多我們的服務</h2>
                         </div>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
                                 <a href="zh/Companion_Care.php"><img src="img/Services/img_companion.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="zh/Companion_Care.php">Companion Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="zh/Companion_Care.php">陪伴服務</a></h5>
                             </div>
                         </div>
                     </div>
@@ -114,7 +114,7 @@
                                 <a href="zh/Personal_Care.php"><img src="img/Services/img_personal.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="zh/Personal_Care.php">Personal Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="zh/Personal_Care.php">個人護理</a></h5>
                             </div>
                         </div>
                     </div>
@@ -126,7 +126,7 @@
                                 <a href="zh/Nursing_Care.php"><img src="img/Services/img_nursing.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="zh/Nursing_Care.php">Nursing Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="zh/Nursing_Care.php">醫療護理</a></h5>
                             </div>
                         </div>
                     </div>
@@ -138,7 +138,7 @@
                                 <a href="zh/Specialty_Care.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="zh/Specialty_Care.php">Specialty Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="zh/Specialty_Care.php">特殊護理</a></h5>
                             </div>
                         </div>
                     </div>

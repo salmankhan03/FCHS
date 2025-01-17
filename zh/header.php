@@ -71,7 +71,7 @@
                                         <ul class="navigation clearfix">
                                             <li class=""><a id="index" href="zh/index.php">主頁</a>
                                             </li>
-                                            <li class="dropdown"><a id="service" href="zh/Companion_Care.php">服務</a>
+                                            <li class="dropdown"><a id="service" href="zh/Companion_Care.php">我們的服務</a>
                                                 <ul>
                                                     <li><a href="zh/Companion_Care.php">陪伴服務</a></li>
                                                     <li><a href="zh/Personal_Care.php">個人護理</a></li>

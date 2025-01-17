@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FCHS - Nursing Care</title>
+    <title>FCHS - 醫療護理</title>
     <!-- Stylesheets -->
 
     <link rel="stylesheet" href="lib/bootstrap.css">
@@ -33,7 +33,7 @@
         <section class="page-title" style="background-image:url(img/Services/banner_nursing_care.jpg)">
             <div Style="height: 170px"></div>
 			<div Style="height: 50px">
-			   <h3 class="h2bg"> Nursing services designed for you</h3>
+			   <h3 class="h2bg">為您量身定制的護理服務</h3>
 			</div>
 			<div Style="height: 100px"></div>
         </section>
@@ -47,8 +47,8 @@
                     <!-- Title Column -->
                     <div class="content-column col-lg-4 col-md-5 col-sm-12">
                         <div class="">
-                            <h5 class="text3" style="letter-spacing: 2px !important;">OUR SERVICES</h5>
-                            <h2>Nursing Care </h2>
+                            <h5 class="text3" style="letter-spacing: 2px !important;">我們的服務</h5>
+                            <h2>醫療護理</h2>
                         </div>
                     </div>
 
@@ -56,12 +56,7 @@
                     <div class="content-column col-lg-8 col-md-7 col-sm-12">
                         <div class="inner-column">
                             <ul class="mission-list">
-                                <li class="text3">In some circumstances, seniors may require round the clock care or more extensive support
-                                    with daily routines. Being able to receive consistent skilled nursing care and one-one-one
-                                    medical support is the best option for an improved quality of life. With a tailored care plan and
-                                    continuity of compassionate care in a familiar and comfortable environment, you can be
-                                    assured that our skilled and trained qualified healthcare professionals are delivering the best
-                                    medical attention, practical care, and physical care to your loved one.
+                                <li class="text3">在某些情況下，老年人可能需要全天候護理或更多的日常生活支持。能夠獲得持續的專業護理和一對一的醫療支持是提高生活質量的最佳選擇。通過量身定制的護理計劃，以及在熟悉和舒適環境中的關愛護理，您可以確保我們技術嫻熟、經過培訓的醫療專業人員為您的所愛之人提供最佳的醫療關注、實用護理和身體護理。
                                 </li>
                             </ul>
                         </div>
@@ -80,7 +75,7 @@
                 <div class="sec-title style-two">
                     <div class="clearfix  pt-4 pb-4">
                         <div style="text-align: center">
-                            <h2 class="h2 pt-5">Explore Our Services</h2>
+                            <h2 class="h2 pt-5">了解更多我們的服務</h2>
                         </div>
                     </div>
                 </div>
@@ -95,7 +90,7 @@
                                 <a href="zh/Companion_Care.php"><img src="img/Services/img_companion.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="zh/Companion_Care.php">Companion Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="zh/Companion_Care.php">陪伴服務</a></h5>
                             </div>
                         </div>
                     </div>
@@ -107,7 +102,7 @@
                                 <a href="zh/Personal_Care.php"><img src="img/Services/img_personal.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="zh/Personal_Care.php">Personal Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="zh/Personal_Care.php">個人護理</a></h5>
                             </div>
                         </div>
                     </div>
@@ -119,7 +114,7 @@
                                 <a href="zh/Specialty_Care.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="zh/Specialty_Care.php">Specialty Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="zh/Specialty_Care.php">特殊護理</a></h5>
                             </div>
                         </div>
                     </div>
@@ -130,7 +125,7 @@
 								<a href="zh/Beauty_Care.php"><img src="img/Services/img_spa.jpg" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h5 style="text-align: center"><a class="h4" href="zh/Beauty_Care.php">Beauty Care</a></h5>
+								<h5 style="text-align: center"><a class="h4" href="zh/Beauty_Care.php">美容護理</a></h5>
 							</div>
 						</div>
 					</div>

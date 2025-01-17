@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>FCHS - Companion Care</title>
+	<title>FCHS - 陪伴服務</title>
 	<base href="https://192.168.0.47/FCHS/">
 	<!-- Stylesheets -->
 
@@ -34,7 +34,7 @@
 		<section class="page-title" style="background-image:url(img/Services/banner_companion_care.jpg)">
 			<div Style="height: 170px"></div>
 			<div Style="height: 50px">
-			   <h3 class="h2bg"> We will journey with you</h3>
+			   <h3 class="h2bg">我們將一路相伴</h3>
 			</div>
 			<div Style="height: 100px"></div>
 		</section>
@@ -48,8 +48,8 @@
 					<!-- Title Column -->
 					<div class="content-column col-lg-4 col-md-5 col-sm-12">
 						<div class="">
-							<h5 class="text3" style="letter-spacing: 2px !important;">OUR SERVICES</h5>
-							<h2>Companion Care </h2>
+							<h5 class="text3" style="letter-spacing: 2px !important;">我們的服務</h5>
+							<h2>陪伴服務</h2>
 						</div>
 					</div>
 
@@ -58,11 +58,11 @@
 						<div class="inner-column">
 							<ul class="mission-list">
 								<li class="text3">
-									Sometimes care and support is needed not only at times of a complex medical need but also when you want to live a life that you want, doing things that you Love, freely at your own pace. 
+									有時，不僅在面臨複雜的醫療需求時需要護理和支持，當您想按照自己的節奏自由地過自己想要的生活時，也需要這種支持。
 								</li>
 								<br/>
 								<li class="text3">
-									Our professional non-medical caregivers provide emotional and physical assistance for seniors to give them confidence to feel safe and content while maintaining and active lifestyle.
+									我們的專業非醫療看護者為老年人提供情感和身體上的幫助，讓他們能夠自信地保持安全和滿足，並維持積極的生活方式。
 								</li>
 							</ul>
 						</div>
@@ -81,7 +81,7 @@
 				<div class="sec-title style-two">
 					<div class="clearfix pt-4 pb-4">
 						<div style="text-align: center ">
-							<h2 class="h2 pt-5">Explore Our Services</h2>
+							<h2 class="h2 pt-5">了解更多我們的服務</h2>
 						</div>
 					</div>
 				</div>
@@ -96,7 +96,7 @@
 								<a href="zh/Personal_Care.php"><img src="img/Services/img_personal.jpg" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h5 style="text-align: center"><a class="h4" href="zh/Personal_Care.php">Personal Care</a></h5>
+								<h5 style="text-align: center"><a class="h4" href="zh/Personal_Care.php">個人護理</a></h5>
 							</div>
 						</div>
 					</div>
@@ -108,7 +108,7 @@
 								<a href="zh/Nursing_Care.php"><img src="img/Services/img_nursing.jpg" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h5 style="text-align: center"><a class="h4" href="zh/Nursing_Care.php">Nursing Care</a></h5>
+								<h5 style="text-align: center"><a class="h4" href="zh/Nursing_Care.php">醫療護理</a></h5>
 							</div>
 						</div>
 					</div>
@@ -120,7 +120,7 @@
 								<a href="zh/Specialty_Care.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h5 style="text-align: center"><a class="h4" href="zh/Specialty_Care.php">Specialty Care</a></h5>
+								<h5 style="text-align: center"><a class="h4" href="zh/Specialty_Care.php">特殊護理</a></h5>
 							</div>
 						</div>
 					</div>
@@ -131,7 +131,7 @@
 								<a href="zh/Beauty_Care.php"><img src="img/Services/img_spa.jpg" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h5 style="text-align: center"><a class="h4" href="zh/Beauty_Care.php">Beauty Care</a></h5>
+								<h5 style="text-align: center"><a class="h4" href="zh/Beauty_Care.php">美容護理</a></h5>
 							</div>
 						</div>
 					</div>

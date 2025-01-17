@@ -42,7 +42,7 @@
                             <div class="footer-column col-lg-12 col-md-12 col-sm-12">
                                 <div class="footer-widget logo-widget">
 									<div class="logo">
-                                    	<a href="index.php"><img src="img/logo_white.svg" alt="" width="300"/></a>
+                                    	<a href="zh/index.php"><img src="img/logo_white.svg" alt="" width="300"/></a>
                                     </div>
 								</div>
 							</div>

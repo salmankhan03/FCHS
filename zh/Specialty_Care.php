@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FCHS - Specialty Care</title>
+    <title>FCHS - 特殊護理</title>
     <!-- Stylesheets -->
 
     <link rel="stylesheet" href="lib/bootstrap.css">
@@ -33,7 +33,7 @@
         <section class="page-title" style="background-image:url(img/Services/banner_specialty_care.jpg)">
               <div Style="height: 170px"></div>
 			<div Style="height: 50px">
-			   <h3 class="h2bg">Special services just for you</h3>
+			   <h3 class="h2bg">為您量身打造的特別服務</h3>
 			</div>
 			<div Style="height: 100px"></div>
         </section>
@@ -47,8 +47,8 @@
                     <!-- Title Column -->
                     <div class="content-column col-lg-4 col-md-5 col-sm-12">
                         <div class="">
-                            <h5 class="text3" style="letter-spacing: 2px !important;">OUR SERVICES</h5>
-                            <h2>Specialty Care </h2>
+                            <h5 class="text3" style="letter-spacing: 2px !important;">我們的服務</h5>
+                            <h2>特殊護理</h2>
                         </div>
                     </div>
 
@@ -56,16 +56,9 @@
                     <div class="content-column col-lg-8 col-md-7 col-sm-12">
                         <div class="inner-column">
                             <ul class="mission-list">
-                                <li class="text3">Seniors face an unfortunate reality that as they age, they will experience a wide variety of
-                                    health issues and medical conditions. The personalized approach that customizes care to meet
-                                    specific wants or needs will enable your loved one to keep up with their activities while still
-                                    feeling safe, confident and comfortable. Specialized registered nurses provide essential
-                                    healthcare services at a higher level of quality care which will give family members peace of
-                                    mind.</li>
+                                <li class="text3">隨著年齡的增長，老年人面臨各種健康問題和醫療狀況的不幸現實。個性化的方法將定制護理以滿足特定的需求或希望，使您的所愛之人能夠繼續參加他們的活動，同時感到安全、自信和舒適。</li>
                                     <br/>
-                                <li class="text3">No matter what your specialized needs are, we will offer you the best support from our medical
-                                    professionals who are knowledgeable, experienced and specially trained in helping with a
-                                    multitude of specific conditions.</li>
+                                <li class="text3">我們經驗豐富的專業註冊護士提供高質量的基本醫療服務，讓家人感到安心。無論您的專業需求是什麼，我們都將為您提供最好的支持，由知識淵博、經驗豐富並專門接受過幫助多種特定情況訓練的醫療專業人員提供。</li>
                             </ul>
                         </div>
                     </div>

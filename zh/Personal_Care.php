@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FCHS - Personal Care</title>
+    <title>FCHS - 個人護理</title>
     <!-- Stylesheets -->
     <link rel="stylesheet" href="lib/bootstrap.css">
     <!-- <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"> -->
@@ -32,7 +32,7 @@
         <section class="page-title" style="background-image:url(img/Services/banner_personal_care.jpg)">
    	        <div Style="height: 170px"></div>
 			<div Style="height: 50px">
-			   <h3 class="h2bg"> Leave the everyday tasks to us</h3>
+			   <h3 class="h2bg">日常任務交給我們</h3>
 			</div>
 			<div Style="height: 100px"></div>
         </section>
@@ -46,8 +46,8 @@
                     <!-- Title Column -->
                     <div class="content-column col-lg-4 col-md-5 col-sm-12">
                         <div class="">
-                            <h5 class="text3" style="letter-spacing: 2px !important;">OUR SERVICES</h5>
-                            <h2>Personal Care </h2>
+                            <h5 class="text3" style="letter-spacing: 2px !important;">我們的服務</h5>
+                            <h2>個人護理</h2>
                         </div>
                     </div>
 
@@ -55,13 +55,7 @@
                     <div class="content-column col-lg-8 col-md-7 col-sm-12">
                         <div class="inner-column">
                             <ul class="mission-list">
-                                <li class="text3">If your loved one worries about losing their independence or struggles with routine everyday
-                                    tasks, then a one-to-one fully-trained personal caregiver will be able to support and assist with
-                                    daily personal tasks and maintain hygiene. Personal care may include bathing and showering,
-                                    toileting, oral hygiene, foot care, dressing, and applying lotions and creams. Having help with
-                                    these routine tasks makes it possible for seniors to age in place in the comforts of their home
-                                    while maintaining their independence. Contact us today so that we can help develop a
-                                    customized care plan based on your loved one’s situation.</li>
+                                <li class="text3">如果您所愛的人擔心失去獨立性或在日常任務中掙扎，那麼一位經過全面訓練的個人看護者將能夠支持和協助完成日常個人任務，並保持衛生。個人護理可能包括洗澡和淋浴、如廁、口腔衛生、足部護理、穿衣以及塗抹乳液和護膚霜。這些日常任務的幫助使老年人能夠在家中的舒適環境中度過晚年，同時保持獨立性。今天就與我們聯繫，讓我們根據您所愛之人的情況幫助制定個性化的護理計劃。</li>
                             </ul>
                         </div>
                     </div>
@@ -79,7 +73,7 @@
                 <div class="sec-title style-two">
                     <div class="clearfix  pt-4 pb-4">
                         <div style="text-align: center">
-                            <h2 class="h2 pt-5">Explore Our Services</h2>
+                            <h2 class="h2 pt-5">了解更多我們的服務</h2>
                         </div>
                     </div>
                 </div>
@@ -94,7 +88,7 @@
                                 <a href="zh/Companion_Care.php"><img src="img/Services/img_companion.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="zh/Companion_Care.php">Companion Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="zh/Companion_Care.php">陪伴服務</a></h5>
                             </div>
                         </div>
                     </div>
@@ -106,7 +100,7 @@
                                 <a href="zh/Nursing_Care.php"><img src="img/Services/img_nursing.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="zh/Nursing_Care.php">Nursing Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="zh/Nursing_Care.php">醫療護理</a></h5>
                             </div>
                         </div>
                     </div>
@@ -118,7 +112,7 @@
                                 <a href="zh/Specialty_Care.php"><img src="img/Services/img_specialty.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="zh/Specialty_Care.php">Specialty Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="zh/Specialty_Care.php">特殊護理</a></h5>
                             </div>
                         </div>
                     </div>
@@ -129,7 +123,7 @@
 								<a href="zh/Beauty_Care.php"><img src="img/Services/img_spa.jpg" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h5 style="text-align: center"><a class="h4" href="zh/Beauty_Care.php">Beauty Care</a></h5>
+								<h5 style="text-align: center"><a class="h4" href="zh/Beauty_Care.php">美容護理</a></h5>
 							</div>
 						</div>
 					</div>
