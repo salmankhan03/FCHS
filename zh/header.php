@@ -82,9 +82,9 @@
                                             </li>
                                             <li class=""><a id="about" href="zh/About.php">關於我們</a>
                                             </li>
-                                            <li class=""><a id="career" href="Career.php">職業</a>
+                                            <li class=""><a id="career" href="zh/Career.php">⁠職業發展</a>
                                             </li>
-                                            <li class=""><a id="contact" href="zh/Contact.php">聯繫</a>
+                                            <li class=""><a id="contact" href="zh/Contact.php">聯絡我們</a>
                                             </li>
                                         </ul>
                                         <div class="lang-nav">

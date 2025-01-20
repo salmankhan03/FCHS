@@ -33,7 +33,7 @@
             const randomNumber = getRandomNumber(min, max);
 
             const captchaLabel = document.getElementById("captcha-label");
-            captchaLabel.textContent = `Please enter the following number*: ${randomNumber}`;
+            captchaLabel.textContent = `Please enter the following number: ${randomNumber}`;
 
             const hiddenInput = document.getElementById("captcha-input");
             hiddenInput.value = randomNumber;
@@ -74,7 +74,7 @@
 					<h2>Get In Touch</h2>
 					<div class="bold-text">Please connect with us by filling out the form below and we will get back to
 						you</div>
-					<div class="required">Fields with * indicate required information</div>
+					<div class="required">All fields are required</div>
 				</div>
 
 				<div class="row clearfix">
@@ -88,28 +88,28 @@
 								<form class="needs-validation" action="send-mail.php" method="post" novalidate>
 
 									<div class="form-group">
-										<input class="form-control" type="text" placeholder="Name*" id="name" name="name" required>
+										<input class="form-control" type="text" placeholder="Name" id="name" name="name" required>
 										<div class="invalid-feedback">
 											THIS FIELD IS REQUIRED.
 										</div>
 									</div>
 
 									<div class="form-group">
-										<input class="form-control" type="text" placeholder="Phone Number*" name="contact_no" id="number" required>
+										<input class="form-control" type="text" placeholder="Phone Number" name="contact_no" id="number" required>
 										<div class="invalid-feedback">
 											THIS FIELD IS REQUIRED.
 										</div>
 									</div>
 
 									<div class="form-group">
-										<input class="form-control" type="email" placeholder="Email*" id="email" name="email" required>
+										<input class="form-control" type="email" placeholder="Email" id="email" name="email" required>
 										<div class="invalid-feedback">
 											THIS FIELD IS REQUIRED.
 										</div>
 									</div>
 
 									<div class="form-group">
-										<textarea class="form-control" id="message" rows="6" type="text" name="message" placeholder="Your Message*" required></textarea>
+										<textarea class="form-control" id="message" rows="6" type="text" name="message" placeholder="Your Message" required></textarea>
 										<div class="invalid-feedback">
 											THIS FIELD IS REQUIRED.
 										</div>

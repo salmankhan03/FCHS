@@ -2,7 +2,7 @@
 <html lang="zh">
 <head>
 <meta charset="utf-8">
-<title>FCHS - About Us</title>
+<title>FCHS - 關於我們</title>
 <!-- Stylesheets -->
 <link rel="stylesheet" href="lib/bootstrap.css">
 <!-- <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"> -->
@@ -35,8 +35,8 @@
 				<!-- Title Column -->
 				<div class="content-column col-lg-4 col-md-5 col-sm-12">
 					<div class="">
-                        <h5 class="text3" style="letter-spacing:2px !important;">ABOUT US</h5>
-                        <h2 class="h1">Our Team</h2>
+                        <h5 class="text3" style="letter-spacing:2px !important;">關於我們</h5>
+                        <h2 class="h1">殷勤的團隊用心為您服務</h2>
                     </div>
 				</div>
 				
@@ -45,7 +45,7 @@
 					<div class="inner-column">
 						<ul class="mission-list">
 							<li class="text3">
-							    We will help your family find a way that’s right for your loved one.  Our experience, expertise, compassionate approach, and highly-skilled Care Professionals can help people live better, more fulfilled lives.  All people deserve to have a good quality of life and feel safe and content while still being independent.  We take pride that with kindness and compassion, our highly-trained and trusted team deliver tailored care for all needs from companionship through to complex health requirements. 
+								我們提供一站式諮詢與計畫協商，幫助您或摯愛找到最佳適合的照護服務方案。透過我們的經驗、專業知識及同理心，我們的護理專家能幫助您擁有更美好、更充實的銀髮生活。我們以善良和關懷的心為本，經過專業訓練的團隊為您或摯愛所需的要求提供客製化的護理，從陪伴到複雜的健康需求都可以效勞，值得信賴。
 							</li>
                         </ul>
 					</div>
@@ -81,8 +81,8 @@
 							<!-- Sec Title Two -->
 							
 							<div class="sec-title-two style-two">
-								<h4 class="h2 mb-4" style="color: #fff">Why Choose Us </h4>
-								<div class="text3" style="color: #fff" class="text">We offer a full range of high-quality services enabling you and your loved one’s peace of mind.  Our focus is to help clients maintain their sense of independence within the comfort and respect.  Through considerate, compassionate, high-quality care, we focus on upholding the dignity of all those we take care of.  We ensure that our experienced care professionals are carefully selected, trustworthy, and they are committed to the highest professional standards of patient-centred care.  </div>
+								<h4 class="h2 mb-4" style="color: #fff">我們的優勢</h4>
+								<div class="text3" style="color: #fff" class="text">Full Care Health Services提供全方位的高品質照護服務，讓您或摯愛感到安心、放心。我們專注於幫助客戶在最舒適和受到尊重的環境中保持其獨立自主性。通過考慮周到、充滿愛心的高品質護理計劃，我們致力於維護我們所有客戶的尊嚴與自信，助他們應付日常生活，活得健康。</div>
 							</div>
 						</div>
 					</div>
@@ -104,11 +104,11 @@
 						<div class="inner-column pt-0">
 							<!-- Sec Title Two -->
 							<div class="sec-title-two style-two">
-								<h2 class="h3">We are seeking compassionate individuals like you to join our team. </h2>
-								<div class="text text3">If you have a genuine love for the elderly, a desire to make a positive impact, and a passion for creating meaningful connections, then we invite you to embark on a fulfilling journey with us. </div>
+								<h2 class="h3">我們正在尋找像您一樣富有同理心的人加入我們的團隊。</h2>
+								<div class="text text3">如果您希望能用您的正面影響感染長者生活動力，並熱衷於建立有意義的聯繫，我們邀請您與我們一起踏上這個充實的旅程。</div>
 							</div>
 							<div class="btn-box" style="margin-top: 20px">
-								<a href="Career.php" class="theme-btn btn-style-one"><span class="txt">Apply Now</span></a>
+								<a href="zh/Career.php" class="theme-btn btn-style-one"><span class="txt">立即申請</span></a>
 							</div>
 						</div>
 					</div>

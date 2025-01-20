@@ -506,7 +506,7 @@
                                             您熱衷於幫助別人嗎？加入我們，開始一份有意義的職業生涯，為長者們的生活帶來更有意義的改變。作為一名敬業且富有同情心的護理員，您將要細心聆聽我們的客戶及其家人的意見，並滿足他們的獨特需求。</div>
                                         </div>
 
-                                        <a href="Career.php" class="elementor-button-link elementor-button elementor-size-sm mt-4" role="button">
+                                        <a href="zh/Career.php" class="elementor-button-link elementor-button elementor-size-sm mt-4" role="button">
                                             <span class="elementor-button-content-wrapper">
                                                 <span class="elementor-button-text">立即申請</span>
                                             </span>

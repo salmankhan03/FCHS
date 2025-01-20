@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>FCHS - Contact Us</title>
+	<title>FCHS - 聯絡我們</title>
 	<!-- Stylesheets -->
 
 	<link rel="stylesheet" href="lib/bootstrap.css">
@@ -33,7 +33,7 @@
             const randomNumber = getRandomNumber(min, max);
 
             const captchaLabel = document.getElementById("captcha-label");
-            captchaLabel.textContent = `Please enter the following number*: ${randomNumber}`;
+            captchaLabel.textContent = `請輸入以下數字: ${randomNumber}`;
 
             const hiddenInput = document.getElementById("captcha-input");
             hiddenInput.value = randomNumber;
@@ -64,10 +64,9 @@
 
 				<!-- Title Box -->
 				<div class="title-box">
-					<h2>Get In Touch</h2>
-					<div class="bold-text">Please connect with us by filling out the form below and we will get back to
-						you</div>
-					<div class="required">Fields with * indicate required information</div>
+					<h2>請聯繫我們</h2>
+					<div class="bold-text">請填寫以下表格與我們聯繫，我們將盡快回覆您的諮詢。</div>
+					<div class="required">請填寫所有欄位</div>
 				</div>
 
 				<div class="row clearfix">
@@ -81,30 +80,30 @@
 								<form class="needs-validation" action="send-mail.php" method="post" novalidate>
 
 									<div class="form-group">
-										<input class="form-control" type="text" placeholder="Name*" id="name" name="name" required>
+										<input class="form-control" type="text" placeholder="名字" id="name" name="name" required>
 										<div class="invalid-feedback">
-											THIS FIELD IS REQUIRED.
+											此欄位為必填
 										</div>
 									</div>
 
 									<div class="form-group">
-										<input class="form-control" type="text" placeholder="Phone Number*" name="contact_no" id="number" required>
+										<input class="form-control" type="text" placeholder="電話號碼" name="contact_no" id="number" required>
 										<div class="invalid-feedback">
-											THIS FIELD IS REQUIRED.
+											此欄位為必填
 										</div>
 									</div>
 
 									<div class="form-group">
-										<input class="form-control" type="email" placeholder="Email*" id="email" name="email" required>
+										<input class="form-control" type="email" placeholder="電子郵件" id="email" name="email" required>
 										<div class="invalid-feedback">
-											THIS FIELD IS REQUIRED.
+											此欄位為必填
 										</div>
 									</div>
 
 									<div class="form-group">
-										<textarea class="form-control" id="message" rows="6" type="text" name="message" placeholder="Your Message*" required></textarea>
+										<textarea class="form-control" id="message" rows="6" type="text" name="message" placeholder="請填寫您想諮詢的問題" required></textarea>
 										<div class="invalid-feedback">
-											THIS FIELD IS REQUIRED.
+											此欄位為必填
 										</div>
 									</div>
 
@@ -114,13 +113,12 @@
 										<input class="form-control" type="text" id="captcha" placeholder="" required>
     									<input type="hidden" id="captcha-input">
 										<div class="invalid-feedback">
-											THIS FIELD IS REQUIRED.
+											此欄位為必填
 										</div>
 									</div>
 
 									<div class="form-group">
-										<button type="submit" class="theme-btn btn-style-one" name="submit_message" ><span class="txt">Submit
-												now</span></button>
+										<button type="submit" class="theme-btn btn-style-one" name="submit_message" ><span class="txt">提交</span></button>
 									</div>
 
 								</form>
@@ -136,11 +134,11 @@
 							<div class="image">
 								<img src="img/Contact/contact-1.jpg" alt="" />
 							</div>
-							<h3>Head Office</h3>
+							<h3>總部地址</h3>
 							<div class="text">#200 - 3071 No. 5 Road <br /> Richmond, BC, V6X 2T4</div>
 							<ul>
-								<li>Tel: <a href="tel:1800-456-7890">+1 (778) 297-7108</a></li>
-								<li>Email: <a href="mailto:inquiry@fullcarehs.com">inquiry@fullcarehs.com</a></li>
+								<li>電話: <a href="tel:1800-456-7890">+1 (778) 297-7108</a></li>
+								<li>電子郵件: <a href="mailto:inquiry@fullcarehs.com">inquiry@fullcarehs.com</a></li>
 							</ul>
 						</div>
 					</div>
@@ -202,7 +200,7 @@
 							console.log('captcha is valid')
 						} else {
 							form.classList.add('was-validated')
-							alert("Captcha is incorrect. Please try again.");
+							alert("驗證碼錯誤，請再試一次。");
 							generateCaptcha();
 						}
 

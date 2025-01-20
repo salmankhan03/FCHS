@@ -33,7 +33,7 @@
         <section class="page-title" style="background-image:url(img/Services/banner_spa_n_beauty.jpg)">
         <div Style="height: 170px"></div>
 			<div Style="height: 50px">
-			   <h3 class="h2bg">Experience total bliss and rejuvenation</h3>
+			   <h3 class="h2bg">體驗全身的舒適放鬆療程，幫助您恢復活力</h3>
 			</div>
 			<div Style="height: 100px"></div>
         </section>
@@ -57,19 +57,19 @@
                         <div class="inner-column">
                             <ul class="mission-list">
                                 <li class="text3">
-                                    Everybody deserves a day for themselves. Our Spa Care services offer a variety of special services that will help carry out those plans, guaranteeing seniors will be re-energized and relaxed. Highly trained professionals will provide services that range from haircuts to body massages, skin care, and even nail care.
+                                    每個人都應該擁有自己身心靈放鬆的一天。我們的美容按摩護理服務幫助您或摯愛重新煥發活力、放鬆身心。訓練有素的專業員將提供理髮、身體按摩、皮膚護理及指甲護理等服務。
                                 </li>
                                 <br/>
 								<li class="text3">
-								    Hair Style services equipped with professionally trained hair stylists will provide a salon service like no other, each haircut will be carefully tailored toward your style and preference in addition to a shampoo, blow dry, and styling service. 
+                                    配備專業訓練的髮型師的美髮服務將提供無與倫比的舒適體驗，除洗髮、吹乾與造型服務外，每次理髮都將根據您的風格和喜好精心定制。
                                 </li>
                                 <br/>
 								<li class="text3">
-								    Our Spa Care services will take care of your physical and mental health, from our body massages to nail or facial care, you are bound to feel pampered and confident.  
+                                    我們的按摩及肌膚護理服務將照顧您的身心健康，從身體按摩到指甲或臉部護理，您或摯愛定必感到無比舒適、恢復活力、增強自信。
 								</li>
 								<br/>
 								<li class="text3">
-								    Practice self-love in a space that prioritizes comfort, dignity, and satisfaction. To schedule your appointment, reach out to us by phone or email, and embark on a journey of beauty, self-care, and renewal.
+                                    誠意邀請您或摯愛在舒適、安寧及陪伴專業儀器的工作間度過一個難忘的一天。請透過電話或電子郵件聯絡我們提早預約，讓我們幫您踏上美麗、提升自我和更健康的旅程。
 								</li>
                             </ul>
                         </div>
