@@ -58,7 +58,7 @@
                             <ul class="mission-list">
                                 <li class="text3">隨著年齡的增長，長者面臨各種健康問題和醫療狀況的不幸現實。個性化的方法將定制護理以滿足特定的需求或希望，使您的所愛之人能夠繼續參加他們的活動，同時感到安全、自信和舒適。</li>
                                     <br/>
-                                <li class="text3">我們經驗豐富的專業註冊護士提供高質量的基本醫療服務，讓家人感到安心。無論您的專業需求是什麼，我們都將為您提供最好的支持，由知識淵博、經驗豐富並專門接受過幫助多種特定情況訓練的醫療專業人員提供。</li>
+                                <li class="text3">我們經驗豐富的專業註冊護士提供高質量的基本醫療服務，讓家人感到安心。無論您的特殊需求是什麼，我們都將為您提供最好的支持，由知識淵博、經驗豐富並專門接受過幫助多種特定情況訓練的醫療專業人員提供。</li>
                             </ul>
                         </div>
                     </div>
@@ -76,7 +76,7 @@
                 <div class="sec-title style-two">
                     <div class="clearfix  pt-4 pb-4">
                         <div style="text-align: center">
-                            <h2 class="h2 pt-5">Explore Our Services</h2>
+                            <h2 class="h2 pt-5">了解更多我們的服務</h2>
                         </div>
                     </div>
                 </div>
@@ -91,7 +91,7 @@
                                 <a href="zh/Companion_Care.php"><img src="img/Services/img_companion.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="zh/Companion_Care.php">Companion Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="zh/Companion_Care.php">陪伴服務</a></h5>
                             </div>
                         </div>
                     </div>
@@ -103,7 +103,7 @@
                                 <a href="zh/Personal_Care.php"><img src="img/Services/img_personal.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="zh/Personal_Care.php">Personal Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="zh/Personal_Care.php">個人護理</a></h5>
                             </div>
                         </div>
                     </div>
@@ -115,7 +115,7 @@
                                 <a href="zh/Nursing_Care.php"><img src="img/Services/img_nursing.jpg" alt="" /></a>
                             </div>
                             <div class="lower-content">
-                                <h5 style="text-align: center"><a class="h4" href="zh/Nursing_Care.php">Nursing Care</a></h5>
+                                <h5 style="text-align: center"><a class="h4" href="zh/Nursing_Care.php">醫療護理</a></h5>
                             </div>
                         </div>
                     </div>
@@ -126,7 +126,7 @@
 								<a href="zh/Beauty_Care.php"><img src="img/Services/img_spa.jpg" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h5 style="text-align: center"><a class="h4" href="zh/Beauty_Care.php">Beauty Care</a></h5>
+								<h5 style="text-align: center"><a class="h4" href="zh/Beauty_Care.php">美容護理</a></h5>
 							</div>
 						</div>
 					</div>

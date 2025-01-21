@@ -36,7 +36,7 @@
 				<div class="content-column col-lg-4 col-md-5 col-sm-12">
 					<div class="">
                         <h5 class="text3" style="letter-spacing:2px !important;">關於我們</h5>
-                        <h2 class="h1">殷勤的團隊用心為您服務</h2>
+                        <h2 class="h1">我們的團隊</h2>
                     </div>
 				</div>
 				

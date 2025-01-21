@@ -31,14 +31,7 @@
 
     <!--Page Title-->
     <section class="page-title" style="background-image:url(img/banner_career.jpg)">
-        <div Style="height: 50px"></div>
-        <div Style="height: 50px"></div>
-        <div Style="height: 50px"></div>
-        <div Style="height: 50px"></div>
-        <div Style="height: 50px"></div>
-        <div Style="height: 50px"></div>
-        <div Style="height: 50px"></div>
-        <div Style="height: 50px"></div>
+        <div Style="height: 400px"></div>
     </section>
     <!--End Page Title-->
 
@@ -49,7 +42,7 @@
                 <h5 class="text3" style="letter-spacing:2px !important;">CAREER</h5>
                 <h2 class="h1">Join Us</h2>
                 <div class="text text3">At Full Care Health Services, our commitment lies in providing high-quality and compassionate care, tailored to the unique needs of our clients. To achieve this, we place great emphasis on investing in our team, ensuring they receive the necessary support and resources while working with us. By nurturing and empowering our caregivers, we can maintain our focus on delivering exceptional care, always upholding the highest standards. With a dedicated and supported team, we strive to exceed expectations and make a positive impact in the lives of those we serve. </div>
-                <div class="light-text text1">We welcome passionate individuals to join our supportive team and make a difference in the lives of our clients. </div>
+                <div class="light-text text3">We welcome passionate individuals to join our supportive team and make a difference in the lives of our clients. </div>
             </div>
             
             

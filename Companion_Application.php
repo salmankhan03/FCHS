@@ -7,7 +7,7 @@
     <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
 	<link rel="icon" href="img/favicon.png" type="image/x-icon">
 
-    <title>Job Application - Comapnion</title>
+    <title>Job Application - Companion</title>
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -239,7 +239,7 @@
                         </div>
 
                         <div class="btn-box mt-4 mb-5" style="margin-top: 20px">
-                            <button type="submit" class="theme-btn btn-style-one mb-3">Submit</button>
+                            <button type="submit" class="theme-btn btn-style-one mb-3"><span class="txt">Submit</span></button>
                         </div>
                     </div>
                 </div>

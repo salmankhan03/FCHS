@@ -8,6 +8,8 @@ require 'vendor/autoload.php';
 
 if (!empty($_POST['fname'])  && !empty($_POST['lname']) && !empty($_POST['email']) && !empty($_POST['phone']) && !empty($_POST['address']) && !empty($_POST['city']) && !empty($_POST['state']) && !empty($_POST['zip']) && !empty($_POST['answer1']) && !empty($_POST['answer2']) && !empty($_POST['answer3']) && !empty($_POST['employer']) && !empty($_POST['travel']) && !empty($_POST['motivation']) && !empty($_POST['information_source'])) {
     $mail = new PHPMailer(true);
+    $mail->CharSet = 'UTF-8';
+    $mail->Encoding = 'base64';
 
     $mail->isSMTP();
     $mail->Host = 'mail.fullcarehs.com';
@@ -18,7 +20,8 @@ if (!empty($_POST['fname'])  && !empty($_POST['lname']) && !empty($_POST['email'
     $mail->Port = 587;
 
     $mail->setFrom($_POST['email']);
-    $mail->addAddress('hiring@fullcarehs.com');
+    //$mail->addAddress('hiring@fullcarehs.com');
+    $mail->addAddress('tonyh@intellidt.com');
     $mail->Subject = 'FCHS Application Form';
     $mail->isHTML(TRUE);
 

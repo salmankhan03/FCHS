@@ -168,8 +168,8 @@
                 <!-- Title Box -->
                 <div class="title-box">
                     <h2 class="h3 mb-1">悉心呵護您與摯愛的健康</h2>
-                    <div class="bold-text text2 mt-4 pt-3 pb-1" style="font-size: 21px !important">Full Care Health Services致力於長者提供一站式全面健康照護服務。<span class="responsive-br-1"><br></span>我們的專業護理團隊能幫助您或您的摯愛繼續享受豐盛人生。</div>
-                    <div class="text text3 p-4" style="color: var(--grey) !important">我們相信，每位長者都應該受到尊重與重視，讓您能安心又放心接受我們的協助。我們會根據您或摯愛的需求，<span class="responsive-br-2"><br></span>提供個人化的護理服務計劃：從陪伴照顧到專業個人護理，所有服務均以迎合您的需要，支持您的健康。</div>
+                    <div class="bold-text text2 mt-4 pt-3 pb-1" style="font-size: 21px !important">Full Care Health Services致力於為長者提供一站式全面健康照護服務。<span class="responsive-br-1"><br></span>我們的專業護理團隊能幫助您或您的摯愛繼續享受豐盛人生。</div>
+                    <div class="text text3 p-4" style="color: var(--grey) !important">我們相信，每位長者都應該受到尊重與重視，讓您能安心又放心地接受我們的協助。我們會根據您或摯愛的需求，<span class="responsive-br-2"><br></span>提供個人化的護理服務計劃：從陪伴照顧到專業個人護理，所有服務均以迎合您的需要，支持您的健康。</div>
                 </div>
 
             </div>
@@ -315,7 +315,7 @@
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-56b2722 elementor-widget elementor-widget-heading" data-id="56b2722" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">由專業訓練的看護員提供日常生活和個人衛生護理服務</h2>
+                                                                            <h2 class="elementor-heading-title elementor-size-default text4 my-4" style="font-family: 'Rufina', serif !important; line-height: 1.4 !important; font-size:20px">由專業訓練的護理員提供日常生活和個人衛生護理服務</h2>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
@@ -444,7 +444,7 @@
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container text3">
-                                                                            <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4">從頭髮護理到身體按摩、臉部美容及修甲服務，我們技術嫻熟的專業員致力於讓您或您摯愛享受令人一試難忘的體驗。
+                                                                            <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4">從頭髮護理到身體按摩、臉部美容及修甲服務，我們技術嫻熟的美容師致力於讓您或您摯愛享受令人一試難忘的體驗。
                                                                             </span>
                                                                         </div>
                                                                     </div>
@@ -483,7 +483,7 @@
                                         </div>
                                         <div class="elementor-element elementor-element-989410b elementor-widget elementor-widget-text-editor" data-id="989410b" data-element_type="widget" data-widget_type="text-editor.default">
                                             <div class="elementor-widget-container text3">
-                                            我們將根據您的個人需求，制定全面的護理計劃，並與長者及其家屬進行協商。這個過程確保我們能更專業地匹配我們的服務生迎合您的所需，保持緊密的聯繫，更能激發您充分享受生活的動力。<br><br>
+                                                我們將根據您的個人需求，制定全面的護理計劃，並與長者及其家屬進行協商。這個過程確保我們能更專業地匹配我們的護理員迎合您的所需，保持緊密的聯繫，更能激發您充分享受生活的動力。<br><br>
                                             </div>
                                         </div>
                                     </div>

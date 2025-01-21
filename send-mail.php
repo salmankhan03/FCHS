@@ -8,6 +8,8 @@ require 'vendor/autoload.php';
 
 if (!empty($_POST['name'])  && !empty($_POST['email']) && !empty($_POST['contact_no']) && !empty($_POST['message'])) {
     $mail = new PHPMailer(true);
+    $mail->CharSet = 'UTF-8';
+    $mail->Encoding = 'base64';
 
     $mail->isSMTP();
     $mail->Host = 'mail.intellidt.com';
@@ -18,8 +20,8 @@ if (!empty($_POST['name'])  && !empty($_POST['email']) && !empty($_POST['contact
     $mail->Port = 587;
 
     $mail->setFrom($_POST['email']);
-    //$mail->addAddress('tonyh@intellidt.com');
-    $mail->addAddress('inquiry@fullcarehs.com');
+    $mail->addAddress('tonyh@intellidt.com');
+    //$mail->addAddress('inquiry@fullcarehs.com');
 
     $mail->Subject = 'FCHS Contact Form';
     $mail->isHTML(TRUE);

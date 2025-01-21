@@ -61,7 +61,7 @@
 								</li>
 								<br/>
 								<li class="text3">
-									Our professional non-medical caregivers provide emotional and physical assistance for seniors to give them confidence to feel safe and content while maintaining and active lifestyle.
+									Our professional non-medical caregivers provide emotional and physical assistance for seniors to give them the confidence to feel safe and content while maintaining and active lifestyle.
 								</li>
 							</ul>
 						</div>
