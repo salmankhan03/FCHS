@@ -376,4 +376,27 @@
 		handlePreloader();
 	});	
 
+jQuery(document).ready(function($) {
+    // Hide all tab content initially except first
+    $('.elementor-tab-content').not(':first').hide();
+    
+    // Handle tab clicks
+    $('.elementor-tab-title').click(function(e) {
+        e.preventDefault();
+        var tab_id = $(this).attr('aria-controls');
+        
+        // Hide all tab content
+        $('.elementor-tab-content').hide();
+        
+        // Remove active class
+        $('.elementor-tab-title').removeClass('elementor-active');
+        
+        // Show selected tab content
+        $('#' + tab_id).show();
+        
+        // Add active class to clicked tab
+        $(this).addClass('elementor-active');
+    });
+});
+
 })(window.jQuery);

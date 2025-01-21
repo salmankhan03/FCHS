@@ -6883,3 +6883,25 @@ font-size: 16px;
     margin: auto;
     padding: 12px 0;
 }
+
+.elementor-tab-content {
+    display: none;
+}
+
+.elementor-tab-content.elementor-active {
+    display: block;
+}
+
+#elementor-tab-content-1591 {
+    display: block;
+}.elementor-tab-content {
+    display: none;
+}
+
+.elementor-tab-content.elementor-active {
+    display: block;
+}
+
+#elementor-tab-content-1591 {
+    display: block;
+}
