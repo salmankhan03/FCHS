@@ -36,17 +36,27 @@
 
 <style>
    .elementor-1058 .elementor-element.elementor-element-ea83da6:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap, .elementor-1058 .elementor-element.elementor-element-ea83da6>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #fff;
-}
+      background-color: #fff;
+   }
 
-.elementor img {
-    height: auto;
-    /*max-width: 80%;*/
-    border: none;
-    border-radius: 0;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-}
+   .elementor img {
+      height: auto;
+      /*max-width: 80%;*/
+      border: none;
+      border-radius: 0;
+      -webkit-box-shadow: none;
+      box-shadow: none;
+   }
+
+   .elementor-1058 .elementor-element.elementor-element-01855f2.elementor-widget-onilife-tabs.elementor-widget-tabs .elementor-tab-title {
+      margin: 0px 5px 0px 5px;
+   }
+
+   @media (max-width: 1024px) {
+      .elementor-1058 .elementor-element.elementor-element-01855f2.elementor-widget-onilife-tabs.elementor-widget-tabs .elementor-tab-title {
+         margin: 0px 5px 10px 5px;
+      }
+   }
 </style>
 </head>
 

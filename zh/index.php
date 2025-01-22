@@ -53,6 +53,16 @@
             -webkit-box-shadow: none;
             box-shadow: none;
         }
+
+        .elementor-1058 .elementor-element.elementor-element-01855f2.elementor-widget-onilife-tabs.elementor-widget-tabs .elementor-tab-title {
+            margin: 0px 5px 0px 5px;
+        }
+
+        @media (max-width: 1024px) {
+            .elementor-1058 .elementor-element.elementor-element-01855f2.elementor-widget-onilife-tabs.elementor-widget-tabs .elementor-tab-title {
+                margin: 0px 5px 10px 5px;
+            }
+        }
     </style>
 </head>
 

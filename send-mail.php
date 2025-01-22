@@ -50,6 +50,6 @@ if (!empty($_POST['name'])  && !empty($_POST['email']) && !empty($_POST['contact
     // echo '<script>alert("Message has been sent")</script>';
     echo '<script>
         alert("Error");
-        window.location.href = "contact.php";
+        window.location.href = "' . $_SERVER['HTTP_REFERER'] . '";
     </script>';
 }

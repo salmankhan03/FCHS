@@ -68,6 +68,6 @@ if (!empty($_POST['fname'])  && !empty($_POST['lname']) && !empty($_POST['email'
     //echo '<script>alert("Error")</script>';
     echo '<script>
         alert("Error");
-        window.location.href = "contact.php";
+        window.location.href = "' . $_SERVER['HTTP_REFERER'] . '";
     </script>';
 }
