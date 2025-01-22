@@ -32,7 +32,7 @@
         <section class="page-title" style="background-image:url(img/Services/banner_personal_care.jpg)">
    	        <div Style="height: 170px"></div>
 			<div Style="height: 50px">
-			   <h3 class="h2bg">日常任務交給我們</h3>
+			   <h3 class="h2bg">日常瑣事交給我們</h3>
 			</div>
 			<div Style="height: 100px"></div>
         </section>
@@ -55,7 +55,7 @@
                     <div class="content-column col-lg-8 col-md-7 col-sm-12">
                         <div class="inner-column">
                             <ul class="mission-list">
-                                <li class="text3">如果您所愛的人擔心失去獨立性或在日常任務中掙扎，那麼一位經過全面訓練的個人看護者將能夠支持和協助完成日常個人任務，並保持衛生。個人護理可能包括洗澡和淋浴、如廁、口腔衛生、足部護理、穿衣以及塗抹乳液和護膚霜。這些日常任務的幫助使長者能夠在家中的舒適環境中度過晚年，同時保持獨立性。聯繫我們，讓我們根據您所愛之人的情況幫助制定個性化的護理計劃。</li>
+                                <li class="text3">如果您所愛的人擔心失去獨立性或在日常瑣事中遇到困難，那麼一位經過全面訓練的個人護理員將能夠提供支持，協助完成日常個人瑣事，並保持衛生。個人護理可能包括洗澡和淋浴、如廁、口腔衛生、足部護理、穿衣以及塗抹乳液和護膚霜。這些幫助使長者能夠在家中的舒適環境中度過晚年，同時保持獨立性。聯繫我們，讓我們根據您所愛之人的情況幫助制定個性化的護理計劃。</li>
                             </ul>
                         </div>
                     </div>

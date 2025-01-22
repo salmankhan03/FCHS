@@ -45,7 +45,7 @@
 					<div class="inner-column">
 						<ul class="mission-list">
 							<li class="text3">
-								我們提供一站式計劃與諮詢，幫助您或摯愛找到最佳適合的照護服務方案。透過我們的經驗、專業知識及同理心，我們的護理專家能幫助您擁有更美好、更充實的銀髮生活。我們以善良和關懷的心為本，經過訓練有素的團隊將為您或摯愛提供所需的個性化的護理，從陪伴到複雜的健康需求都可以效勞，值得信賴。
+								我們提供一站式計劃與諮詢，幫助您或摯愛找到最適合的護理服務方案。透過我們的經驗、專業知識及同理心，我們的護理專家能幫助您擁有更美好、更充實的銀髮生活。我們以善良和關懷的心為本，經過專業訓練的團隊將為您或摯愛提供所需的個性化護理，涵蓋從陪伴到複雜的健康需求。
 							</li>
                         </ul>
 					</div>
@@ -82,7 +82,7 @@
 							
 							<div class="sec-title-two style-two">
 								<h4 class="h2 mb-4" style="color: #fff">我們的優勢</h4>
-								<div class="text3" style="color: #fff" class="text">Full Care Health Services提供全方位的高品質照護服務，讓您或摯愛感到安心、放心。我們專注於幫助客戶在最舒適和受到尊重的環境中保持其獨立自主性。通過考慮周到、充滿愛心的高品質護理計劃，我們致力於維護我們所有客戶的尊嚴與自信，助他們應付日常生活，活得健康。</div>
+								<div class="text3" style="color: #fff" class="text">Full Care Health Services提供全方位的高品質護理服務，讓您或摯愛感到安心、放心。我們專注於幫助客戶在最舒適和受到尊重的環境中保持其獨立自主性。通過考慮周到、充滿愛心的高品質護理計劃，我們致力於維護我們所有客戶的尊嚴與自信，助他們應付日常生活，活得健康。</div>
 							</div>
 						</div>
 					</div>
@@ -105,7 +105,7 @@
 							<!-- Sec Title Two -->
 							<div class="sec-title-two style-two">
 								<h2 class="h3">我們正在尋找像您一樣富有同理心的人加入我們的團隊。</h2>
-								<div class="text text3">如果您希望能用您的積極樂觀影響感染長者生活動力，並熱衷於建立有意義的聯繫，我們邀請您與我們一起踏上這個充實的旅程。</div>
+								<div class="text text3">如果您希望以積極樂觀的態度影響長者的生活動力，並熱衷於建立有意義的聯繫，我們邀請您與我們一起踏上這個充實的旅程。</div>
 							</div>
 							<div class="btn-box" style="margin-top: 20px">
 								<a href="zh/Career.php" class="theme-btn btn-style-one"><span class="txt">立即申請</span></a>

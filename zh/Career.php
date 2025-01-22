@@ -49,7 +49,7 @@
             <div class="lower-content p-5 " style="background: #edf1f4">
                 <h3 class="h3">註冊護士</h3>
                 <div class="light-text text1" style="margin-top: 2px !important">地點：溫哥華</div>
-                 <div class="text text3">你是否是一名註冊護士（RN），擅長為需要全面護理和協助生活的客戶提供直接護理服務？在總經理和健康與安全委員會的專業指導下，你是否準備好成為我們的醫療團隊一部分，與客戶家庭緊密合作，提供以客戶為中心的護理？如果這個理念與你的職業抱負和承諾一致，我們誠邀你的加入，成為我們醫療團隊的重要一員，為提升客戶的生活品質做出重大貢獻。</div>
+                 <div class="text text3">你是否是一名註冊護士（RN），擅長為需要全面護理和協助生活的客戶提供直接護理服務？在總經理和健康與安全委員會的專業指導下，你是否準備好成為我們的醫療團隊一部分，與客戶及其家庭緊密合作，提供以客戶為中心的護理？如果這個理念與你的職業抱負和承諾一致，我們誠邀你的加入，成為我們醫療團隊的重要一員，為提升客戶的生活品質做出重大貢獻。</div>
                 <div class="btn-box" style="margin-top: 20px">
                     <a href="zh/Registered_Nurse_Application.php" class="theme-btn btn-style-one"><span class="txt">立即申請</span></a>
                 </div>
@@ -58,7 +58,7 @@
                <div class="lower-content p-5 mt-4" style="background: #edf1f4">
                 <h3 class="h3">執業護士 </h3>
                 <div class="light-text text1" style="margin-top: 2px !important">地點：溫哥華</div>
-                 <div class="text text3">你是一位執業護士 (LPN)，能夠一絲不苟地為需要護理和輔助生活的客戶提供安全用藥的服務嗎？在總經理和健康與安全委員會的領導下，你準備好成為醫療團隊中的重要力量，與客戶家人密切合作，提供以客戶為先的護理嗎？你是否受會到專業環境的推動，重視個人訓練、精準地執行職責以及在團隊和我們所服務的家庭之間營造出協作氛圍？如果這與你的職業抱負和奉獻精神互相呼應，我們誠邀你加入，成為我們醫療保健團隊的重要一員。</div>
+                 <div class="text text3">你是一位執業護士 (LPN)，能夠一絲不苟地為需要護理和輔助生活的客戶提供安全用藥的服務嗎？在總經理和健康與安全委員會的領導下，你準備好成為醫療團隊中的重要力量，與客戶及其家人密切合作，提供以客戶為中心的護理嗎？你是否受會到專業環境的推動，重視個人訓練、精準地執行職責以及在團隊和我們所服務的家庭之間營造出協作氛圍？如果這與你的職業抱負和奉獻精神互相呼應，我們誠邀你加入，成為我們醫療保健團隊的重要一員。</div>
                 <div class="btn-box" style="margin-top: 20px">
                     <a href="zh/Licensed_Practical_Nurse_Application.php" class="theme-btn btn-style-one"><span class="txt">立即申請</span></a>
                 </div>
@@ -67,7 +67,7 @@
                 <div class="lower-content p-5 mt-4" style="background: #edf1f4">
                 <h3 class="h3">健康護理助理</h3>
                 <div class="light-text text1" style="margin-top: 2px !important">地點：溫哥華</div>
-                 <div class="text text3">你是否是一位經驗豐富的健康護理助理（HCA），準備在執業護士 （LPN）和健康與安全委員會的指導下努力工作？你的目標是否是根據為每位客戶量身定制個人護理計劃，滿足他們的需求？如果這個理念與你的職業精神和承諾一致，我們誠邀你申請並用你的專業知識充實我們的醫療團隊。</div>
+                 <div class="text text3">你是否是一位經驗豐富的健康護理助理（HCA），準備在執業護士 （LPN）和健康與安全委員會的指導下努力工作？你的目標是否是根據為每位客戶量身定制個人護理計劃，滿足他們的需求？如果這個理念與你的職業精神和承諾一致，我們誠邀你加入並用你的專業知識充實我們的醫療團隊。</div>
                 <div class="btn-box" style="margin-top: 20px">
                     <a href="zh/Health_Care_Aide_Application.php" class="theme-btn btn-style-one"><span class="txt">立即申請</span></a>
                 </div>
@@ -76,7 +76,7 @@
             <div class="lower-content p-5 mt-4" style="background: #edf1f4">
                 <h3 class="h3">看護員</h3>
                 <div class="light-text text1" style="margin-top: 2px !important">地點：溫哥華</div>
-                 <div class="text text3">你是否是一位樂業敬業的看護員，專注於為長者、殘障人士或特殊需求人士提供充滿愛心且個性化的護理？如果這與你的熱情和奉獻一致，我們誠邀你的加入，成為我們充滿愛心的團隊的一員。</div>
+                 <div class="text text3">你是否是一位富有愛心、專注於為長者、殘障人士或有特殊需求人士提供個性化護理的專業看護員？如果這正是你的熱情和使命，我們誠邀你的加入，成為我們充滿愛心的團隊的一員。</div>
                 <div class="btn-box" style="margin-top: 20px">
                     <a href="zh/Caregiver_Application.php" class="theme-btn btn-style-one"><span class="txt">立即申請</span></a>
                 </div>
@@ -85,7 +85,7 @@
              <div class="lower-content p-5 mt-4" style="background: #edf1f4">
                 <h3 class="h3">陪伴員</h3>
                 <div class="light-text text1" style="margin-top: 2px !important">地點：溫哥華</div>
-                 <div class="text text3">你是否是一位充滿愛心的陪伴員，善於為可能獨居、感到孤獨或需要社交互動的長者提供心靈支持、陪伴和實際幫助？如果這與你的承諾和職業目標一致，我們誠摯邀請你申請，成為我們充滿愛與關懷的社區的一份子。</div>
+                 <div class="text text3">你是否是一位充滿愛心的陪伴員，善於為可能獨居、感到孤獨或需要社交互動的長者提供心靈支持、陪伴和實際幫助？如果這與你的承諾和職業目標一致，我們誠摯邀請加入，成為我們充滿愛與關懷的社區的一份子。</div>
                 <div class="btn-box" style="margin-top: 20px">
                     <a href="zh/Companion_Application.php" class="theme-btn btn-style-one"><span class="txt">立即申請</span></a>
                 </div>
