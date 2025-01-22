@@ -55,11 +55,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <h1 class="title jobUpperSpace">Companion Application</h1>
-                        <!--<h6 class="form-label mt-5">Job Title</h6>-->
-                        <!--<div class="simple-box">-->
-                        <!--    Neighborhood Health Team Lead Nurse - Home Care, Island of Montreal, West-Island, North Shore and South Shore-->
-                        <!--</div>-->
-                        <!--<h6 class="mt-4">Please enter all relevant personal information in the fields below</h6>-->
+                        
                         <input type="hidden" id="job_title" name="job_title" value="Companion">
                         <div class="row mt-5">
                             <div class="col-md-6 col-sm-12">
@@ -101,8 +97,6 @@
                             <div class="col-md-12">
                                 <h6 for="address" class=" form-label">Address</h6>
                                 <input type="text" class="form-control" id="address" name="address" required>
-                                <!--<h6 for="saddress" class="mt-4">Address Line 2</h6>-->
-                                <!--<input type="text" class="form-control " id="saddress" name="saddress" required>-->
 
                                 <div class="row mt-4">
                                     <div class="col-md-4 col-sm-12 colTopMargin">
@@ -158,16 +152,16 @@
                         </div>
                         <div class="row mt-4">
                             <div class="col-md-12">
-                                <h6 class="form-label">What kind of hours are you seeking?
+                                <h6 class="form-label">What kind of hours are you seeking?</h6>
                                 <div class="form-check">
                                     <input class="form-check-input" type="radio" name="employer" id="fulltime"
-                                        value="fulltime" required>
+                                        value="full time" required>
                                     <label class="form-check-label" for="fulltime">Full time</label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="employer" id="parttime" value="parttime"
+                                    <input class="form-check-input" type="radio" name="employer" id="parttime" value="Part time"
                                         required>
-                                    <label class="form-check-label" for="parttime">part time</label>
+                                    <label class="form-check-label" for="parttime">Part time</label>
                                 </div>
                                 <div class="invalid-feedback error-box">
                                     This field is required.
@@ -177,21 +171,21 @@
                         
                         <div class="row mt-4">
                             <div class="col-md-12">
-                                <h6 class="form-label"> I travel by:
+                                <h6 class="form-label"> I travel by:</h6>
                                 <div class="form-check">
                                     <input class="form-check-input" type="radio" name="travel" id="personal"
-                                        value="personal" required>
+                                        value="A personal car" required>
                                     <label class="form-check-label" for="personal">A personal car</label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="travel" id="ride" value="ride"
+                                    <input class="form-check-input" type="radio" name="travel" id="ride" value="Getting a ride"
                                         required>
-                                    <label class="form-check-label" for="ride">Get a ride</label>
+                                    <label class="form-check-label" for="ride">Getting a ride</label>
                                 </div>
                                 <div class="form-check">
                                     <input class="form-check-input" type="radio" name="travel" id="public"
-                                        value="public" required>
-                                    <label class="form-check-label" for="public">take public transit</label>
+                                        value="Taking public transit" required>
+                                    <label class="form-check-label" for="public">Taking public transit</label>
                                 </div>
                                 <div class="invalid-feedback error-box">
                                     This field is required.
@@ -204,13 +198,13 @@
                                 <h6 for="select1" class=" form-label">If you were successfully hired, what things will
                                     motivate you the most in your job?</h6>
                                 <select class="form-select mt-2" aria-label="Default select example" name="motivation">
-                                    <option value="Flexible">Flexible schedule</option>
+                                    <option value="Flexible schedule">Flexible schedule</option>
                                     <option value="Wage">Wage or salary</option>
-                                    <option value="Extended">Extended Health Benefits</option>
-                                    <option value="Rewarding">Rewarding work</option>
-                                    <option value="Working">Working with good families</option>
-                                    <option value="Support">Support and mentoring from the office</option>
-                                    <option value="Team">Team environment</option>
+                                    <option value="Extended health benefits">Extended health benefits</option>
+                                    <option value="Rewarding work">Rewarding work</option>
+                                    <option value="Working with good families">Working with good families</option>
+                                    <option value="Support and mentoring from the office">Support and mentoring from the office</option>
+                                    <option value="Team environment">Team environment</option>
                                     <option value="Recognition">Recognition</option>
                                 </select>
                                 <div class="invalid-feedback error-box">
@@ -224,12 +218,12 @@
                                 <h6 for="select2" class=" form-label">How did you hear about us?</h6>
                                 <select class="form-select mt-2" aria-label="Default select example"
                                     name="information_source">
-                                    <option value="Word">Word of Mouth</option>
-                                    <option value="Job">Job Board</option>
-                                    <option value="Career">Career Fair</option>
-                                    <option value="Career">Career</option>
-                                    <option value="Full">Full Care Health Services Employee</option>
-                                    <option value="Social">Social Media</option>
+                                    <option value="Word of mouth">Word of mouth</option>
+                                    <option value="Job board">Job board</option>
+                                    <option value="Career fair">Career fair</option>
+                                    <option value="Our website">Our website</option>
+                                    <option value="FCHS employee">Full Care Health Services employee</option>
+                                    <option value="Social media">Social media</option>
                                     <option value="Other">Other</option>
                                 </select>
                                 <div class="invalid-feedback error-box">

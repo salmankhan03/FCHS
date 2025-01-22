@@ -53,14 +53,7 @@
 		<!--Page Title-->
 		<section class="page-title" style="background-image:url(img/Contact/banner_contact.jpg)">
 			<div class="auto-container">
-				<div Style="height: 50px"></div>
-				<div Style="height: 50px"></div>
-				<div Style="height: 50px"></div>
-				<div Style="height: 50px"></div>
-				<div Style="height: 50px"></div>
-				<div Style="height: 50px"></div>
-				<div Style="height: 50px"></div>
-				<div Style="height: 50px"></div>
+				<div Style="height: 400px"></div>
 			</div>
 		</section>
 		<!--End Page Title-->
