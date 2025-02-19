@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FCHS - Beauty Care</title>
+    <title>Beauty Care Services | FCHS</title>
+    <meta name="description" content="Rejuvenate with FCHS beauty care: haircuts, massages, facials, and nail care. Boost confidence and relaxation for seniors. Book your session today.">
     <!-- Stylesheets -->
 
     <link rel="stylesheet" href="lib/bootstrap.css">

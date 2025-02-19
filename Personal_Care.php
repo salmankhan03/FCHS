@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FCHS - Personal Care</title>
+    <title>Personal Care Services | FCHS</title>
+    <meta name="description" content="Get compassionate personal care for your loved ones. Our trained caregivers assist with daily tasks, hygiene, and independence at home. Contact us today!">
     <!-- Stylesheets -->
     <link rel="stylesheet" href="lib/bootstrap.css">
     <!-- <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"> -->

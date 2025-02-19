@@ -1,23 +1,24 @@
 <!DOCTYPE html>
 <html lang="zh">
 <head>
-<meta charset="utf-8">
-<title>FCHS - 關於我們</title>
-<!-- Stylesheets -->
-<link rel="stylesheet" href="lib/bootstrap.css">
-<!-- <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"> -->
-<link href="lib/settings.css" rel="stylesheet" type="text/css">
+    <meta charset="utf-8">
+    <title>關於FCHS | 專業長者護理團隊</title>
+    <meta name="description" content="了解FCHS使命及以人為本服務理念。我們提供安全、尊嚴與自主的個性化護理，深受家庭信賴">
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="lib/bootstrap.css">
+    <!-- <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"> -->
+    <link href="lib/settings.css" rel="stylesheet" type="text/css">
 
-<link href="css/style.css" rel="stylesheet">
-<!-- <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet"> -->
-<link href="lib/responsive.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <!-- <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet"> -->
+    <link href="lib/responsive.css" rel="stylesheet">
 
-<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
-<link rel="icon" href="img/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <link rel="icon" href="img/favicon.png" type="image/x-icon">
 
-<!-- Responsive -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <!-- Responsive -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 </head>
 
 <body>

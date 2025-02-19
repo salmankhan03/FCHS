@@ -3,8 +3,9 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FCHS - 主頁</title>
-    <base href="https://192.168.0.47/FCHS/">
+    <title>FCHS | 長者專業護理及關懷服務</title>
+    <meta name="description" content="FCHS提供全方位長者護理：生活陪伴、個人看護、醫療護理、特殊護理及美容護理。維護尊嚴、自主，打造安心晚年生活。立即了解">
+    <!-- <base href="https://192.168.0.47/FCHS/"> -->
     <!-- Stylesheets -->
 
     <link rel="stylesheet" href="lib/bootstrap.css">
@@ -289,7 +290,7 @@
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-9bc0f40 elementor-widget__width-initial elementor-widget-tablet_extra__width-inherit elementor-widget elementor-widget-text-editor" data-id="9bc0f40" data-element_type="widget" data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container text3">
-                                                                            <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4">需要一個陪伴您，並協助升生活品質的朋友嗎？我們的專業非醫療護理員將提供身體和心靈的支持，讓您感受安心與歡樂的陪伴。
+                                                                            <span class="text3" style="color: var(--grey) !important; font-weight: bold; line-height: 1.4">需要一個陪伴您，並協助提升生活品質的朋友嗎？我們的專業非醫療護理員將提供身體和心靈的支持，讓您感受安心與歡樂的陪伴。
                                                                             </span>
                                                                         </div>
                                                                     </div>

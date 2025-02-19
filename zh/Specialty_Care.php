@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FCHS - 特殊護理</title>
+    <title>長者特殊醫療護理 | FCHS 專業定制方案</title>
+    <meta name="description" content="FCHS為複雜醫療需求長者提供專屬護理，確保安全舒適及生活品質。專業團隊支援，家屬無憂">
     <!-- Stylesheets -->
 
     <link rel="stylesheet" href="lib/bootstrap.css">

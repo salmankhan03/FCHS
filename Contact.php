@@ -3,7 +3,8 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>FCHS - Contact Us</title>
+	<title>Contact FCHS | Richmond Senior Care Support Team</title>
+	<meta name="description" content="Reach FCHS in Richmond, BC, for personalized senior care. Call, email, or visit us to discuss companion, nursing, or beauty services. Fast responses.">
 	<!-- Stylesheets -->
 
 	<link rel="stylesheet" href="lib/bootstrap.css">

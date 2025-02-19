@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FCHS - 個人護理</title>
+    <title>長者個人護理服務 | FCHS 日常支援</title>
+    <meta name="description" content="FCHS個人護理協助沐浴、更衣等日常事務，讓長者維持自主生活。專業護理員貼心支援，預約諮詢請即聯絡">
     <!-- Stylesheets -->
     <link rel="stylesheet" href="lib/bootstrap.css">
     <!-- <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"> -->

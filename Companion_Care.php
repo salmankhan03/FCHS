@@ -3,7 +3,8 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>FCHS - Companion Care</title>
+	<title>Companion Care Services | FCHS</title>
+	<meta name="description" content="FCHS Companion Care offers non-medical support to help seniors thrive emotionally & physically. Foster safety, companionship, and independence. Start today.">
 	<!-- Stylesheets -->
 
 	<link rel="stylesheet" href="lib/bootstrap.css">

@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FCHS - 美容護理</title>
+    <title>長者美容護理服務 | FCHS 尊榮沙龍體驗</title>
+    <meta name="description" content="FCHS沙龍護理含剪髮、按摩、美甲及臉部保養，助長者重拾自信光彩。立即預約，享受煥然新生">
     <!-- Stylesheets -->
 
     <link rel="stylesheet" href="lib/bootstrap.css">

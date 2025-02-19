@@ -1,23 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<title>FCHS - About Us</title>
-<!-- Stylesheets -->
-<link rel="stylesheet" href="lib/bootstrap.css">
-<!-- <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"> -->
-<link href="lib/settings.css" rel="stylesheet" type="text/css">
+    <meta charset="utf-8">
+    <title>About FCHS | Trusted Senior Care Services</title>
+    <meta name="description" content="Discover FCHS’s mission and compassionate care approach. Tailored services for safety, dignity, and independence. Learn why families choose us.">
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="lib/bootstrap.css">
+    <!-- <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"> -->
+    <link href="lib/settings.css" rel="stylesheet" type="text/css">
 
-<link href="css/style.css" rel="stylesheet">
-<!-- <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet"> -->
-<link href="lib/responsive.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <!-- <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet"> -->
+    <link href="lib/responsive.css" rel="stylesheet">
 
-<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
-<link rel="icon" href="img/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <link rel="icon" href="img/favicon.png" type="image/x-icon">
 
-<!-- Responsive -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <!-- Responsive -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 </head>
 
 <body>

@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FCHS - Specialty Care</title>
+    <title>Specialty Care Services | FCHS</title>
+    <meta name="description" content="Personalized specialty care for seniors with specific medical needs. Our trained professionals provide expert support for a safe, confident, and comfortable life.">
     <!-- Stylesheets -->
 
     <link rel="stylesheet" href="lib/bootstrap.css">

@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>FCHS - HOME</title>
+<title>FCHS | Compassionate Senior Care & Nursing Services</title>
+<meta name="description" content="FCHS offers compassionate senior care: companion, personal, nursing, specialty& beauty care. Tailored services for safety, dignity, and independence. Learn more.">
 <!-- Stylesheets -->
 <link rel="stylesheet" href="lib/bootstrap.css">
 <!-- <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"> -->

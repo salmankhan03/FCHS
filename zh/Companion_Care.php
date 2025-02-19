@@ -3,8 +3,9 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>FCHS - 陪伴服務</title>
-	<base href="https://192.168.0.47/FCHS/">
+	<title>長者陪伴服務 | FCHS 情感支持與生活協助</title>
+	<meta name="description" content="FCHS陪伴護理提供非醫療支援，助長者保持活躍獨立。專業護理員提供情感關懷、安全協助及日常陪伴，同步前行。">
+	<!-- <base href="https://192.168.0.47/FCHS/"> -->
 	<!-- Stylesheets -->
 
 	<link rel="stylesheet" href="lib/bootstrap.css">

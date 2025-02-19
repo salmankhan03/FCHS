@@ -3,7 +3,8 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>FCHS - 聯絡我們</title>
+	<title>聯絡FCHS | 長者護理諮詢專線</title>
+	<meta name="description" content="歡迎致電或電郵FCHS，諮詢陪伴、醫療或美容護理服務。專業團隊為您量身定制方案，快速回應">
 	<!-- Stylesheets -->
 
 	<link rel="stylesheet" href="lib/bootstrap.css">

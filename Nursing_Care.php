@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FCHS - Nursing Care</title>
+    <title>Nursing Care Services | FCHS</title>
+    <meta name="description" content="Get expert nursing care for your loved one. Our skilled healthcare professionals provide compassionate, round-the-clock medical and practical support at home.">
     <!-- Stylesheets -->
 
     <link rel="stylesheet" href="lib/bootstrap.css">
@@ -57,7 +58,7 @@
                         <div class="inner-column">
                             <ul class="mission-list">
                                 <li class="text3">In some circumstances, seniors may require round the clock care or more extensive support
-                                    with daily routines. Being able to receive consistent skilled nursing care and one-one-one
+                                    with daily routines. Being able to receive consistent skilled nursing care and one-on-one
                                     medical support is the best option for an improved quality of life. With a tailored care plan and
                                     continuity of compassionate care in a familiar and comfortable environment, you can be
                                     assured that our skilled and trained qualified healthcare professionals are delivering the best
